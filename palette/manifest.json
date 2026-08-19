@@ -1,4532 +1,2702 @@
 [
   {
     "index": 1,
-    "id": "001",
-    "source_file": "00177a3c1d9ea129a6f6c7b080041fad.jpg",
-    "photo_file": "001/photo.jpg",
-    "palette_file": "001/palette.jpg",
+    "slug": "chalk-to-ink",
+    "name": "Chalk to Ink",
+    "category": "abstract",
+    "structure": "inverted",
+    "caption": "Reading top to bottom, it gets quieter. Chalk to Ink —",
     "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#0A0508",
-        "cmyk": "0 50 20 96"
-      },
-      {
-        "name": "Umber",
-        "hex": "#3E3226",
-        "cmyk": "0 19 39 76"
-      },
-      {
-        "name": "Azure",
-        "hex": "#285172",
-        "cmyk": "65 29 0 55"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#C05134",
-        "cmyk": "0 58 73 25"
-      }
-    ],
-    "caption": "Red robe, stone stairs, deep blue sky."
-  },
-  {
-    "index": 2,
-    "id": "002",
-    "source_file": "0056a01efdd598932971486a9c0539b3.jpg",
-    "photo_file": "002/photo.jpg",
-    "palette_file": "002/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#1D1D23",
-        "cmyk": "17 17 0 86"
-      },
-      {
-        "name": "Red",
-        "hex": "#51312E",
-        "cmyk": "0 40 43 68"
-      },
-      {
-        "name": "Azure",
-        "hex": "#345873",
-        "cmyk": "55 23 0 55"
-      },
-      {
-        "name": "Umber",
-        "hex": "#67584A",
-        "cmyk": "0 15 28 60"
-      }
-    ],
-    "caption": "Horse of cream and indigo florals."
-  },
-  {
-    "index": 3,
-    "id": "003",
-    "source_file": "03e507fc9c518da375fb83da9dafcc27.jpg",
-    "photo_file": "003/photo.jpg",
-    "palette_file": "003/palette.jpg",
-    "colors": [
-      {
-        "name": "Red",
-        "hex": "#842218",
-        "cmyk": "0 74 82 48"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#5E7759",
-        "cmyk": "21 0 25 53"
-      },
-      {
-        "name": "Faded Jade",
-        "hex": "#689A8E",
-        "cmyk": "32 0 8 40"
-      },
-      {
-        "name": "Smoked Gold",
-        "hex": "#BFBA9B",
-        "cmyk": "0 3 19 25"
-      }
-    ],
-    "caption": "Red fabric flying past a mint car."
-  },
-  {
-    "index": 4,
-    "id": "004",
-    "source_file": "0679c9a11a95990d1bfb652a008fc6ce.jpg",
-    "photo_file": "004/photo.jpg",
-    "palette_file": "004/palette.jpg",
-    "colors": [
-      {
-        "name": "Cyan",
-        "hex": "#1F5E73",
-        "cmyk": "73 18 0 55"
-      },
-      {
-        "name": "Deep Cyan",
-        "hex": "#528592",
-        "cmyk": "44 9 0 43"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#C39D88",
-        "cmyk": "0 19 30 24"
-      },
-      {
-        "name": "Smoked Cyan",
-        "hex": "#99B7BC",
-        "cmyk": "19 3 0 26"
-      }
-    ],
-    "caption": "Orange doorway in a pale blue wall."
-  },
-  {
-    "index": 5,
-    "id": "005",
-    "source_file": "0770e14f565c5707a41b3b7f1a58df4b.jpg",
-    "photo_file": "005/photo.jpg",
-    "palette_file": "005/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#453C36",
-        "cmyk": "0 13 22 73"
-      },
-      {
-        "name": "Vivid Red",
-        "hex": "#F66F53",
-        "cmyk": "0 55 66 4"
-      },
-      {
-        "name": "Electric Red",
-        "hex": "#FA857C",
-        "cmyk": "0 47 50 2"
-      },
-      {
-        "name": "Signal Orange",
-        "hex": "#F6A74D",
-        "cmyk": "0 32 69 4"
-      }
-    ],
-    "caption": "Someone sitting inside a painted rainbow."
-  },
-  {
-    "index": 6,
-    "id": "006",
-    "source_file": "0b5e5fdb1894bb329eea293a81a2ccda.jpg",
-    "photo_file": "006/photo.jpg",
-    "palette_file": "006/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#120A04",
-        "cmyk": "0 44 78 93"
-      },
-      {
-        "name": "Dark Azure",
-        "hex": "#03274B",
-        "cmyk": "96 48 0 71"
-      },
-      {
-        "name": "Umber",
-        "hex": "#6D210B",
-        "cmyk": "0 70 90 57"
-      },
-      {
-        "name": "Orange",
-        "hex": "#C4A88E",
-        "cmyk": "0 14 28 23"
-      }
-    ],
-    "caption": "White cloak spinning over red grass."
-  },
-  {
-    "index": 7,
-    "id": "007",
-    "source_file": "0d06208c45491029a61f1e569aaafb3b.jpg",
-    "photo_file": "007/photo.jpg",
-    "palette_file": "007/palette.jpg",
-    "colors": [
-      {
-        "name": "Deep Blue",
-        "hex": "#102640",
-        "cmyk": "75 41 0 75"
-      },
-      {
-        "name": "Red",
-        "hex": "#72271F",
-        "cmyk": "0 66 73 55"
-      },
-      {
-        "name": "Blue",
-        "hex": "#426694",
-        "cmyk": "55 31 0 42"
-      },
-      {
-        "name": "Deep Red",
-        "hex": "#AC4A3B",
-        "cmyk": "0 57 66 33"
-      }
-    ],
-    "caption": "Terracotta window, moon over dark sea."
-  },
-  {
-    "index": 8,
-    "id": "008",
-    "source_file": "0e7f0e117321625cfaa8e72dac0be273.jpg",
-    "photo_file": "008/photo.jpg",
-    "palette_file": "008/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#061827",
-        "cmyk": "85 38 0 85"
-      },
-      {
-        "name": "Umber",
-        "hex": "#3F2518",
-        "cmyk": "0 41 62 75"
-      },
-      {
-        "name": "Bark",
-        "hex": "#664725",
-        "cmyk": "0 30 64 60"
-      },
-      {
-        "name": "Cocoa",
-        "hex": "#836835",
-        "cmyk": "0 21 60 49"
-      }
-    ],
-    "caption": "Red dress running across olive grass."
-  },
-  {
-    "index": 9,
-    "id": "009",
-    "source_file": "1160f8be0a8629f6eb8b651cb5a45b19.jpg",
-    "photo_file": "009/photo.jpg",
-    "palette_file": "009/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#0A282F",
-        "cmyk": "79 15 0 82"
-      },
-      {
-        "name": "Umber",
-        "hex": "#582C16",
-        "cmyk": "0 50 75 65"
-      },
-      {
-        "name": "Red",
-        "hex": "#AF3E2F",
-        "cmyk": "0 65 73 31"
-      },
-      {
-        "name": "Smoked Azure",
-        "hex": "#6B8EA4",
-        "cmyk": "35 13 0 36"
-      }
-    ],
-    "caption": "Blue boat between coral and sky."
-  },
-  {
-    "index": 10,
-    "id": "010",
-    "source_file": "1381345d4298bc8766510501c7bea736.jpg",
-    "photo_file": "010/photo.jpg",
-    "palette_file": "010/palette.jpg",
-    "colors": [
-      {
-        "name": "Red",
-        "hex": "#822D1F",
-        "cmyk": "0 65 76 49"
-      },
-      {
-        "name": "Vivid Cyan",
-        "hex": "#027CA4",
-        "cmyk": "99 24 0 36"
-      },
-      {
-        "name": "Deep Red",
-        "hex": "#AC442B",
-        "cmyk": "0 60 75 33"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#D1623D",
-        "cmyk": "0 53 71 18"
-      }
-    ],
-    "caption": "Orange phone booth among desert cactus."
-  },
-  {
-    "index": 11,
-    "id": "011",
-    "source_file": "15ce59c45c3af094c463d1ea0baeecd3.jpg",
-    "photo_file": "011/photo.jpg",
-    "palette_file": "011/palette.jpg",
-    "colors": [
-      {
-        "name": "Blue",
-        "hex": "#3D5174",
-        "cmyk": "47 30 0 55"
-      },
-      {
-        "name": "Muted Indigo",
-        "hex": "#6B7091",
-        "cmyk": "26 23 0 43"
-      },
-      {
-        "name": "Red",
-        "hex": "#B37070",
-        "cmyk": "0 37 37 30"
-      },
-      {
-        "name": "Washed Amber",
-        "hex": "#E2DACC",
-        "cmyk": "0 4 10 11"
-      }
-    ],
-    "caption": "Pink wool trees, boat on lilac water."
-  },
-  {
-    "index": 12,
-    "id": "012",
-    "source_file": "15f01a4756f3c836245c035ecbdc9aa3.jpg",
-    "photo_file": "012/photo.jpg",
-    "palette_file": "012/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#2E3311",
-        "cmyk": "10 0 67 80"
-      },
-      {
-        "name": "Umber",
-        "hex": "#604417",
-        "cmyk": "0 29 76 62"
-      },
-      {
-        "name": "Faded Jade",
-        "hex": "#72968D",
-        "cmyk": "24 0 6 41"
-      },
-      {
-        "name": "Orange",
-        "hex": "#C89B70",
-        "cmyk": "0 23 44 22"
-      }
-    ],
-    "caption": "Blurred flowers sweeping past a still face."
-  },
-  {
-    "index": 13,
-    "id": "013",
-    "source_file": "16744b45ab33712bc4d4b4c8b558ae91.jpg",
-    "photo_file": "013/photo.jpg",
-    "palette_file": "013/palette.jpg",
-    "colors": [
-      {
-        "name": "Red",
-        "hex": "#884037",
-        "cmyk": "0 53 60 47"
-      },
-      {
-        "name": "Muted Red",
-        "hex": "#8C5E58",
-        "cmyk": "0 33 37 45"
-      },
-      {
-        "name": "Faded Vermilion",
-        "hex": "#A88470",
-        "cmyk": "0 21 33 34"
-      },
-      {
-        "name": "Washed Orange",
-        "hex": "#E3D5C7",
-        "cmyk": "0 6 12 11"
-      }
-    ],
-    "caption": "Sand shapes, plum spheres, wine dress."
-  },
-  {
-    "index": 14,
-    "id": "014",
-    "source_file": "16786cef69818046889ed3aca40a022c.jpg",
-    "photo_file": "014/photo.jpg",
-    "palette_file": "014/palette.jpg",
-    "colors": [
-      {
-        "name": "Deep Orchid",
-        "hex": "#382139",
-        "cmyk": "2 42 0 78"
-      },
-      {
-        "name": "Vivid Red",
-        "hex": "#9C140F",
-        "cmyk": "0 87 90 39"
-      },
-      {
-        "name": "Faded Red",
-        "hex": "#9F6867",
-        "cmyk": "0 35 35 38"
-      },
-      {
-        "name": "Signal Vermilion",
-        "hex": "#F2601A",
-        "cmyk": "0 60 89 5"
-      }
-    ],
-    "caption": "Orange sphere behind frosted glass tiles."
-  },
-  {
-    "index": 15,
-    "id": "015",
-    "source_file": "18ac5bcfac95a3edb99862bdcfd047cf.jpg",
-    "photo_file": "015/photo.jpg",
-    "palette_file": "015/palette.jpg",
-    "colors": [
-      {
-        "name": "Dusty Emerald",
-        "hex": "#456E5B",
-        "cmyk": "37 0 17 57"
-      },
-      {
-        "name": "Citron",
-        "hex": "#68802E",
-        "cmyk": "19 0 64 50"
-      },
-      {
-        "name": "Deep Citron",
-        "hex": "#8CA241",
-        "cmyk": "14 0 60 36"
-      },
-      {
-        "name": "Pale Citron",
-        "hex": "#A8BB5B",
-        "cmyk": "10 0 51 27"
-      }
-    ],
-    "caption": "Clouds resting low on green grass."
-  },
-  {
-    "index": 16,
-    "id": "016",
-    "source_file": "1c91c227b729fe73289ce3cb2c3e0666.jpg",
-    "photo_file": "016/photo.jpg",
-    "palette_file": "016/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Blue",
-        "hex": "#0A2782",
-        "cmyk": "92 70 0 49"
-      },
-      {
-        "name": "Stone",
-        "hex": "#797779",
-        "cmyk": "0 2 0 53"
-      },
-      {
-        "name": "Faded Cyan",
-        "hex": "#A8B5B9",
-        "cmyk": "9 2 0 27"
-      },
-      {
-        "name": "Washed Cyan",
-        "hex": "#D6E3E5",
-        "cmyk": "7 1 0 10"
-      }
-    ],
-    "caption": "Cobalt gloves and a cobalt blindfold, everything else white."
-  },
-  {
-    "index": 17,
-    "id": "017",
-    "source_file": "1eb011563c7f46e174cf7d1f5e2225ad.jpg",
-    "photo_file": "017/photo.jpg",
-    "palette_file": "017/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#452B23",
-        "cmyk": "0 38 49 73"
-      },
-      {
-        "name": "Bark",
-        "hex": "#7B582D",
-        "cmyk": "0 28 63 52"
-      },
-      {
-        "name": "Amber",
-        "hex": "#8B704D",
-        "cmyk": "0 19 45 45"
-      },
-      {
-        "name": "Smoked Yellow",
-        "hex": "#A29E77",
-        "cmyk": "0 2 27 36"
-      }
-    ],
-    "caption": "Gold visor holding a whole sky."
-  },
-  {
-    "index": 18,
-    "id": "018",
-    "source_file": "2a74d792ce9b642b4ea90e4127c3779a.jpg",
-    "photo_file": "018/photo.jpg",
-    "palette_file": "018/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#30261A",
-        "cmyk": "0 21 46 81"
-      },
-      {
-        "name": "Azure",
-        "hex": "#135484",
-        "cmyk": "86 36 0 48"
-      },
-      {
-        "name": "Bark",
-        "hex": "#5C4034",
-        "cmyk": "0 30 43 64"
-      },
-      {
-        "name": "Smoked Gold",
-        "hex": "#D3CDBC",
-        "cmyk": "0 3 11 17"
-      }
-    ],
-    "caption": "Red car blurring past white blossom."
-  },
-  {
-    "index": 19,
-    "id": "019",
-    "source_file": "2d5bd46acb9fe9d77ce6e5c8edf99d2f.jpg",
-    "photo_file": "019/photo.jpg",
-    "palette_file": "019/palette.jpg",
-    "colors": [
-      {
-        "name": "Orange",
-        "hex": "#915A33",
-        "cmyk": "0 38 65 43"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#B5654C",
-        "cmyk": "0 44 58 29"
-      },
-      {
-        "name": "Deep Vermilion",
-        "hex": "#CE8569",
-        "cmyk": "0 35 49 19"
-      },
-      {
-        "name": "Amber",
-        "hex": "#D8BE91",
-        "cmyk": "0 12 33 15"
-      }
-    ],
-    "caption": "Pink hills, crimson blooms, pale sky."
-  },
-  {
-    "index": 20,
-    "id": "020",
-    "source_file": "2e5cca72ee36ff18b988ff5d356f65ef.jpg",
-    "photo_file": "020/photo.jpg",
-    "palette_file": "020/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#210508",
-        "cmyk": "0 85 76 87"
-      },
-      {
-        "name": "Crimson",
-        "hex": "#4D1112",
-        "cmyk": "0 78 77 70"
-      },
-      {
-        "name": "Dark Slate",
-        "hex": "#212D1F",
-        "cmyk": "27 0 31 82"
-      },
-      {
-        "name": "Charcoal",
-        "hex": "#546E52",
-        "cmyk": "24 0 25 57"
-      }
-    ],
-    "caption": "Deep red fabric in green grass."
-  },
-  {
-    "index": 21,
-    "id": "021",
-    "source_file": "2e9b3836e60c147d1a1c639f5f2409f4.jpg",
-    "photo_file": "021/photo.jpg",
-    "palette_file": "021/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Vermilion",
-        "hex": "#C64013",
-        "cmyk": "0 68 90 22"
-      },
-      {
-        "name": "Muted Jade",
-        "hex": "#59938A",
-        "cmyk": "39 0 6 42"
-      },
-      {
-        "name": "Electric Orange",
-        "hex": "#D07611",
-        "cmyk": "0 43 92 18"
-      },
-      {
-        "name": "Amber",
-        "hex": "#D2BEA5",
-        "cmyk": "0 10 21 18"
-      }
-    ],
-    "caption": "Orange clouds over a teal wall."
-  },
-  {
-    "index": 22,
-    "id": "022",
-    "source_file": "2ec2361a6816b6d35da481e225b64f03.jpg",
-    "photo_file": "022/photo.jpg",
-    "palette_file": "022/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Crimson",
-        "hex": "#6B0B11",
-        "cmyk": "0 90 84 58"
-      },
-      {
-        "name": "Red",
-        "hex": "#CA4C4C",
-        "cmyk": "0 62 62 21"
-      },
-      {
-        "name": "Oat",
-        "hex": "#AFADA2",
-        "cmyk": "0 1 7 31"
-      },
-      {
-        "name": "Washed Citron",
-        "hex": "#E7E8E1",
-        "cmyk": "0 0 3 9"
-      }
-    ],
-    "caption": "Red knight on checkered floor."
-  },
-  {
-    "index": 23,
-    "id": "023",
-    "source_file": "31c2245c27a7cebfaf780effb2951447.jpg",
-    "photo_file": "023/photo.jpg",
-    "palette_file": "023/palette.jpg",
-    "colors": [
-      {
-        "name": "Deep Citron",
-        "hex": "#2F3219",
-        "cmyk": "6 0 50 80"
-      },
-      {
-        "name": "Muted Azure",
-        "hex": "#4B6271",
-        "cmyk": "34 13 0 56"
-      },
-      {
-        "name": "Umber",
-        "hex": "#6A6228",
-        "cmyk": "0 8 62 58"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#DF632F",
-        "cmyk": "0 56 79 13"
-      }
-    ],
-    "caption": "Small boat, orange water, green fans."
-  },
-  {
-    "index": 24,
-    "id": "024",
-    "source_file": "390b4614bb1a601e0e9514e8fd3c2faa.jpg",
-    "photo_file": "024/photo.jpg",
-    "palette_file": "024/palette.jpg",
-    "colors": [
-      {
-        "name": "Azure",
-        "hex": "#2364A5",
-        "cmyk": "79 39 0 35"
-      },
-      {
-        "name": "Deep Azure",
-        "hex": "#3C85BC",
-        "cmyk": "68 29 0 26"
-      },
-      {
-        "name": "Faded Orange",
-        "hex": "#C1AE99",
-        "cmyk": "0 10 21 24"
-      },
-      {
-        "name": "Washed Yellow",
-        "hex": "#DEDED5",
-        "cmyk": "0 0 4 13"
-      }
-    ],
-    "caption": "Yellow door, yellow tree, white wall."
-  },
-  {
-    "index": 25,
-    "id": "025",
-    "source_file": "399600b8745bae10bab6b012bc2453aa.jpg",
-    "photo_file": "025/photo.jpg",
-    "palette_file": "025/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#1A161B",
-        "cmyk": "4 19 0 89"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#2E4440",
-        "cmyk": "32 0 6 73"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#AB5B41",
-        "cmyk": "0 47 62 33"
-      },
-      {
-        "name": "Bone",
-        "hex": "#E0DCDA",
-        "cmyk": "0 2 3 12"
-      }
-    ],
-    "caption": "Ball resting where clay meets green."
-  },
-  {
-    "index": 26,
-    "id": "026",
-    "source_file": "40dcd3549b0986ae2eb4eb229b854f91.jpg",
-    "photo_file": "026/photo.jpg",
-    "palette_file": "026/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#080A2B",
-        "cmyk": "81 77 0 83"
-      },
-      {
-        "name": "Vivid Indigo",
-        "hex": "#0D1266",
-        "cmyk": "87 82 0 60"
-      },
-      {
-        "name": "Light Indigo",
-        "hex": "#BDC1ED",
-        "cmyk": "20 19 0 7"
-      },
-      {
-        "name": "Washed Blue",
-        "hex": "#FAFBFE",
-        "cmyk": "2 1 0 0"
-      }
-    ],
-    "caption": "Navy sphere behind pale glass ribs."
-  },
-  {
-    "index": 27,
-    "id": "027",
-    "source_file": "4306fa01d7ecdbdb70ddc898665daed8.jpg",
-    "photo_file": "027/photo.jpg",
-    "palette_file": "027/palette.jpg",
-    "colors": [
-      {
-        "name": "Charcoal",
-        "hex": "#3E4243",
-        "cmyk": "7 1 0 74"
-      },
-      {
-        "name": "Umber",
-        "hex": "#7D4714",
-        "cmyk": "0 43 84 51"
-      },
-      {
-        "name": "Bark",
-        "hex": "#A75D0B",
-        "cmyk": "0 44 93 35"
-      },
-      {
-        "name": "Signal Gold",
-        "hex": "#F9BD09",
-        "cmyk": "0 24 96 2"
-      }
-    ],
-    "caption": "Yellow smoke rising off grey."
-  },
-  {
-    "index": 28,
-    "id": "028",
-    "source_file": "4c27e4df9e1daab5385fb34186eaf654.jpg",
-    "photo_file": "028/photo.jpg",
-    "palette_file": "028/palette.jpg",
-    "colors": [
-      {
-        "name": "Blue",
-        "hex": "#303E67",
-        "cmyk": "53 40 0 60"
-      },
-      {
-        "name": "Vivid Red",
-        "hex": "#DA0303",
-        "cmyk": "0 99 99 15"
-      },
-      {
-        "name": "Electric Gold",
-        "hex": "#F3C70B",
-        "cmyk": "0 18 95 5"
-      },
-      {
-        "name": "Orange",
-        "hex": "#DECBBA",
-        "cmyk": "0 9 16 13"
-      }
-    ],
-    "caption": "White stairs between red and yellow."
-  },
-  {
-    "index": 29,
-    "id": "029",
-    "source_file": "4d76bf9a3566ee70fcd6d6b29b6eafbc.jpg",
-    "photo_file": "029/photo.jpg",
-    "palette_file": "029/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#251814",
-        "cmyk": "0 35 46 85"
-      },
-      {
-        "name": "Red",
-        "hex": "#9C2618",
-        "cmyk": "0 76 85 39"
-      },
-      {
-        "name": "Cyan",
-        "hex": "#225769",
-        "cmyk": "68 17 0 59"
-      },
-      {
-        "name": "Deep Cyan",
-        "hex": "#3B727E",
-        "cmyk": "53 10 0 51"
-      }
-    ],
-    "caption": "Red wall, turquoise sea, pale cliff."
-  },
-  {
-    "index": 30,
-    "id": "030",
-    "source_file": "50751d7993aaec4389e304ec3866f7e2.jpg",
-    "photo_file": "030/photo.jpg",
-    "palette_file": "030/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#15100C",
-        "cmyk": "0 24 43 92"
-      },
-      {
-        "name": "Red",
-        "hex": "#521310",
-        "cmyk": "0 77 80 68"
-      },
-      {
-        "name": "Umber",
-        "hex": "#544524",
-        "cmyk": "0 18 57 67"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#CEB4A9",
-        "cmyk": "0 13 18 19"
-      }
-    ],
-    "caption": "Red ladder in a dense garden."
-  },
-  {
-    "index": 31,
-    "id": "031",
-    "source_file": "50998f98262df2514f5e679f10032aee.jpg",
-    "photo_file": "031/photo.jpg",
-    "palette_file": "031/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#131815",
-        "cmyk": "21 0 12 91"
-      },
-      {
-        "name": "Muted Citron",
-        "hex": "#3D422A",
-        "cmyk": "8 0 36 74"
-      },
-      {
-        "name": "Blue",
-        "hex": "#345890",
-        "cmyk": "64 39 0 44"
-      },
-      {
-        "name": "Yellow",
-        "hex": "#64663B",
-        "cmyk": "2 0 42 60"
-      }
-    ],
-    "caption": "Terracotta pool, blue water, dark cypress."
-  },
-  {
-    "index": 32,
-    "id": "032",
-    "source_file": "5118c949fb2a0b3f700c4f55bf6e6a88.jpg",
-    "photo_file": "032/photo.jpg",
-    "palette_file": "032/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#534C2E",
-        "cmyk": "0 8 45 67"
-      },
-      {
-        "name": "Bark",
-        "hex": "#8E541F",
-        "cmyk": "0 41 78 44"
-      },
-      {
-        "name": "Azure",
-        "hex": "#7496B2",
-        "cmyk": "35 16 0 30"
-      },
-      {
-        "name": "Deep Azure",
-        "hex": "#C0D4DF",
-        "cmyk": "14 5 0 13"
-      }
-    ],
-    "caption": "Orange tree framed by ochre arch."
-  },
-  {
-    "index": 33,
-    "id": "033",
-    "source_file": "52f3cb300a93350be77cdfeba9ed57d2.jpg",
-    "photo_file": "033/photo.jpg",
-    "palette_file": "033/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Crimson",
-        "hex": "#BA0509",
-        "cmyk": "0 97 95 27"
-      },
-      {
-        "name": "Vivid Red",
-        "hex": "#E80706",
-        "cmyk": "0 97 97 9"
-      },
-      {
-        "name": "Electric Teal",
-        "hex": "#02807E",
-        "cmyk": "98 0 2 50"
-      },
-      {
-        "name": "Pearl",
-        "hex": "#DCDEDE",
-        "cmyk": "1 0 0 13"
-      }
-    ],
-    "caption": "Two painted geese on teal."
-  },
-  {
-    "index": 34,
-    "id": "034",
-    "source_file": "5321bd8320a0b6de393242260928e59f.jpg",
-    "photo_file": "034/photo.jpg",
-    "palette_file": "034/palette.jpg",
-    "colors": [
-      {
-        "name": "Lime",
-        "hex": "#344A1D",
-        "cmyk": "30 0 61 71"
-      },
-      {
-        "name": "Deep Lime",
-        "hex": "#62753E",
-        "cmyk": "16 0 47 54"
-      },
-      {
-        "name": "Faded Lime",
-        "hex": "#84A061",
-        "cmyk": "17 0 39 37"
-      },
-      {
-        "name": "Azure",
-        "hex": "#85B3CC",
-        "cmyk": "35 12 0 20"
-      }
-    ],
-    "caption": "Pink blossom hills, soft green slopes."
-  },
-  {
-    "index": 35,
-    "id": "035",
-    "source_file": "53e1541b003f695a9aed8194e1769984.jpg",
-    "photo_file": "035/photo.jpg",
-    "palette_file": "035/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#060638",
-        "cmyk": "89 89 0 78"
-      },
-      {
-        "name": "Blue",
-        "hex": "#1A4182",
-        "cmyk": "80 50 0 49"
-      },
-      {
-        "name": "Deep Blue",
-        "hex": "#3C5399",
-        "cmyk": "61 46 0 40"
-      },
-      {
-        "name": "Smoked Violet",
-        "hex": "#6A64A1",
-        "cmyk": "34 38 0 37"
-      }
-    ],
-    "caption": "Deep blue dusk over yellow blooms."
-  },
-  {
-    "index": 36,
-    "id": "036",
-    "source_file": "56f2142ac828928af14dbfd192e74c1e.jpg",
-    "photo_file": "036/photo.jpg",
-    "palette_file": "036/palette.jpg",
-    "colors": [
-      {
-        "name": "Red",
-        "hex": "#592219",
-        "cmyk": "0 62 72 65"
-      },
-      {
-        "name": "Dark Taupe",
-        "hex": "#35322D",
-        "cmyk": "0 6 15 79"
-      },
-      {
-        "name": "Faded Blue",
-        "hex": "#4A5578",
-        "cmyk": "38 29 0 53"
-      },
-      {
-        "name": "Blue",
-        "hex": "#6887BE",
-        "cmyk": "45 29 0 25"
-      }
-    ],
-    "caption": "Glowing orange sphere in a stream."
-  },
-  {
-    "index": 37,
-    "id": "037",
-    "source_file": "677ca7191e0776365b50070852ebce9b.jpg",
-    "photo_file": "037/photo.jpg",
-    "palette_file": "037/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#4C4A34",
-        "cmyk": "0 3 32 70"
-      },
-      {
-        "name": "Dark Taupe",
-        "hex": "#6E654D",
-        "cmyk": "0 8 30 57"
-      },
-      {
-        "name": "Ash",
-        "hex": "#9CA7A7",
-        "cmyk": "7 0 0 35"
-      },
-      {
-        "name": "Washed Amber",
-        "hex": "#F1E2CD",
-        "cmyk": "0 6 15 5"
-      }
-    ],
-    "caption": "Mint curves, sand floor, yellow spheres."
-  },
-  {
-    "index": 38,
-    "id": "038",
-    "source_file": "6aaf7096cdd40629c853dd65e8f3e4e0.jpg",
-    "photo_file": "038/photo.jpg",
-    "palette_file": "038/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Cyan",
-        "hex": "#045A81",
-        "cmyk": "97 30 0 49"
-      },
-      {
-        "name": "Cyan",
-        "hex": "#36505A",
-        "cmyk": "40 11 0 65"
-      },
-      {
-        "name": "Red",
-        "hex": "#A63E2B",
-        "cmyk": "0 63 74 35"
-      },
-      {
-        "name": "Washed Gold",
-        "hex": "#E0DAC3",
-        "cmyk": "0 3 13 12"
-      }
-    ],
-    "caption": "Rust shrubs around a blue pool."
-  },
-  {
-    "index": 39,
-    "id": "039",
-    "source_file": "72aa35f7b35fd3badd4f7b1bed055d84.jpg",
-    "photo_file": "039/photo.jpg",
-    "palette_file": "039/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#191314",
-        "cmyk": "0 24 20 90"
-      },
-      {
-        "name": "Vivid Crimson",
-        "hex": "#AA0215",
-        "cmyk": "0 99 88 33"
-      },
-      {
-        "name": "Faded Red",
-        "hex": "#D0B8B6",
-        "cmyk": "0 12 12 18"
-      },
-      {
-        "name": "Washed Orange",
-        "hex": "#DFDBD8",
-        "cmyk": "0 2 3 13"
-      }
-    ],
-    "caption": "Black coat on red checkerboard."
-  },
-  {
-    "index": 40,
-    "id": "040",
-    "source_file": "73781c41c6858619aa4566d39830d870.jpg",
-    "photo_file": "040/photo.jpg",
-    "palette_file": "040/palette.jpg",
-    "colors": [
-      {
-        "name": "Cyan",
-        "hex": "#157E90",
-        "cmyk": "85 12 0 44"
-      },
-      {
-        "name": "Muted Cyan",
-        "hex": "#6898A1",
-        "cmyk": "35 6 0 37"
-      },
-      {
-        "name": "Oat",
-        "hex": "#9B9790",
-        "cmyk": "0 3 7 39"
-      },
-      {
-        "name": "Linen",
-        "hex": "#CEC9C5",
-        "cmyk": "0 2 4 19"
-      }
-    ],
-    "caption": "Red umbrella above white cliff."
-  },
-  {
-    "index": 41,
-    "id": "041",
-    "source_file": "7437b84bc3bb12721155eaf85a1871a2.jpg",
-    "photo_file": "041/photo.jpg",
-    "palette_file": "041/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#110903",
-        "cmyk": "0 47 82 93"
-      },
-      {
-        "name": "Vivid Cyan",
-        "hex": "#064860",
-        "cmyk": "94 25 0 62"
-      },
-      {
-        "name": "Umber",
-        "hex": "#79230C",
-        "cmyk": "0 71 90 53"
-      },
-      {
-        "name": "Bark",
-        "hex": "#625222",
-        "cmyk": "0 16 65 62"
-      }
-    ],
-    "caption": "Rust robe running through gold grass."
-  },
-  {
-    "index": 42,
-    "id": "042",
-    "source_file": "75a7216cfbada1126c97934c65abe7b2.jpg",
-    "photo_file": "042/photo.jpg",
-    "palette_file": "042/palette.jpg",
-    "colors": [
-      {
-        "name": "Azure",
-        "hex": "#35628F",
-        "cmyk": "63 31 0 44"
-      },
-      {
-        "name": "Rose",
-        "hex": "#AA6A7B",
-        "cmyk": "0 38 28 33"
-      },
-      {
-        "name": "Deep Rose",
-        "hex": "#C689A3",
-        "cmyk": "0 31 18 22"
-      },
-      {
-        "name": "Blue",
-        "hex": "#92A1C5",
-        "cmyk": "26 18 0 23"
-      }
-    ],
-    "caption": "Pink fur coat, blue backdrop."
-  },
-  {
-    "index": 43,
-    "id": "043",
-    "source_file": "75bbcb7407bb616f057488b8d7a5f229.jpg",
-    "photo_file": "043/photo.jpg",
-    "palette_file": "043/palette.jpg",
-    "colors": [
-      {
-        "name": "Deep Crimson",
-        "hex": "#4C0405",
-        "cmyk": "0 95 93 70"
-      },
-      {
-        "name": "Muted Vermilion",
-        "hex": "#867066",
-        "cmyk": "0 16 24 47"
-      },
-      {
-        "name": "Faded Orange",
-        "hex": "#AB9B8D",
-        "cmyk": "0 9 18 33"
-      },
-      {
-        "name": "Smoked Orange",
-        "hex": "#C6BFB8",
-        "cmyk": "0 4 7 22"
-      }
-    ],
-    "caption": "Bird feathers in cream and wine."
-  },
-  {
-    "index": 44,
-    "id": "044",
-    "source_file": "75f42b64d9d932d432f9e659a5bb0c5d.jpg",
-    "photo_file": "044/photo.jpg",
-    "palette_file": "044/palette.jpg",
-    "colors": [
-      {
-        "name": "Charcoal",
-        "hex": "#424242",
-        "cmyk": "0 0 0 74"
-      },
-      {
-        "name": "Clay Grey",
-        "hex": "#949492",
-        "cmyk": "0 0 1 42"
-      },
-      {
-        "name": "Oat",
-        "hex": "#ACACAB",
-        "cmyk": "0 0 1 33"
-      },
       {
         "name": "Chalk",
-        "hex": "#E5E5E5",
-        "cmyk": "0 0 0 10"
-      }
-    ],
-    "caption": "Grey stone head, pale sand."
-  },
-  {
-    "index": 45,
-    "id": "045",
-    "source_file": "7844c19e563953730f2e88e26364fd43.jpg",
-    "photo_file": "045/photo.jpg",
-    "palette_file": "045/palette.jpg",
-    "colors": [
-      {
-        "name": "Blue",
-        "hex": "#355C93",
-        "cmyk": "64 37 0 42"
-      },
-      {
-        "name": "Deep Blue",
-        "hex": "#527CB3",
-        "cmyk": "54 31 0 30"
-      },
-      {
-        "name": "Pale Blue",
-        "hex": "#7099CB",
-        "cmyk": "45 25 0 20"
-      },
-      {
-        "name": "Silver",
-        "hex": "#BFC1C4",
-        "cmyk": "3 2 0 23"
-      }
-    ],
-    "caption": "Blue tennis balls floating in grey."
-  },
-  {
-    "index": 46,
-    "id": "046",
-    "source_file": "78903dd5b7fe32eb7998b87c59561fe3.jpg",
-    "photo_file": "046/photo.jpg",
-    "palette_file": "046/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#5E5528",
-        "cmyk": "0 10 57 63"
-      },
-      {
-        "name": "Cyan",
-        "hex": "#226685",
-        "cmyk": "74 23 0 48"
-      },
-      {
-        "name": "Azure",
-        "hex": "#528BA6",
-        "cmyk": "51 16 0 35"
-      },
-      {
-        "name": "Deep Cyan",
-        "hex": "#86B9CA",
-        "cmyk": "34 8 0 21"
-      }
-    ],
-    "caption": "Red house, green field, clear sky."
-  },
-  {
-    "index": 47,
-    "id": "047",
-    "source_file": "790d3028e23cca52b6936cee89a13267.jpg",
-    "photo_file": "047/photo.jpg",
-    "palette_file": "047/palette.jpg",
-    "colors": [
-      {
-        "name": "Blue",
-        "hex": "#14307D",
-        "cmyk": "84 62 0 51"
-      },
-      {
-        "name": "Deep Blue",
-        "hex": "#2048A6",
-        "cmyk": "81 57 0 35"
-      },
-      {
-        "name": "Dark Slate",
-        "hex": "#63655E",
-        "cmyk": "2 0 7 60"
-      },
-      {
-        "name": "Smoked Blue",
-        "hex": "#AFB5BF",
-        "cmyk": "8 5 0 25"
-      }
-    ],
-    "caption": "Blue butterflies over a blueberry shirt."
-  },
-  {
-    "index": 48,
-    "id": "048",
-    "source_file": "7a27f12f797dc565cdbdc56c32b05bd6.jpg",
-    "photo_file": "048/photo.jpg",
-    "palette_file": "048/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#031522",
-        "cmyk": "91 38 0 87"
-      },
-      {
-        "name": "Vivid Azure",
-        "hex": "#04385E",
-        "cmyk": "96 40 0 63"
-      },
-      {
-        "name": "Electric Gold",
-        "hex": "#EDB70A",
-        "cmyk": "0 23 96 7"
-      },
-      {
-        "name": "Gold",
-        "hex": "#E2D6B7",
-        "cmyk": "0 5 19 11"
-      }
-    ],
-    "caption": "Lemons on navy checkered tile."
-  },
-  {
-    "index": 49,
-    "id": "049",
-    "source_file": "81be2aeaf8155ebfdfc2618830212fb1.jpg",
-    "photo_file": "049/photo.jpg",
-    "palette_file": "049/palette.jpg",
-    "colors": [
-      {
-        "name": "Indigo",
-        "hex": "#15164E",
-        "cmyk": "73 72 0 69"
-      },
-      {
-        "name": "Deep Indigo",
-        "hex": "#162995",
-        "cmyk": "85 72 0 42"
-      },
-      {
-        "name": "Blue",
-        "hex": "#2043BE",
-        "cmyk": "83 65 0 25"
-      },
-      {
-        "name": "Signal Red",
-        "hex": "#F7472D",
-        "cmyk": "0 71 82 3"
-      }
-    ],
-    "caption": "Cobalt ruffles on burnt orange."
-  },
-  {
-    "index": 50,
-    "id": "050",
-    "source_file": "851db541e200610531b766a528514fc7.jpg",
-    "photo_file": "050/photo.jpg",
-    "palette_file": "050/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#231D11",
-        "cmyk": "0 17 51 86"
-      },
-      {
-        "name": "Citron",
-        "hex": "#3A4023",
-        "cmyk": "9 0 45 75"
-      },
-      {
-        "name": "Deep Citron",
-        "hex": "#565E31",
-        "cmyk": "9 0 48 63"
-      },
-      {
-        "name": "Signal Red",
-        "hex": "#DB3C1E",
-        "cmyk": "0 73 86 14"
-      }
-    ],
-    "caption": "Red wall, green leaves, yellow blooms."
-  },
-  {
-    "index": 51,
-    "id": "051",
-    "source_file": "864870fc3a2ee73f8d8ac4ae7d9a0660.jpg",
-    "photo_file": "051/photo.jpg",
-    "palette_file": "051/palette.jpg",
-    "colors": [
-      {
-        "name": "Deep Green",
-        "hex": "#1F2F1C",
-        "cmyk": "34 0 40 82"
-      },
-      {
-        "name": "Citron",
-        "hex": "#656E42",
-        "cmyk": "8 0 40 57"
-      },
-      {
-        "name": "Faded Cyan",
-        "hex": "#92AFB7",
-        "cmyk": "20 4 0 28"
-      },
-      {
-        "name": "Orange",
-        "hex": "#E5CDB7",
-        "cmyk": "0 10 20 10"
-      }
-    ],
-    "caption": "Green fringe under a fringed tree."
-  },
-  {
-    "index": 52,
-    "id": "052",
-    "source_file": "86d865e2940dfd1b572f354e8ca731f2.jpg",
-    "photo_file": "052/photo.jpg",
-    "palette_file": "052/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#0C2C20",
-        "cmyk": "73 0 27 83"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#3B2A2A",
-        "cmyk": "0 29 29 77"
-      },
-      {
-        "name": "Electric Azure",
-        "hex": "#054888",
-        "cmyk": "96 47 0 47"
-      },
-      {
-        "name": "Red",
-        "hex": "#8B231F",
-        "cmyk": "0 75 78 45"
-      }
-    ],
-    "caption": "White castle above red hills."
-  },
-  {
-    "index": 53,
-    "id": "053",
-    "source_file": "8b3a8a2c553dcb5f563fa978169ef9e3.jpg",
-    "photo_file": "053/photo.jpg",
-    "palette_file": "053/palette.jpg",
-    "colors": [
-      {
-        "name": "Charcoal",
-        "hex": "#1F2E20",
-        "cmyk": "33 0 30 82"
-      },
-      {
-        "name": "Vivid Vermilion",
-        "hex": "#E55207",
-        "cmyk": "0 64 97 10"
-      },
-      {
-        "name": "Orange",
-        "hex": "#BFA689",
-        "cmyk": "0 13 28 25"
-      },
-      {
-        "name": "Amber",
-        "hex": "#DECCAE",
-        "cmyk": "0 8 22 13"
-      }
-    ],
-    "caption": "Orange and teal on cream clouds."
-  },
-  {
-    "index": 54,
-    "id": "054",
-    "source_file": "8b47e574fab0b20c4ac83120b72d3278.jpg",
-    "photo_file": "054/photo.jpg",
-    "palette_file": "054/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#060403",
-        "cmyk": "0 33 50 98"
-      },
-      {
-        "name": "Dark Taupe",
-        "hex": "#6C6865",
-        "cmyk": "0 4 6 58"
-      },
-      {
-        "name": "Faded Amber",
-        "hex": "#9C9383",
-        "cmyk": "0 6 16 39"
-      },
-      {
-        "name": "Signal Amber",
-        "hex": "#F3910A",
-        "cmyk": "0 40 96 5"
-      }
-    ],
-    "caption": "Orange glow bleeding through grey stripes."
-  },
-  {
-    "index": 55,
-    "id": "055",
-    "source_file": "8b75f63778be54bd07ac3d1d645ac1d5.jpg",
-    "photo_file": "055/photo.jpg",
-    "palette_file": "055/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#261715",
-        "cmyk": "0 39 45 85"
-      },
-      {
-        "name": "Umber",
-        "hex": "#553120",
-        "cmyk": "0 42 62 67"
-      },
-      {
-        "name": "Faded Cyan",
-        "hex": "#708D91",
-        "cmyk": "23 3 0 43"
-      },
-      {
-        "name": "Smoked Jade",
-        "hex": "#98ADAA",
-        "cmyk": "12 0 2 32"
-      }
-    ],
-    "caption": "Balloons over dry brown grass."
-  },
-  {
-    "index": 56,
-    "id": "056",
-    "source_file": "8e4b6b16982944eea6e6369968d8d179.jpg",
-    "photo_file": "056/photo.jpg",
-    "palette_file": "056/palette.jpg",
-    "colors": [
-      {
-        "name": "Charcoal",
-        "hex": "#243021",
-        "cmyk": "25 0 31 81"
-      },
-      {
-        "name": "Vivid Red",
-        "hex": "#9E1409",
-        "cmyk": "0 87 94 38"
-      },
-      {
-        "name": "Electric Red",
-        "hex": "#C32A0F",
-        "cmyk": "0 78 92 24"
-      },
-      {
-        "name": "Citron",
-        "hex": "#B0B873",
-        "cmyk": "4 0 38 28"
-      }
-    ],
-    "caption": "Pale stairs between red and green."
-  },
-  {
-    "index": 57,
-    "id": "057",
-    "source_file": "92231355f9a3b8977350358ab9738033.jpg",
-    "photo_file": "057/photo.jpg",
-    "palette_file": "057/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#1C1D1D",
-        "cmyk": "3 0 0 89"
-      },
-      {
-        "name": "Vivid Azure",
-        "hex": "#167DDA",
-        "cmyk": "90 43 0 15"
-      },
-      {
-        "name": "Azure",
-        "hex": "#4C89CE",
-        "cmyk": "63 33 0 19"
-      },
-      {
-        "name": "Washed Amber",
-        "hex": "#E8E4DD",
-        "cmyk": "0 2 5 9"
-      }
-    ],
-    "caption": "White tulips, bright blue everywhere."
-  },
-  {
-    "index": 58,
-    "id": "058",
-    "source_file": "939255d8f8bc643b67af248624f051a5.jpg",
-    "photo_file": "058/photo.jpg",
-    "palette_file": "058/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#1D1513",
-        "cmyk": "0 28 34 89"
-      },
-      {
-        "name": "Crimson",
-        "hex": "#863A3E",
-        "cmyk": "0 57 54 47"
-      },
-      {
-        "name": "Red",
-        "hex": "#9F5F5E",
-        "cmyk": "0 40 41 38"
-      },
-      {
-        "name": "Ash",
-        "hex": "#939B8F",
-        "cmyk": "5 0 8 39"
-      }
-    ],
-    "caption": "Pink fins drifting past a black coat."
-  },
-  {
-    "index": 59,
-    "id": "059",
-    "source_file": "96dbb64083246da3668301147f3b0be1.jpg",
-    "photo_file": "059/photo.jpg",
-    "palette_file": "059/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#121416",
-        "cmyk": "18 9 0 91"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#3B4A3D",
-        "cmyk": "20 0 18 71"
-      },
-      {
-        "name": "Dark Slate",
-        "hex": "#586F53",
-        "cmyk": "21 0 25 56"
-      },
-      {
-        "name": "Signal Yellow",
-        "hex": "#FEFF1D",
-        "cmyk": "0 0 89 0"
-      }
-    ],
-    "caption": "Dark bust on flat yellow."
-  },
-  {
-    "index": 60,
-    "id": "060",
-    "source_file": "99e04e2c03762602ac70a4dc5a84eae9.jpg",
-    "photo_file": "060/photo.jpg",
-    "palette_file": "060/palette.jpg",
-    "colors": [
-      {
-        "name": "Violet",
-        "hex": "#28234D",
-        "cmyk": "48 55 0 70"
-      },
-      {
-        "name": "Deep Violet",
-        "hex": "#413878",
-        "cmyk": "46 53 0 53"
-      },
-      {
-        "name": "Red",
-        "hex": "#AA2D29",
-        "cmyk": "0 74 76 33"
-      },
-      {
-        "name": "Smoked Rose",
-        "hex": "#CDBABF",
-        "cmyk": "0 9 7 20"
-      }
-    ],
-    "caption": "Blurred red tree, violet sky."
-  },
-  {
-    "index": 61,
-    "id": "061",
-    "source_file": "9a244522293702f7dd151388ebdbfa60.jpg",
-    "photo_file": "061/photo.jpg",
-    "palette_file": "061/palette.jpg",
-    "colors": [
-      {
-        "name": "Dusty Crimson",
-        "hex": "#A77174",
-        "cmyk": "0 32 31 35"
-      },
-      {
-        "name": "Crimson",
-        "hex": "#D29399",
-        "cmyk": "0 30 27 18"
-      },
-      {
-        "name": "Deep Crimson",
-        "hex": "#EDAEB9",
-        "cmyk": "0 27 22 7"
-      },
-      {
-        "name": "Washed Blue",
-        "hex": "#D5D8DC",
-        "cmyk": "3 2 0 14"
-      }
-    ],
-    "caption": "A white van in pink hills."
-  },
-  {
-    "index": 62,
-    "id": "062",
-    "source_file": "9b460464017ec21ac456c1c97514081a.jpg",
-    "photo_file": "062/photo.jpg",
-    "palette_file": "062/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#7D3511",
-        "cmyk": "0 58 86 51"
-      },
-      {
-        "name": "Red",
-        "hex": "#BF2D27",
-        "cmyk": "0 76 80 25"
-      },
-      {
-        "name": "Dark Slate",
-        "hex": "#7C5F56",
-        "cmyk": "0 23 31 51"
-      },
-      {
-        "name": "Deep Red",
-        "hex": "#D14E3D",
-        "cmyk": "0 63 71 18"
-      }
-    ],
-    "caption": "Coral suit walking through gold scrub."
-  },
-  {
-    "index": 63,
-    "id": "063",
-    "source_file": "9e7386f0f70ba405daed8f457957ce74.jpg",
-    "photo_file": "063/photo.jpg",
-    "palette_file": "063/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#041415",
-        "cmyk": "81 5 0 92"
-      },
-      {
-        "name": "Vivid Red",
-        "hex": "#5E0D07",
-        "cmyk": "0 86 93 63"
-      },
-      {
-        "name": "Electric Azure",
-        "hex": "#0A3159",
-        "cmyk": "89 45 0 65"
-      },
-      {
-        "name": "Azure",
-        "hex": "#315473",
-        "cmyk": "57 27 0 55"
-      }
-    ],
-    "caption": "Red wall, one cloud, still water."
-  },
-  {
-    "index": 64,
-    "id": "064",
-    "source_file": "9f49f8066b25a9e621a5022a6021f825.jpg",
-    "photo_file": "064/photo.jpg",
-    "palette_file": "064/palette.jpg",
-    "colors": [
-      {
-        "name": "Deep Citron",
-        "hex": "#343820",
-        "cmyk": "7 0 43 78"
-      },
-      {
-        "name": "Umber",
-        "hex": "#6D6743",
-        "cmyk": "0 6 39 57"
-      },
-      {
-        "name": "Crimson",
-        "hex": "#B67A7C",
-        "cmyk": "0 33 32 29"
-      },
-      {
-        "name": "Deep Crimson",
-        "hex": "#D5A1A9",
-        "cmyk": "0 24 21 16"
-      }
-    ],
-    "caption": "Pink coat deep in tall grass."
-  },
-  {
-    "index": 65,
-    "id": "065",
-    "source_file": "Gemini_Generated_Image_1fxr8e1fxr8e1fxr (1).png",
-    "photo_file": "065/photo.jpg",
-    "palette_file": "065/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#777267",
-        "cmyk": "0 4 13 53"
-      },
-      {
-        "name": "Clay Grey",
-        "hex": "#949186",
-        "cmyk": "0 2 9 42"
-      },
-      {
-        "name": "Faded Gold",
-        "hex": "#B5B1A5",
-        "cmyk": "0 2 9 29"
-      },
-      {
-        "name": "Pearl",
-        "hex": "#D0D2CC",
-        "cmyk": "1 0 3 18"
-      }
-    ],
-    "caption": "Butter shapes on toast, pewter tray."
-  },
-  {
-    "index": 66,
-    "id": "066",
-    "source_file": "Gemini_Generated_Image_2hx9d12hx9d12hx9 (1).png",
-    "photo_file": "066/photo.jpg",
-    "palette_file": "066/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#2C2118",
-        "cmyk": "0 25 45 83"
-      },
-      {
-        "name": "Umber",
-        "hex": "#703829",
-        "cmyk": "0 50 63 56"
-      },
-      {
-        "name": "Faded Orange",
-        "hex": "#C2B3A2",
-        "cmyk": "0 8 16 24"
-      },
-      {
-        "name": "Washed Amber",
-        "hex": "#E2DCD1",
-        "cmyk": "0 3 8 11"
-      }
-    ],
-    "caption": "Rust wall, green panels, blue florals."
-  },
-  {
-    "index": 67,
-    "id": "067",
-    "source_file": "Gemini_Generated_Image_2ydwr2ydwr2ydwr2 (1).png",
-    "photo_file": "067/photo.jpg",
-    "palette_file": "067/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#676253",
-        "cmyk": "0 5 19 60"
-      },
-      {
-        "name": "Clay Grey",
-        "hex": "#898783",
-        "cmyk": "0 1 4 46"
-      },
-      {
-        "name": "Ash",
-        "hex": "#99A2A0",
-        "cmyk": "6 0 1 36"
-      },
-      {
-        "name": "Smoked Orange",
-        "hex": "#C4B7AB",
-        "cmyk": "0 7 13 23"
-      }
-    ],
-    "caption": "Terracotta door, mint tiles, sand plaster."
-  },
-  {
-    "index": 68,
-    "id": "068",
-    "source_file": "Gemini_Generated_Image_5cfn2i5cfn2i5cfn (1).png",
-    "photo_file": "068/photo.jpg",
-    "palette_file": "068/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#604A28",
-        "cmyk": "0 23 58 62"
-      },
-      {
-        "name": "Amber",
-        "hex": "#816845",
-        "cmyk": "0 19 47 49"
-      },
-      {
-        "name": "Deep Amber",
-        "hex": "#A48962",
-        "cmyk": "0 16 40 36"
-      },
-      {
-        "name": "Ash",
-        "hex": "#8E9D9E",
-        "cmyk": "10 1 0 38"
-      }
-    ],
-    "caption": "Brass fish combs on grey blue."
-  },
-  {
-    "index": 69,
-    "id": "069",
-    "source_file": "Gemini_Generated_Image_6w6ntx6w6ntx6w6n (1).png",
-    "photo_file": "069/photo.jpg",
-    "palette_file": "069/palette.jpg",
-    "colors": [
-      {
-        "name": "Deep Red",
-        "hex": "#2E1D1B",
-        "cmyk": "0 37 41 82"
-      },
-      {
-        "name": "Umber",
-        "hex": "#4D3A30",
-        "cmyk": "0 25 38 70"
-      },
-      {
-        "name": "Faded Red",
-        "hex": "#905D58",
-        "cmyk": "0 35 39 44"
-      },
-      {
-        "name": "Smoked Red",
-        "hex": "#AA7373",
-        "cmyk": "0 32 32 33"
-      }
-    ],
-    "caption": "Pink facade with teal window."
-  },
-  {
-    "index": 70,
-    "id": "070",
-    "source_file": "Gemini_Generated_Image_7d670w7d670w7d67 (1).png",
-    "photo_file": "070/photo.jpg",
-    "palette_file": "070/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#0E1F2A",
-        "cmyk": "67 26 0 84"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#474A3B",
-        "cmyk": "4 0 20 71"
-      },
-      {
-        "name": "Cocoa Grey",
-        "hex": "#847960",
-        "cmyk": "0 8 27 48"
-      },
-      {
-        "name": "Amber",
-        "hex": "#D4C5AA",
-        "cmyk": "0 7 20 17"
-      }
-    ],
-    "caption": "White cat asleep on indigo rug."
-  },
-  {
-    "index": 71,
-    "id": "071",
-    "source_file": "Gemini_Generated_Image_9qjdyk9qjdyk9qjd (1).png",
-    "photo_file": "071/photo.jpg",
-    "palette_file": "071/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#494637",
-        "cmyk": "0 4 25 71"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#5D7D79",
-        "cmyk": "26 0 3 51"
-      },
-      {
-        "name": "Faded Amber",
-        "hex": "#948975",
-        "cmyk": "0 7 21 42"
-      },
-      {
-        "name": "Smoked Amber",
-        "hex": "#B4A086",
-        "cmyk": "0 11 26 29"
-      }
-    ],
-    "caption": "Green door, gold hinges, amber glass."
-  },
-  {
-    "index": 72,
-    "id": "072",
-    "source_file": "Gemini_Generated_Image_9tkeo49tkeo49tke (1).png",
-    "photo_file": "072/photo.jpg",
-    "palette_file": "072/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#322B24",
-        "cmyk": "0 14 28 80"
-      },
-      {
-        "name": "Red",
-        "hex": "#6E453E",
-        "cmyk": "0 37 44 57"
-      },
-      {
-        "name": "Deep Red",
-        "hex": "#8C5B52",
-        "cmyk": "0 35 41 45"
-      },
-      {
-        "name": "Charcoal",
-        "hex": "#5F7572",
-        "cmyk": "19 0 3 54"
-      }
-    ],
-    "caption": "White horse crossing pink heather."
-  },
-  {
-    "index": 73,
-    "id": "073",
-    "source_file": "Gemini_Generated_Image_epjlwfepjlwfepjl (1).png",
-    "photo_file": "073/photo.jpg",
-    "palette_file": "073/palette.jpg",
-    "colors": [
-      {
-        "name": "Vermilion",
-        "hex": "#9B543A",
-        "cmyk": "0 46 63 39"
-      },
-      {
-        "name": "Dark Taupe",
-        "hex": "#7A6654",
-        "cmyk": "0 16 31 52"
-      },
-      {
-        "name": "Faded Amber",
-        "hex": "#968269",
-        "cmyk": "0 13 30 41"
-      },
-      {
-        "name": "Washed Amber",
-        "hex": "#EAD6BA",
-        "cmyk": "0 9 21 8"
-      }
-    ],
-    "caption": "Ginger cat curled on rust carpet."
-  },
-  {
-    "index": 74,
-    "id": "074",
-    "source_file": "Gemini_Generated_Image_fqwszrfqwszrfqws (1).png",
-    "photo_file": "074/photo.jpg",
-    "palette_file": "074/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#101D30",
-        "cmyk": "67 40 0 81"
-      },
-      {
-        "name": "Umber",
-        "hex": "#53342C",
-        "cmyk": "0 37 47 67"
-      },
-      {
-        "name": "Ash",
-        "hex": "#999898",
-        "cmyk": "0 1 1 40"
-      },
-      {
-        "name": "Linen",
-        "hex": "#B4B4B3",
-        "cmyk": "0 0 1 29"
-      }
-    ],
-    "caption": "Striped moka pot, red blue gold."
-  },
-  {
-    "index": 75,
-    "id": "075",
-    "source_file": "Gemini_Generated_Image_g6dq4hg6dq4hg6dq (1).png",
-    "photo_file": "075/photo.jpg",
-    "palette_file": "075/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Azure",
-        "hex": "#084D91",
-        "cmyk": "94 47 0 43"
-      },
-      {
-        "name": "Blue",
-        "hex": "#2966AC",
-        "cmyk": "76 41 0 33"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#98513F",
-        "cmyk": "0 47 59 40"
-      },
-      {
-        "name": "Silver",
-        "hex": "#C8CAC9",
-        "cmyk": "1 0 0 21"
-      }
-    ],
-    "caption": "Cypress shadow on terracotta wall."
-  },
-  {
-    "index": 76,
-    "id": "076",
-    "source_file": "Gemini_Generated_Image_gtooxgtooxgtooxg (1).png",
-    "photo_file": "076/photo.jpg",
-    "palette_file": "076/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#151C16",
-        "cmyk": "25 0 21 89"
-      },
-      {
-        "name": "Jade",
-        "hex": "#285845",
-        "cmyk": "55 0 22 65"
-      },
-      {
-        "name": "Umber",
-        "hex": "#674937",
-        "cmyk": "0 29 47 60"
-      },
-      {
-        "name": "Orange",
-        "hex": "#C6AC92",
-        "cmyk": "0 13 26 22"
-      }
-    ],
-    "caption": "Old shutter, green wall, spilling flowers."
-  },
-  {
-    "index": 77,
-    "id": "077",
-    "source_file": "Gemini_Generated_Image_i8knai8knai8knai (1).png",
-    "photo_file": "077/photo.jpg",
-    "palette_file": "077/palette.jpg",
-    "colors": [
-      {
-        "name": "Dusty Blue",
-        "hex": "#353B52",
-        "cmyk": "35 28 0 68"
-      },
-      {
-        "name": "Vivid Azure",
-        "hex": "#074D92",
-        "cmyk": "95 47 0 43"
-      },
-      {
-        "name": "Ash",
-        "hex": "#A9ACAE",
-        "cmyk": "3 1 0 32"
-      },
-      {
-        "name": "Washed Azure",
-        "hex": "#CBD7E1",
-        "cmyk": "10 4 0 12"
-      }
-    ],
-    "caption": "Birch trunks by a violet wall."
-  },
-  {
-    "index": 78,
-    "id": "078",
-    "source_file": "Gemini_Generated_Image_ihc8eiihc8eiihc8 (1).png",
-    "photo_file": "078/photo.jpg",
-    "palette_file": "078/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#4C4B45",
-        "cmyk": "0 1 9 70"
-      },
-      {
-        "name": "Azure",
-        "hex": "#2B68A3",
-        "cmyk": "74 36 0 36"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#A85839",
-        "cmyk": "0 48 66 34"
-      },
-      {
-        "name": "Smoked Teal",
-        "hex": "#507D80",
-        "cmyk": "38 2 0 50"
-      }
-    ],
-    "caption": "Brass watering can, teal above orange."
-  },
-  {
-    "index": 79,
-    "id": "079",
-    "source_file": "Gemini_Generated_Image_l86y09l86y09l86y (1).png",
-    "photo_file": "079/photo.jpg",
-    "palette_file": "079/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Azure",
-        "hex": "#04478F",
-        "cmyk": "97 50 0 44"
-      },
-      {
-        "name": "Clay Grey",
-        "hex": "#958C82",
-        "cmyk": "0 6 13 42"
-      },
-      {
-        "name": "Faded Amber",
-        "hex": "#AFA69A",
-        "cmyk": "0 5 12 31"
-      },
-      {
-        "name": "Bone",
-        "hex": "#D6D6D4",
-        "cmyk": "0 0 1 16"
-      }
-    ],
-    "caption": "Bronze sculpture, white wall, deep sky."
-  },
-  {
-    "index": 80,
-    "id": "080",
-    "source_file": "Gemini_Generated_Image_lwlr86lwlr86lwlr (1).png",
-    "photo_file": "080/photo.jpg",
-    "palette_file": "080/palette.jpg",
-    "colors": [
-      {
-        "name": "Amber",
-        "hex": "#9D7C42",
-        "cmyk": "0 21 58 38"
-      },
-      {
-        "name": "Stone",
-        "hex": "#908D8D",
-        "cmyk": "0 2 2 44"
-      },
-      {
-        "name": "Linen",
-        "hex": "#C0C0BF",
-        "cmyk": "0 0 1 25"
-      },
-      {
-        "name": "Deep Amber",
-        "hex": "#E6C585",
-        "cmyk": "0 14 42 10"
-      }
-    ],
-    "caption": "Brass dog figure on soft grey."
-  },
-  {
-    "index": 81,
-    "id": "081",
-    "source_file": "Gemini_Generated_Image_m243ipm243ipm243 (1).png",
-    "photo_file": "081/photo.jpg",
-    "palette_file": "081/palette.jpg",
-    "colors": [
-      {
-        "name": "Crimson",
-        "hex": "#931E26",
-        "cmyk": "0 80 74 42"
-      },
-      {
-        "name": "Deep Crimson",
-        "hex": "#B03C3F",
-        "cmyk": "0 66 64 31"
-      },
-      {
-        "name": "Red",
-        "hex": "#AE6361",
-        "cmyk": "0 43 44 32"
-      },
-      {
-        "name": "Azure",
-        "hex": "#B1CFE6",
-        "cmyk": "23 10 0 10"
-      }
-    ],
-    "caption": "Red arches, blue sea beyond."
-  },
-  {
-    "index": 82,
-    "id": "082",
-    "source_file": "a318527e6a7df4d55a29fb5685381a68.jpg",
-    "photo_file": "082/photo.jpg",
-    "palette_file": "082/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Red",
-        "hex": "#5C0603",
-        "cmyk": "0 93 97 64"
-      },
-      {
-        "name": "Dark Cyan",
-        "hex": "#1B3237",
-        "cmyk": "51 9 0 78"
-      },
-      {
-        "name": "Electric Red",
-        "hex": "#9A0903",
-        "cmyk": "0 94 98 40"
-      },
-      {
-        "name": "Teal",
-        "hex": "#216465",
-        "cmyk": "67 1 0 60"
-      }
-    ],
-    "caption": "Orange fish circling pale teal water."
-  },
-  {
-    "index": 83,
-    "id": "083",
-    "source_file": "a69145c68c87c839910a8e495332450b.jpg",
-    "photo_file": "083/photo.jpg",
-    "palette_file": "083/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#251615",
-        "cmyk": "0 41 43 85"
-      },
-      {
-        "name": "Vivid Cyan",
-        "hex": "#025167",
-        "cmyk": "98 21 0 60"
-      },
-      {
-        "name": "Dark Slate",
-        "hex": "#3B4449",
-        "cmyk": "19 7 0 71"
-      },
-      {
-        "name": "Cyan",
-        "hex": "#276C80",
-        "cmyk": "70 16 0 50"
-      }
-    ],
-    "caption": "Grey coat mid leap, orange shoes."
-  },
-  {
-    "index": 84,
-    "id": "084",
-    "source_file": "a8cea142225ef0ad8f2e40021460aa24.jpg",
-    "photo_file": "084/photo.jpg",
-    "palette_file": "084/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#06101D",
-        "cmyk": "79 45 0 89"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#607881",
-        "cmyk": "26 7 0 49"
-      },
-      {
-        "name": "Stone",
-        "hex": "#8A9C99",
-        "cmyk": "12 0 2 39"
-      },
-      {
-        "name": "Signal Gold",
-        "hex": "#F4BD07",
-        "cmyk": "0 23 97 4"
-      }
-    ],
-    "caption": "Yellow fabric splits dark water."
-  },
-  {
-    "index": 85,
-    "id": "085",
-    "source_file": "ab00c431cb09929b20276c646105fedc.jpg",
-    "photo_file": "085/photo.jpg",
-    "palette_file": "085/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#11170F",
-        "cmyk": "26 0 35 91"
-      },
-      {
-        "name": "Citron",
-        "hex": "#42471E",
-        "cmyk": "7 0 58 72"
-      },
-      {
-        "name": "Yellow",
-        "hex": "#636223",
-        "cmyk": "0 1 65 61"
-      },
-      {
-        "name": "Umber",
-        "hex": "#877E2A",
-        "cmyk": "0 7 69 47"
-      }
-    ],
-    "caption": "Tennis balls hanging like fruit."
-  },
-  {
-    "index": 86,
-    "id": "086",
-    "source_file": "abb083298474ed1bd7a08844e36196d8.jpg",
-    "photo_file": "086/photo.jpg",
-    "palette_file": "086/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Blue",
-        "hex": "#0A2C58",
-        "cmyk": "89 50 0 65"
-      },
-      {
-        "name": "Azure",
-        "hex": "#26537C",
-        "cmyk": "69 33 0 51"
-      },
-      {
-        "name": "Deep Azure",
-        "hex": "#40709A",
-        "cmyk": "58 27 0 40"
-      },
-      {
-        "name": "Pale Azure",
-        "hex": "#7AA0BE",
-        "cmyk": "36 16 0 25"
-      }
-    ],
-    "caption": "Stone house in blue dunes."
-  },
-  {
-    "index": 87,
-    "id": "087",
-    "source_file": "acc5b58eaf6f75f265c3ae19f71ee3a3.jpg",
-    "photo_file": "087/photo.jpg",
-    "palette_file": "087/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#282522",
-        "cmyk": "0 7 15 84"
-      },
-      {
-        "name": "Vivid Orange",
-        "hex": "#EDB175",
-        "cmyk": "0 25 51 7"
-      },
-      {
-        "name": "Orange",
-        "hex": "#D3C3B1",
-        "cmyk": "0 8 16 17"
-      },
-      {
-        "name": "Washed Yellow",
-        "hex": "#DCDCD4",
-        "cmyk": "0 0 4 14"
-      }
-    ],
-    "caption": "Orange and charcoal through textured glass."
-  },
-  {
-    "index": 88,
-    "id": "088",
-    "source_file": "ae8b33e9114d18453bf305a7d95e1bd9.jpg",
-    "photo_file": "088/photo.jpg",
-    "palette_file": "088/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#181D14",
-        "cmyk": "17 0 31 89"
-      },
-      {
-        "name": "Umber",
-        "hex": "#4E421C",
-        "cmyk": "0 15 64 69"
-      },
-      {
-        "name": "Electric Vermilion",
-        "hex": "#CD4613",
-        "cmyk": "0 66 91 20"
-      },
-      {
-        "name": "Bark",
-        "hex": "#81761F",
-        "cmyk": "0 9 76 49"
-      }
-    ],
-    "caption": "Painted garden path, teal and orange."
-  },
-  {
-    "index": 89,
-    "id": "089",
-    "source_file": "b014e96ee13a5853781bc92f4451deba.jpg",
-    "photo_file": "089/photo.jpg",
-    "palette_file": "089/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#131811",
-        "cmyk": "21 0 29 91"
-      },
-      {
-        "name": "Dark Taupe",
-        "hex": "#494A34",
-        "cmyk": "1 0 30 71"
-      },
-      {
-        "name": "Silver",
-        "hex": "#B8BFBE",
-        "cmyk": "4 0 1 25"
-      },
-      {
-        "name": "Pearl",
-        "hex": "#D5D7D4",
-        "cmyk": "1 0 1 16"
-      }
-    ],
-    "caption": "White rabbits over clipped green hedges."
-  },
-  {
-    "index": 90,
-    "id": "090",
-    "source_file": "b2b4b7c06ce285466ff677d1b9ed39bb.jpg",
-    "photo_file": "090/photo.jpg",
-    "palette_file": "090/palette.jpg",
-    "colors": [
-      {
-        "name": "Vermilion",
-        "hex": "#9F4825",
-        "cmyk": "0 55 77 38"
-      },
-      {
-        "name": "Vivid Orange",
-        "hex": "#E99745",
-        "cmyk": "0 35 70 9"
-      },
-      {
-        "name": "Jade",
-        "hex": "#A9D1C2",
-        "cmyk": "19 0 7 18"
-      },
-      {
-        "name": "Washed Gold",
-        "hex": "#EAE5D9",
-        "cmyk": "0 2 7 8"
-      }
-    ],
-    "caption": "Palm shadow on orange wall."
-  },
-  {
-    "index": 91,
-    "id": "091",
-    "source_file": "b4b9f8ab859eba12062cd2a54c418b89.jpg",
-    "photo_file": "091/photo.jpg",
-    "palette_file": "091/palette.jpg",
-    "colors": [
-      {
-        "name": "Dusty Blue",
-        "hex": "#9198A7",
-        "cmyk": "13 9 0 35"
-      },
-      {
-        "name": "Azure",
-        "hex": "#A9C0D0",
-        "cmyk": "19 8 0 18"
-      },
-      {
-        "name": "Orange",
-        "hex": "#D2C0AF",
-        "cmyk": "0 9 17 18"
-      },
-      {
-        "name": "Washed Gold",
-        "hex": "#DFDCD2",
-        "cmyk": "0 1 6 13"
-      }
-    ],
-    "caption": "Blue chair facing pale dunes."
-  },
-  {
-    "index": 92,
-    "id": "092",
-    "source_file": "b7c0b40d59cce9f462e1f88384d236f6.jpg",
-    "photo_file": "092/photo.jpg",
-    "palette_file": "092/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#3D4106",
-        "cmyk": "6 0 91 75"
-      },
-      {
-        "name": "Vivid Yellow",
-        "hex": "#5F5C08",
-        "cmyk": "0 3 92 63"
-      },
-      {
-        "name": "Faded Amber",
-        "hex": "#8F7A5C",
-        "cmyk": "0 15 36 44"
-      },
-      {
-        "name": "Azure",
-        "hex": "#94ADC7",
-        "cmyk": "26 13 0 22"
-      }
-    ],
-    "caption": "Brown dress against tall grass."
-  },
-  {
-    "index": 93,
-    "id": "093",
-    "source_file": "b7e18397df14176a59f0b649c81bd2fc.jpg",
-    "photo_file": "093/photo.jpg",
-    "palette_file": "093/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#1A2921",
-        "cmyk": "37 0 20 84"
-      },
-      {
-        "name": "Umber",
-        "hex": "#56472B",
-        "cmyk": "0 17 50 66"
-      },
-      {
-        "name": "Electric Cyan",
-        "hex": "#086F84",
-        "cmyk": "94 16 0 48"
-      },
-      {
-        "name": "Smoked Amber",
-        "hex": "#8D775A",
-        "cmyk": "0 16 36 45"
-      }
-    ],
-    "caption": "Blue coat on smeared flower field."
-  },
-  {
-    "index": 94,
-    "id": "094",
-    "source_file": "b806a0791b058a2df9ec4922d6224120.jpg",
-    "photo_file": "094/photo.jpg",
-    "palette_file": "094/palette.jpg",
-    "colors": [
-      {
-        "name": "Deep Azure",
-        "hex": "#0B3950",
-        "cmyk": "86 29 0 69"
-      },
-      {
-        "name": "Azure",
-        "hex": "#215A75",
-        "cmyk": "72 23 0 54"
-      },
-      {
-        "name": "Cyan",
-        "hex": "#457A92",
-        "cmyk": "53 16 0 43"
-      },
-      {
-        "name": "Bone",
-        "hex": "#D1CFCA",
-        "cmyk": "0 1 3 18"
-      }
-    ],
-    "caption": "Three lemons on a white ledge."
-  },
-  {
-    "index": 95,
-    "id": "095",
-    "source_file": "b9018fcf6b53d7173ca1d127b0cf33a9.jpg",
-    "photo_file": "095/photo.jpg",
-    "palette_file": "095/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#020403",
-        "cmyk": "50 0 25 98"
-      },
-      {
-        "name": "Jade",
-        "hex": "#174A3D",
-        "cmyk": "69 0 18 71"
-      },
-      {
-        "name": "Dark Slate",
-        "hex": "#465C59",
-        "cmyk": "24 0 3 64"
-      },
-      {
-        "name": "Ash",
-        "hex": "#B1B1B1",
-        "cmyk": "0 0 0 31"
-      }
-    ],
-    "caption": "Green crosses projected on a dark portrait."
-  },
-  {
-    "index": 96,
-    "id": "096",
-    "source_file": "bfad1715850da844c6ad8397ade592e3.jpg",
-    "photo_file": "096/photo.jpg",
-    "palette_file": "096/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#312B27",
-        "cmyk": "0 12 20 81"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#A65A3A",
-        "cmyk": "0 46 65 35"
-      },
-      {
-        "name": "Electric Red",
-        "hex": "#EB7358",
-        "cmyk": "0 51 63 8"
-      },
-      {
-        "name": "Signal Red",
-        "hex": "#F9897E",
-        "cmyk": "0 45 49 2"
-      }
-    ],
-    "caption": "Someone walking a rainbow curve."
-  },
-  {
-    "index": 97,
-    "id": "097",
-    "source_file": "bfd2e1823629e88e3b0cf44bcd139e97.jpg",
-    "photo_file": "097/photo.jpg",
-    "palette_file": "097/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#050F3C",
-        "cmyk": "92 75 0 76"
-      },
-      {
-        "name": "Blue",
-        "hex": "#29458F",
-        "cmyk": "71 52 0 44"
-      },
-      {
-        "name": "Orange",
-        "hex": "#D4BB9F",
-        "cmyk": "0 12 25 17"
-      },
-      {
-        "name": "Smoked Blue",
-        "hex": "#C6CBD6",
-        "cmyk": "7 5 0 16"
-      }
-    ],
-    "caption": "Blue stucco stairs cut through pale rock."
-  },
-  {
-    "index": 98,
-    "id": "098",
-    "source_file": "c74fa69337787b41aad315b3175671d6.jpg",
-    "photo_file": "098/photo.jpg",
-    "palette_file": "098/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#824805",
-        "cmyk": "0 45 96 49"
-      },
-      {
-        "name": "Bark",
-        "hex": "#A76719",
-        "cmyk": "0 38 85 35"
-      },
-      {
-        "name": "Electric Amber",
-        "hex": "#C8880E",
-        "cmyk": "0 32 93 22"
-      },
-      {
-        "name": "Signal Gold",
-        "hex": "#EBB938",
-        "cmyk": "0 21 76 8"
-      }
-    ],
-    "caption": "Yellow cloth, gold earrings, yellow wall."
-  },
-  {
-    "index": 99,
-    "id": "099",
-    "source_file": "c77b08ee963e1303e05ea9eb0c352584.jpg",
-    "photo_file": "099/photo.jpg",
-    "palette_file": "099/palette.jpg",
-    "colors": [
-      {
-        "name": "Cyan",
-        "hex": "#4687A5",
-        "cmyk": "58 18 0 35"
-      },
-      {
-        "name": "Deep Cyan",
-        "hex": "#679DB4",
-        "cmyk": "43 13 0 29"
-      },
-      {
-        "name": "Ash",
-        "hex": "#A7ABAF",
-        "cmyk": "5 2 0 31"
-      },
-      {
-        "name": "Washed Blue",
-        "hex": "#E8EBF0",
-        "cmyk": "3 2 0 6"
-      }
-    ],
-    "caption": "Bright blue fish against a blue backdrop."
-  },
-  {
-    "index": 100,
-    "id": "100",
-    "source_file": "cbb08b060c9073a42486b5b1a44403b3.jpg",
-    "photo_file": "100/photo.jpg",
-    "palette_file": "100/palette.jpg",
-    "colors": [
-      {
-        "name": "Emerald",
-        "hex": "#26422C",
-        "cmyk": "42 0 33 74"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#5C704C",
-        "cmyk": "18 0 32 56"
-      },
-      {
-        "name": "Faded Lime",
-        "hex": "#7F8C61",
-        "cmyk": "9 0 31 45"
-      },
-      {
-        "name": "Smoked Citron",
-        "hex": "#A4A976",
-        "cmyk": "3 0 30 34"
-      }
-    ],
-    "caption": "A chestnut horse crossing green grass."
-  },
-  {
-    "index": 101,
-    "id": "101",
-    "source_file": "d5770d572c896400357ec3229e866f3e.jpg",
-    "photo_file": "101/photo.jpg",
-    "palette_file": "101/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Azure",
-        "hex": "#087EC1",
-        "cmyk": "96 35 0 24"
-      },
-      {
-        "name": "Azure",
-        "hex": "#3196CF",
-        "cmyk": "76 28 0 19"
-      },
-      {
-        "name": "Deep Azure",
-        "hex": "#5CAAD7",
-        "cmyk": "57 21 0 16"
-      },
-      {
-        "name": "Washed Crimson",
-        "hex": "#EDB9BC",
-        "cmyk": "0 22 21 7"
-      }
-    ],
-    "caption": "One cloud over a pink floor."
-  },
-  {
-    "index": 102,
-    "id": "102",
-    "source_file": "d57fa23dcc1015f57bcac623d561c02e.jpg",
-    "photo_file": "102/photo.jpg",
-    "palette_file": "102/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#2C2724",
-        "cmyk": "0 11 18 83"
-      },
-      {
-        "name": "Dark Taupe",
-        "hex": "#866F5A",
-        "cmyk": "0 17 33 47"
-      },
-      {
-        "name": "Amber",
-        "hex": "#BE9A6D",
-        "cmyk": "0 19 43 25"
-      },
-      {
-        "name": "Smoked Green",
-        "hex": "#CDD6CB",
-        "cmyk": "4 0 5 16"
-      }
-    ],
-    "caption": "Black hat, cream robe, sand background."
-  },
-  {
-    "index": 103,
-    "id": "103",
-    "source_file": "da42748777e673b16856f478394d2cda.jpg",
-    "photo_file": "103/photo.jpg",
-    "palette_file": "103/palette.jpg",
-    "colors": [
-      {
-        "name": "Charcoal",
-        "hex": "#464C3A",
-        "cmyk": "8 0 24 70"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#50646C",
-        "cmyk": "26 7 0 58"
-      },
-      {
-        "name": "Cocoa Grey",
-        "hex": "#797B6A",
-        "cmyk": "2 0 14 52"
-      },
-      {
-        "name": "Smoked Citron",
-        "hex": "#9D9F85",
-        "cmyk": "1 0 16 38"
-      }
-    ],
-    "caption": "White tulips tower over a white dress."
-  },
-  {
-    "index": 104,
-    "id": "104",
-    "source_file": "dc29a9ba51d4363ba409dd631575087c.jpg",
-    "photo_file": "104/photo.jpg",
-    "palette_file": "104/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Azure",
-        "hex": "#094D8F",
-        "cmyk": "94 46 0 44"
+        "hex": "#F2EFE6",
+        "cmyk": "0 1 5 5"
       },
-      {
-        "name": "Red",
-        "hex": "#9E413A",
-        "cmyk": "0 59 63 38"
-      },
-      {
-        "name": "Faded Gold",
-        "hex": "#A09569",
-        "cmyk": "0 7 34 37"
-      },
-      {
-        "name": "Deep Red",
-        "hex": "#D79B8E",
-        "cmyk": "0 28 34 16"
-      }
-    ],
-    "caption": "Striped red and green hills, deep blue sky."
-  },
-  {
-    "index": 105,
-    "id": "105",
-    "source_file": "dd59986109e3e6c9bf86dcba9c03d744.jpg",
-    "photo_file": "105/photo.jpg",
-    "palette_file": "105/palette.jpg",
-    "colors": [
-      {
-        "name": "Deep Citron",
-        "hex": "#3A4416",
-        "cmyk": "15 0 68 73"
-      },
-      {
-        "name": "Azure",
-        "hex": "#195D86",
-        "cmyk": "81 31 0 47"
-      },
-      {
-        "name": "Umber",
-        "hex": "#6F6A44",
-        "cmyk": "0 5 39 56"
-      },
-      {
-        "name": "Orange",
-        "hex": "#B49075",
-        "cmyk": "0 20 35 29"
-      }
-    ],
-    "caption": "Pale road curving across a green hill."
-  },
-  {
-    "index": 106,
-    "id": "106",
-    "source_file": "dfdda8c1aa8910a0825f365276733b62.jpg",
-    "photo_file": "106/photo.jpg",
-    "palette_file": "106/palette.jpg",
-    "colors": [
-      {
-        "name": "Azure",
-        "hex": "#27405C",
-        "cmyk": "58 30 0 64"
-      },
-      {
-        "name": "Amber",
-        "hex": "#D39D51",
-        "cmyk": "0 26 62 17"
-      },
-      {
-        "name": "Orange",
-        "hex": "#CDAE96",
-        "cmyk": "0 15 27 20"
-      },
-      {
-        "name": "Deep Orange",
-        "hex": "#DDCBB9",
-        "cmyk": "0 8 16 13"
-      }
-    ],
-    "caption": "Powdered mounds of orange, yellow, cream."
-  },
-  {
-    "index": 107,
-    "id": "107",
-    "source_file": "download (1).png",
-    "photo_file": "107/photo.jpg",
-    "palette_file": "107/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Crimson",
-        "hex": "#540A13",
-        "cmyk": "0 88 77 67"
-      },
-      {
-        "name": "Muted Red",
-        "hex": "#836F6D",
-        "cmyk": "0 15 17 49"
-      },
-      {
-        "name": "Ash",
-        "hex": "#A9ADB3",
-        "cmyk": "6 3 0 30"
-      },
-      {
-        "name": "Pearl",
-        "hex": "#E0E1E3",
-        "cmyk": "1 1 0 11"
-      }
-    ],
-    "caption": "Two dark red butterflies over grey."
-  },
-  {
-    "index": 108,
-    "id": "108",
-    "source_file": "download (2).png",
-    "photo_file": "108/photo.jpg",
-    "palette_file": "108/palette.jpg",
-    "colors": [
-      {
-        "name": "Azure",
-        "hex": "#1E6191",
-        "cmyk": "79 33 0 43"
-      },
-      {
-        "name": "Green",
-        "hex": "#446B3B",
-        "cmyk": "36 0 45 58"
-      },
-      {
-        "name": "Deep Azure",
-        "hex": "#428BB0",
-        "cmyk": "62 21 0 31"
-      },
-      {
-        "name": "Teal",
-        "hex": "#84C2BA",
-        "cmyk": "32 0 4 24"
-      }
-    ],
-    "caption": "Doorway opening onto pink water and grass."
-  },
-  {
-    "index": 109,
-    "id": "109",
-    "source_file": "download.png",
-    "photo_file": "109/photo.jpg",
-    "palette_file": "109/palette.jpg",
-    "colors": [
-      {
-        "name": "Gold",
-        "hex": "#8D7844",
-        "cmyk": "0 15 52 45"
-      },
-      {
-        "name": "Rose",
-        "hex": "#BB587D",
-        "cmyk": "0 53 33 27"
-      },
-      {
-        "name": "Yellow",
-        "hex": "#9E9B58",
-        "cmyk": "0 2 44 38"
-      },
-      {
-        "name": "Deep Yellow",
-        "hex": "#B5B579",
-        "cmyk": "0 0 33 29"
-      }
-    ],
-    "caption": "Lime green fur on hot pink."
-  },
-  {
-    "index": 110,
-    "id": "110",
-    "source_file": "e0853cabf039edda25577b4b22a789d9.jpg",
-    "photo_file": "110/photo.jpg",
-    "palette_file": "110/palette.jpg",
-    "colors": [
-      {
-        "name": "Deep Green",
-        "hex": "#1B2F1E",
-        "cmyk": "43 0 36 82"
-      },
-      {
-        "name": "Green",
-        "hex": "#415934",
-        "cmyk": "27 0 42 65"
-      },
-      {
-        "name": "Faded Citron",
-        "hex": "#7F8A5D",
-        "cmyk": "8 0 33 46"
-      },
-      {
-        "name": "Oat",
-        "hex": "#A0A190",
-        "cmyk": "1 0 11 37"
-      }
-    ],
-    "caption": "Cream dress among clipped green spheres."
-  },
-  {
-    "index": 111,
-    "id": "111",
-    "source_file": "e358c9a047cfb031aae0e529c49ab886.jpg",
-    "photo_file": "111/photo.jpg",
-    "palette_file": "111/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#592B0F",
-        "cmyk": "0 52 83 65"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#3B4B42",
-        "cmyk": "21 0 12 71"
-      },
-      {
-        "name": "Dark Slate",
-        "hex": "#5B6B49",
-        "cmyk": "15 0 32 58"
-      },
-      {
-        "name": "Ash",
-        "hex": "#8F9F9A",
-        "cmyk": "10 0 3 38"
-      }
-    ],
-    "caption": "Two rust chairs facing green cliffs."
-  },
-  {
-    "index": 112,
-    "id": "112",
-    "source_file": "e5cb6c646a0d46d98f4691f160cfd09b.jpg",
-    "photo_file": "112/photo.jpg",
-    "palette_file": "112/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Azure",
-        "hex": "#0B3D67",
-        "cmyk": "89 41 0 60"
-      },
-      {
-        "name": "Azure",
-        "hex": "#406994",
-        "cmyk": "57 29 0 42"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#8B6151",
-        "cmyk": "0 30 42 45"
-      },
-      {
-        "name": "Deep Vermilion",
-        "hex": "#AD806B",
-        "cmyk": "0 26 38 32"
-      }
-    ],
-    "caption": "Pink blossom beside a blue wall, sea behind."
-  },
-  {
-    "index": 113,
-    "id": "113",
-    "source_file": "e6e1deb8e56e773c34f2ce65f2d42c22.jpg",
-    "photo_file": "113/photo.jpg",
-    "palette_file": "113/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#744C0A",
-        "cmyk": "0 34 91 55"
-      },
-      {
-        "name": "Bark",
-        "hex": "#AE760B",
-        "cmyk": "0 32 94 32"
-      },
-      {
-        "name": "Electric Gold",
-        "hex": "#D8A21A",
-        "cmyk": "0 25 88 15"
-      },
-      {
-        "name": "Oat",
-        "hex": "#B4B6AA",
-        "cmyk": "1 0 7 29"
-      }
-    ],
-    "caption": "Red door, yellow house, golden grass."
-  },
-  {
-    "index": 114,
-    "id": "114",
-    "source_file": "e6ebc25e64bad0f0cd2d86a6d8507807.jpg",
-    "photo_file": "114/photo.jpg",
-    "palette_file": "114/palette.jpg",
-    "colors": [
-      {
-        "name": "Red",
-        "hex": "#902E2D",
-        "cmyk": "0 68 69 44"
-      },
-      {
-        "name": "Muted Blue",
-        "hex": "#3F4D64",
-        "cmyk": "37 23 0 61"
-      },
-      {
-        "name": "Azure",
-        "hex": "#4B7993",
-        "cmyk": "49 18 0 42"
-      },
-      {
-        "name": "Smoked Cyan",
-        "hex": "#8099A4",
-        "cmyk": "22 7 0 36"
-      }
-    ],
-    "caption": "Someone in orange beside an orange wall."
-  },
-  {
-    "index": 115,
-    "id": "115",
-    "source_file": "e8221fb22512bbdeec3bfb323f1d42e2.jpg",
-    "photo_file": "115/photo.jpg",
-    "palette_file": "115/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Cyan",
-        "hex": "#096581",
-        "cmyk": "93 22 0 49"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#B08374",
-        "cmyk": "0 26 34 31"
-      },
-      {
-        "name": "Faded Lime",
-        "hex": "#B1B7A8",
-        "cmyk": "3 0 8 28"
-      },
-      {
-        "name": "Smoked Lime",
-        "hex": "#CFD6C8",
-        "cmyk": "3 0 7 16"
-      }
-    ],
-    "caption": "Palm blurring in wind, pink horizon."
-  },
-  {
-    "index": 116,
-    "id": "116",
-    "source_file": "ec2e07825a8ae3db9705e8abc9fe60c4.jpg",
-    "photo_file": "116/photo.jpg",
-    "palette_file": "116/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Blue",
-        "hex": "#03246C",
-        "cmyk": "97 67 0 58"
-      },
-      {
-        "name": "Vivid Azure",
-        "hex": "#0157B3",
-        "cmyk": "99 51 0 30"
-      },
-      {
-        "name": "Faded Red",
-        "hex": "#C8B4B4",
-        "cmyk": "0 10 10 22"
-      },
-      {
-        "name": "Washed Blue",
-        "hex": "#E9ECF2",
-        "cmyk": "4 2 0 5"
-      }
-    ],
-    "caption": "White bird on a blue hat."
-  },
-  {
-    "index": 117,
-    "id": "117",
-    "source_file": "ecef7358064f030ab0717063fb732d75.jpg",
-    "photo_file": "117/photo.jpg",
-    "palette_file": "117/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#041E06",
-        "cmyk": "87 0 80 88"
-      },
-      {
-        "name": "Dark Green",
-        "hex": "#084C0A",
-        "cmyk": "89 0 87 70"
-      },
-      {
-        "name": "Electric Azure",
-        "hex": "#0254A1",
-        "cmyk": "99 48 0 37"
-      },
-      {
-        "name": "Signal Orange",
-        "hex": "#F5A973",
-        "cmyk": "0 31 53 4"
-      }
-    ],
-    "caption": "Green fairways, sand, one blue pond."
-  },
-  {
-    "index": 118,
-    "id": "118",
-    "source_file": "ed8afd6b13b26c50486d1ad30a39840b.jpg",
-    "photo_file": "118/photo.jpg",
-    "palette_file": "118/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Blue",
-        "hex": "#0743AD",
-        "cmyk": "96 61 0 32"
-      },
-      {
-        "name": "Vivid Azure",
-        "hex": "#0A6AC7",
-        "cmyk": "95 47 0 22"
-      },
-      {
-        "name": "Azure",
-        "hex": "#378ADC",
-        "cmyk": "75 37 0 14"
-      },
-      {
-        "name": "Pearl",
-        "hex": "#E0DFE2",
-        "cmyk": "1 1 0 11"
-      }
-    ],
-    "caption": "White ears above a blue wall."
-  },
-  {
-    "index": 119,
-    "id": "119",
-    "source_file": "f22d3c69e5bc58c0744738409fc5640a.jpg",
-    "photo_file": "119/photo.jpg",
-    "palette_file": "119/palette.jpg",
-    "colors": [
-      {
-        "name": "Cyan",
-        "hex": "#477783",
-        "cmyk": "46 9 0 49"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#C05C2E",
-        "cmyk": "0 52 76 25"
-      },
-      {
-        "name": "Faded Teal",
-        "hex": "#73928F",
-        "cmyk": "21 0 2 43"
-      },
-      {
-        "name": "Washed Gold",
-        "hex": "#E3DCC2",
-        "cmyk": "0 3 15 11"
-      }
-    ],
-    "caption": "Terracotta curve through pale mint arches."
-  },
-  {
-    "index": 120,
-    "id": "120",
-    "source_file": "f442e29bc79f4ca37304e2ed5d183632.jpg",
-    "photo_file": "120/photo.jpg",
-    "palette_file": "120/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#372720",
-        "cmyk": "0 29 42 78"
-      },
-      {
-        "name": "Bark",
-        "hex": "#662F20",
-        "cmyk": "0 54 69 60"
-      },
-      {
-        "name": "Red",
-        "hex": "#AD341F",
-        "cmyk": "0 70 82 32"
-      },
-      {
-        "name": "Amber",
-        "hex": "#D9A83C",
-        "cmyk": "0 23 72 15"
-      }
-    ],
-    "caption": "A walking figure under red haze."
-  },
-  {
-    "index": 121,
-    "id": "121",
-    "source_file": "f6826d61c142077ae8a98b6a651ffd8a.jpg",
-    "photo_file": "121/photo.jpg",
-    "palette_file": "121/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#20060B",
-        "cmyk": "0 81 66 87"
-      },
-      {
-        "name": "Crimson",
-        "hex": "#7A2636",
-        "cmyk": "0 69 56 52"
-      },
-      {
-        "name": "Faded Azure",
-        "hex": "#618299",
-        "cmyk": "37 15 0 40"
-      },
-      {
-        "name": "Washed Azure",
-        "hex": "#C2D8EF",
-        "cmyk": "19 10 0 6"
-      }
-    ],
-    "caption": "Glossy eggs on maroon checkerboard."
-  },
-  {
-    "index": 122,
-    "id": "122",
-    "source_file": "f79e34d0e835d5cdd73ffa384eff9d8d.jpg",
-    "photo_file": "122/photo.jpg",
-    "palette_file": "122/palette.jpg",
-    "colors": [
-      {
-        "name": "Charcoal",
-        "hex": "#3D4F54",
-        "cmyk": "27 6 0 67"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#64797F",
-        "cmyk": "21 5 0 50"
-      },
-      {
-        "name": "Faded Cyan",
-        "hex": "#889DA3",
-        "cmyk": "17 4 0 36"
-      },
-      {
-        "name": "Smoked Cyan",
-        "hex": "#B4C8CD",
-        "cmyk": "12 2 0 20"
-      }
-    ],
-    "caption": "Bare branch shadows, mint wall, red door."
-  },
-  {
-    "index": 123,
-    "id": "123",
-    "source_file": "f8093a5237d74c7bcf89d5e14e0d9112.jpg",
-    "photo_file": "123/photo.jpg",
-    "palette_file": "123/palette.jpg",
-    "colors": [
-      {
-        "name": "Charcoal",
-        "hex": "#43555D",
-        "cmyk": "28 9 0 64"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#D04522",
-        "cmyk": "0 67 84 18"
-      },
-      {
-        "name": "Dark Slate",
-        "hex": "#5F7175",
-        "cmyk": "19 3 0 54"
-      },
-      {
-        "name": "Smoked Cyan",
-        "hex": "#81A2A8",
-        "cmyk": "23 4 0 34"
-      }
-    ],
-    "caption": "Orange rings floating over blue sea."
-  },
-  {
-    "index": 124,
-    "id": "124",
-    "source_file": "febd45fac959274411cd6bca8cb0d29d.jpg",
-    "photo_file": "124/photo.jpg",
-    "palette_file": "124/palette.jpg",
-    "colors": [
-      {
-        "name": "Bright Red",
-        "hex": "#651A09",
-        "cmyk": "0 74 91 60"
-      },
-      {
-        "name": "Vivid Red",
-        "hex": "#8F2613",
-        "cmyk": "0 73 87 44"
-      },
-      {
-        "name": "Dark Slate",
-        "hex": "#55506B",
-        "cmyk": "21 25 0 58"
-      },
-      {
-        "name": "Smoked Azure",
-        "hex": "#5B7793",
-        "cmyk": "38 19 0 42"
-      }
-    ],
-    "caption": "Red light washing a grey peak."
-  },
-  {
-    "index": 125,
-    "id": "125",
-    "source_file": "fff3cc53f887196437e139f6bf756657.jpg",
-    "photo_file": "125/photo.jpg",
-    "palette_file": "125/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#121007",
-        "cmyk": "0 11 61 93"
-      },
-      {
-        "name": "Dark Indigo",
-        "hex": "#0F1342",
-        "cmyk": "77 71 0 74"
-      },
-      {
-        "name": "Electric Red",
-        "hex": "#AB2309",
-        "cmyk": "0 80 95 33"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#E5BDA8",
-        "cmyk": "0 17 27 10"
-      }
-    ],
-    "caption": "Green tree, red ground, deep blue."
-  },
-  {
-    "index": 126,
-    "id": "126",
-    "source_file": "palp.jpg",
-    "photo_file": "126/photo.jpg",
-    "palette_file": "126/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#10390A",
-        "cmyk": "72 0 82 78"
-      },
-      {
-        "name": "Vivid Cyan",
-        "hex": "#018799",
-        "cmyk": "99 12 0 40"
-      },
-      {
-        "name": "Electric Lime",
-        "hex": "#537E11",
-        "cmyk": "34 0 87 51"
-      },
-      {
-        "name": "Citron",
-        "hex": "#96B724",
-        "cmyk": "18 0 80 28"
-      }
-    ],
-    "caption": "Tennis balls spiralling on teal."
-  },
-  {
-    "index": 127,
-    "id": "127",
-    "source_file": "unwatermarked_Gemini_Generated_Image_1jictp1jictp1jic.png",
-    "photo_file": "127/photo.jpg",
-    "palette_file": "127/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#251B20",
-        "cmyk": "0 27 14 85"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#50424F",
-        "cmyk": "0 18 1 69"
-      },
-      {
-        "name": "Faded Fuchsia",
-        "hex": "#A98B9C",
-        "cmyk": "0 18 8 34"
-      },
-      {
-        "name": "Smoked Fuchsia",
-        "hex": "#D6BBC8",
-        "cmyk": "0 13 7 16"
-      }
-    ],
-    "caption": "Rows of pale cars, dusty pink."
-  },
-  {
-    "index": 128,
-    "id": "128",
-    "source_file": "unwatermarked_Gemini_Generated_Image_33jiep33jiep33ji.png",
-    "photo_file": "128/photo.jpg",
-    "palette_file": "128/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#0A0D0A",
-        "cmyk": "23 0 23 95"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#39524D",
-        "cmyk": "30 0 6 68"
-      },
-      {
-        "name": "Orange",
-        "hex": "#B68A5B",
-        "cmyk": "0 24 50 29"
-      },
-      {
-        "name": "Amber",
-        "hex": "#D5C1A8",
-        "cmyk": "0 9 21 16"
-      }
-    ],
-    "caption": "Green door in an ochre wall."
-  },
-  {
-    "index": 129,
-    "id": "129",
-    "source_file": "unwatermarked_Gemini_Generated_Image_586sqg586sqg586s.png",
-    "photo_file": "129/photo.jpg",
-    "palette_file": "129/palette.jpg",
-    "colors": [
-      {
-        "name": "Azure",
-        "hex": "#4088B2",
-        "cmyk": "64 24 0 30"
-      },
-      {
-        "name": "Deep Azure",
-        "hex": "#78A1B9",
-        "cmyk": "35 13 0 27"
-      },
-      {
-        "name": "Cyan",
-        "hex": "#7CC1D9",
-        "cmyk": "43 11 0 15"
-      },
-      {
-        "name": "Washed Amber",
-        "hex": "#DDDAD6",
-        "cmyk": "0 1 3 13"
-      }
-    ],
-    "caption": "Blue door, white wall, wide sea."
-  },
-  {
-    "index": 130,
-    "id": "130",
-    "source_file": "unwatermarked_Gemini_Generated_Image_5retq65retq65ret.png",
-    "photo_file": "130/photo.jpg",
-    "palette_file": "130/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#423930",
-        "cmyk": "0 14 27 74"
-      },
-      {
-        "name": "Muted Teal",
-        "hex": "#3F6669",
-        "cmyk": "40 3 0 59"
-      },
-      {
-        "name": "Azure",
-        "hex": "#4B8AB5",
-        "cmyk": "59 24 0 29"
-      },
-      {
-        "name": "Signal Vermilion",
-        "hex": "#F1A684",
-        "cmyk": "0 31 45 5"
-      }
-    ],
-    "caption": "One cactus casts a shadow on peach."
-  },
-  {
-    "index": 131,
-    "id": "131",
-    "source_file": "unwatermarked_Gemini_Generated_Image_6t738r6t738r6t73.png",
-    "photo_file": "131/photo.jpg",
-    "palette_file": "131/palette.jpg",
-    "colors": [
-      {
-        "name": "Charcoal",
-        "hex": "#242624",
-        "cmyk": "5 0 5 85"
-      },
-      {
-        "name": "Muted Azure",
-        "hex": "#92A7BA",
-        "cmyk": "22 10 0 27"
-      },
-      {
-        "name": "Azure",
-        "hex": "#B4CAE2",
-        "cmyk": "20 11 0 11"
-      },
-      {
-        "name": "Washed Orange",
-        "hex": "#E3D6CA",
-        "cmyk": "0 6 11 11"
-      }
-    ],
-    "caption": "Coffee on marble, sailboat far out."
-  },
-  {
-    "index": 132,
-    "id": "132",
-    "source_file": "unwatermarked_Gemini_Generated_Image_7gh8ui7gh8ui7gh8 copy.png",
-    "photo_file": "132/photo.jpg",
-    "palette_file": "132/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#4B4739",
-        "cmyk": "0 5 24 71"
-      },
-      {
-        "name": "Dark Taupe",
-        "hex": "#655D52",
-        "cmyk": "0 8 19 60"
-      },
-      {
-        "name": "Clay Grey",
-        "hex": "#8E8A85",
-        "cmyk": "0 3 6 44"
-      },
-      {
-        "name": "Smoked Orange",
-        "hex": "#C6BCB2",
-        "cmyk": "0 5 10 22"
-      }
-    ],
-    "caption": "Olive tree, pale plaster, grey tile."
-  },
-  {
-    "index": 133,
-    "id": "133",
-    "source_file": "unwatermarked_Gemini_Generated_Image_8cjmgb8cjmgb8cjm.png",
-    "photo_file": "133/photo.jpg",
-    "palette_file": "133/palette.jpg",
-    "colors": [
-      {
-        "name": "Azure",
-        "hex": "#3979B7",
-        "cmyk": "69 34 0 28"
-      },
-      {
-        "name": "Oat",
-        "hex": "#A8A6A2",
-        "cmyk": "0 1 4 34"
-      },
-      {
-        "name": "Bone",
-        "hex": "#D4D3CF",
-        "cmyk": "0 0 2 17"
-      },
-      {
-        "name": "Washed Gold",
-        "hex": "#F9F8F4",
-        "cmyk": "0 0 2 2"
-      }
-    ],
-    "caption": "White steps climbing into hard blue."
-  },
-  {
-    "index": 134,
-    "id": "134",
-    "source_file": "unwatermarked_Gemini_Generated_Image_96j2qk96j2qk96j2.png",
-    "photo_file": "134/photo.jpg",
-    "palette_file": "134/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#101C15",
-        "cmyk": "43 0 25 89"
-      },
-      {
-        "name": "Umber",
-        "hex": "#492E20",
-        "cmyk": "0 37 56 71"
-      },
-      {
-        "name": "Electric Jade",
-        "hex": "#075C40",
-        "cmyk": "92 0 30 64"
-      },
-      {
-        "name": "Bark",
-        "hex": "#754C37",
-        "cmyk": "0 35 53 54"
-      }
-    ],
-    "caption": "Yellow flowers spill across deep green."
-  },
-  {
-    "index": 135,
-    "id": "135",
-    "source_file": "unwatermarked_Gemini_Generated_Image_c57nc3c57nc3c57n.png",
-    "photo_file": "135/photo.jpg",
-    "palette_file": "135/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#1B2A21",
-        "cmyk": "36 0 21 84"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#32453C",
-        "cmyk": "28 0 13 73"
-      },
-      {
-        "name": "Faded Emerald",
-        "hex": "#709082",
-        "cmyk": "22 0 10 44"
-      },
-      {
-        "name": "Smoked Emerald",
-        "hex": "#8FA49A",
-        "cmyk": "13 0 6 36"
-      }
-    ],
-    "caption": "Rows of mint cars, one orange vest."
-  },
-  {
-    "index": 136,
-    "id": "136",
-    "source_file": "unwatermarked_Gemini_Generated_Image_d7jhlnd7jhlnd7jh.png",
-    "photo_file": "136/photo.jpg",
-    "palette_file": "136/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#131310",
-        "cmyk": "0 0 16 93"
-      },
-      {
-        "name": "Dark Taupe",
-        "hex": "#676352",
-        "cmyk": "0 4 20 60"
-      },
-      {
-        "name": "Clay Grey",
-        "hex": "#828074",
-        "cmyk": "0 2 11 49"
-      },
-      {
-        "name": "Oat",
-        "hex": "#A4A197",
-        "cmyk": "0 2 8 36"
-      }
-    ],
-    "caption": "Warm wood desk set into grey stone."
-  },
-  {
-    "index": 137,
-    "id": "137",
-    "source_file": "unwatermarked_Gemini_Generated_Image_e48ct0e48ct0e48c.png",
-    "photo_file": "137/photo.jpg",
-    "palette_file": "137/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#201A19",
-        "cmyk": "0 19 22 87"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#3C3F3D",
-        "cmyk": "5 0 3 75"
-      },
-      {
-        "name": "Cocoa Grey",
-        "hex": "#615E5B",
-        "cmyk": "0 3 6 62"
-      },
-      {
-        "name": "Clay Grey",
-        "hex": "#7A7775",
-        "cmyk": "0 2 4 52"
-      }
-    ],
-    "caption": "Red spiral stair, green marble behind."
-  },
-  {
-    "index": 138,
-    "id": "138",
-    "source_file": "unwatermarked_Gemini_Generated_Image_hlmotjhlmotjhlmo.png",
-    "photo_file": "138/photo.jpg",
-    "palette_file": "138/palette.jpg",
-    "colors": [
-      {
-        "name": "Deep Teal",
-        "hex": "#1C2D2E",
-        "cmyk": "39 2 0 82"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#4D6C70",
-        "cmyk": "31 4 0 56"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#A85038",
-        "cmyk": "0 52 67 34"
-      },
-      {
-        "name": "Stone",
-        "hex": "#737A81",
-        "cmyk": "11 5 0 49"
-      }
-    ],
-    "caption": "Rust leaves over a teal wall."
-  },
-  {
-    "index": 139,
-    "id": "139",
-    "source_file": "unwatermarked_Gemini_Generated_Image_jn4l4cjn4l4cjn4l.png",
-    "photo_file": "139/photo.jpg",
-    "palette_file": "139/palette.jpg",
-    "colors": [
-      {
-        "name": "Umber",
-        "hex": "#402B21",
-        "cmyk": "0 33 48 75"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#685651",
-        "cmyk": "0 17 22 59"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#8E5A3E",
-        "cmyk": "0 37 56 44"
-      },
-      {
-        "name": "Orange",
-        "hex": "#A37F65",
-        "cmyk": "0 22 38 36"
-      }
-    ],
-    "caption": "Copper ironwork glowing in a terracotta hall."
-  },
-  {
-    "index": 140,
-    "id": "140",
-    "source_file": "unwatermarked_Gemini_Generated_Image_jouvjijouvjijouv.png",
-    "photo_file": "140/photo.jpg",
-    "palette_file": "140/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#12192C",
-        "cmyk": "59 43 0 83"
-      },
-      {
-        "name": "Graphite",
-        "hex": "#394939",
-        "cmyk": "22 0 22 71"
-      },
-      {
-        "name": "Cocoa Grey",
-        "hex": "#7E795C",
-        "cmyk": "0 4 27 51"
-      },
-      {
-        "name": "Linen",
-        "hex": "#C9C9C7",
-        "cmyk": "0 0 1 21"
-      }
-    ],
-    "caption": "Cobalt tub in a green room."
-  },
-  {
-    "index": 141,
-    "id": "141",
-    "source_file": "unwatermarked_Gemini_Generated_Image_n7850sn7850sn785.png",
-    "photo_file": "141/photo.jpg",
-    "palette_file": "141/palette.jpg",
-    "colors": [
       {
-        "name": "Pitch",
-        "hex": "#030B13",
-        "cmyk": "84 42 0 93"
+        "name": "Driftwood",
+        "hex": "#8A7E6B",
+        "cmyk": "0 9 22 46"
       },
       {
         "name": "Ink",
-        "hex": "#042441",
-        "cmyk": "94 45 0 75"
-      },
-      {
-        "name": "Electric Azure",
-        "hex": "#105A7E",
-        "cmyk": "87 29 0 51"
-      },
-      {
-        "name": "Cyan",
-        "hex": "#59899C",
-        "cmyk": "43 12 0 39"
+        "hex": "#17140F",
+        "cmyk": "0 13 35 91"
       }
     ],
-    "caption": "One open window in flat blue."
+    "gradient_file": "001-chalk-to-ink/gradient.jpg",
+    "palette_file": "001-chalk-to-ink/palette.jpg"
   },
   {
-    "index": 142,
-    "id": "142",
-    "source_file": "unwatermarked_Gemini_Generated_Image_qesv2cqesv2cqesv.png",
-    "photo_file": "142/photo.jpg",
-    "palette_file": "142/palette.jpg",
+    "index": 2,
+    "slug": "snow-to-pine",
+    "name": "Snow to Pine",
+    "category": "nature",
+    "structure": "inverted",
+    "caption": "Snowline down into the treeline. Snow to Pine —",
     "colors": [
       {
-        "name": "Espresso",
-        "hex": "#2D1218",
-        "cmyk": "0 60 47 82"
+        "name": "Snow",
+        "hex": "#EDF3EF",
+        "cmyk": "2 0 2 5"
       },
       {
-        "name": "Graphite",
-        "hex": "#453240",
-        "cmyk": "0 28 7 73"
+        "name": "Pine Sage",
+        "hex": "#5E8A73",
+        "cmyk": "32 0 17 46"
       },
       {
-        "name": "Stone",
-        "hex": "#82797D",
-        "cmyk": "0 7 4 49"
+        "name": "Black Pine",
+        "hex": "#0E211A",
+        "cmyk": "58 0 21 87"
+      }
+    ],
+    "gradient_file": "002-snow-to-pine/gradient.jpg",
+    "palette_file": "002-snow-to-pine/palette.jpg"
+  },
+  {
+    "index": 3,
+    "slug": "mist-to-cobalt",
+    "name": "Mist to Cobalt",
+    "category": "nature",
+    "structure": "inverted",
+    "caption": "Light at the top, depth at the bottom. Mist to Cobalt —",
+    "colors": [
+      {
+        "name": "Mist",
+        "hex": "#E6ECF5",
+        "cmyk": "6 4 0 4"
       },
+      {
+        "name": "Cobalt",
+        "hex": "#4F72C9",
+        "cmyk": "61 43 0 21"
+      },
+      {
+        "name": "Deep Sea",
+        "hex": "#0A1330",
+        "cmyk": "79 60 0 81"
+      }
+    ],
+    "gradient_file": "003-mist-to-cobalt/gradient.jpg",
+    "palette_file": "003-mist-to-cobalt/palette.jpg"
+  },
+  {
+    "index": 4,
+    "slug": "sand-to-ember",
+    "name": "Sand to Ember",
+    "category": "nature",
+    "structure": "inverted",
+    "caption": "Sand cooling into ember. Sand to Ember —",
+    "colors": [
+      {
+        "name": "Pale Sand",
+        "hex": "#F3E4CE",
+        "cmyk": "0 6 15 5"
+      },
+      {
+        "name": "Ember",
+        "hex": "#C4632C",
+        "cmyk": "0 49 78 23"
+      },
+      {
+        "name": "Charred",
+        "hex": "#2A1008",
+        "cmyk": "0 62 81 84"
+      }
+    ],
+    "gradient_file": "004-sand-to-ember/gradient.jpg",
+    "palette_file": "004-sand-to-ember/palette.jpg"
+  },
+  {
+    "index": 5,
+    "slug": "bloom-to-plum",
+    "name": "Bloom to Plum",
+    "category": "nature",
+    "structure": "inverted",
+    "caption": "A flower closing for the night. Bloom to Plum —",
+    "colors": [
+      {
+        "name": "Bloom",
+        "hex": "#F6E6EE",
+        "cmyk": "0 7 3 4"
+      },
+      {
+        "name": "Orchid",
+        "hex": "#A8548C",
+        "cmyk": "0 50 17 34"
+      },
+      {
+        "name": "Night Plum",
+        "hex": "#24102A",
+        "cmyk": "14 62 0 84"
+      }
+    ],
+    "gradient_file": "005-bloom-to-plum/gradient.jpg",
+    "palette_file": "005-bloom-to-plum/palette.jpg"
+  },
+  {
+    "index": 6,
+    "slug": "fog-to-petrol",
+    "name": "Fog to Petrol",
+    "category": "nature",
+    "structure": "inverted",
+    "caption": "Fog on the water, dark underneath. Fog to Petrol —",
+    "colors": [
+      {
+        "name": "Sea Fog",
+        "hex": "#E9EEF0",
+        "cmyk": "3 1 0 6"
+      },
+      {
+        "name": "Petrol Teal",
+        "hex": "#48808C",
+        "cmyk": "49 9 0 45"
+      },
+      {
+        "name": "Deep Petrol",
+        "hex": "#08191F",
+        "cmyk": "74 19 0 88"
+      }
+    ],
+    "gradient_file": "006-fog-to-petrol/gradient.jpg",
+    "palette_file": "006-fog-to-petrol/palette.jpg"
+  },
+  {
+    "index": 7,
+    "slug": "cream-to-olive",
+    "name": "Cream to Olive",
+    "category": "nature",
+    "structure": "inverted",
+    "caption": "Cream settling into olive. Cream to Olive —",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#F2F0DA",
+        "cmyk": "0 1 10 5"
+      },
+      {
+        "name": "Olive",
+        "hex": "#8E9440",
+        "cmyk": "4 0 57 42"
+      },
+      {
+        "name": "Dark Olive",
+        "hex": "#1E2010",
+        "cmyk": "6 0 50 87"
+      }
+    ],
+    "gradient_file": "007-cream-to-olive/gradient.jpg",
+    "palette_file": "007-cream-to-olive/palette.jpg"
+  },
+  {
+    "index": 8,
+    "slug": "linen-to-rust",
+    "name": "Linen to Rust",
+    "category": "abstract",
+    "structure": "inverted",
+    "caption": "Clean fabric, dirty metal. Linen to Rust —",
+    "colors": [
+      {
+        "name": "Linen",
+        "hex": "#F0E7DA",
+        "cmyk": "0 4 9 6"
+      },
+      {
+        "name": "Rust",
+        "hex": "#A8542E",
+        "cmyk": "0 50 73 34"
+      },
+      {
+        "name": "Oxide Black",
+        "hex": "#26120C",
+        "cmyk": "0 53 68 85"
+      }
+    ],
+    "gradient_file": "008-linen-to-rust/gradient.jpg",
+    "palette_file": "008-linen-to-rust/palette.jpg"
+  },
+  {
+    "index": 9,
+    "slug": "frost-to-violet",
+    "name": "Frost to Violet",
+    "category": "abstract",
+    "structure": "inverted",
+    "caption": "Cold light falling into color. Frost to Violet —",
+    "colors": [
+      {
+        "name": "Frost",
+        "hex": "#ECE9F7",
+        "cmyk": "4 6 0 3"
+      },
+      {
+        "name": "Violet",
+        "hex": "#6B4BC4",
+        "cmyk": "45 62 0 23"
+      },
+      {
+        "name": "Void Violet",
+        "hex": "#150C2E",
+        "cmyk": "54 74 0 82"
+      }
+    ],
+    "gradient_file": "009-frost-to-violet/gradient.jpg",
+    "palette_file": "009-frost-to-violet/palette.jpg"
+  },
+  {
+    "index": 10,
+    "slug": "shell-to-coral",
+    "name": "Shell to Coral",
+    "category": "nature",
+    "structure": "inverted",
+    "caption": "Shell on top, coral below. Shell to Coral —",
+    "colors": [
+      {
+        "name": "Shell",
+        "hex": "#FBEAE2",
+        "cmyk": "0 7 10 2"
+      },
+      {
+        "name": "Coral",
+        "hex": "#E2603F",
+        "cmyk": "0 58 72 11"
+      },
+      {
+        "name": "Deep Coral",
+        "hex": "#2C0F0A",
+        "cmyk": "0 66 77 83"
+      }
+    ],
+    "gradient_file": "010-shell-to-coral/gradient.jpg",
+    "palette_file": "010-shell-to-coral/palette.jpg"
+  },
+  {
+    "index": 11,
+    "slug": "ash-to-crimson",
+    "name": "Ash to Crimson",
+    "category": "abstract",
+    "structure": "inverted",
+    "caption": "Grey turning into something serious. Ash to Crimson —",
+    "colors": [
       {
         "name": "Ash",
-        "hex": "#9B9598",
-        "cmyk": "0 4 2 39"
-      }
-    ],
-    "caption": "A figure in blue crossing silver grass."
-  },
-  {
-    "index": 143,
-    "id": "143",
-    "source_file": "unwatermarked_Gemini_Generated_Image_rguqsxrguqsxrguq.png",
-    "photo_file": "143/photo.jpg",
-    "palette_file": "143/palette.jpg",
-    "colors": [
+        "hex": "#EDEAE8",
+        "cmyk": "0 1 2 7"
+      },
       {
         "name": "Crimson",
-        "hex": "#612728",
-        "cmyk": "0 60 59 62"
+        "hex": "#B02338",
+        "cmyk": "0 80 68 31"
       },
       {
-        "name": "Dark Jade",
-        "hex": "#0A5138",
-        "cmyk": "88 0 31 68"
-      },
-      {
-        "name": "Azure",
-        "hex": "#266C97",
-        "cmyk": "75 28 0 41"
-      },
-      {
-        "name": "Deep Azure",
-        "hex": "#448BB4",
-        "cmyk": "62 23 0 29"
+        "name": "Dried Blood",
+        "hex": "#200609",
+        "cmyk": "0 81 72 87"
       }
     ],
-    "caption": "Green wall meets red wall, thin tree."
+    "gradient_file": "011-ash-to-crimson/gradient.jpg",
+    "palette_file": "011-ash-to-crimson/palette.jpg"
   },
   {
-    "index": 144,
-    "id": "144",
-    "source_file": "unwatermarked_Gemini_Generated_Image_tx3raztx3raztx3r.png",
-    "photo_file": "144/photo.jpg",
-    "palette_file": "144/palette.jpg",
+    "index": 12,
+    "slug": "ivory-to-forest",
+    "name": "Ivory to Forest",
+    "category": "nature",
+    "structure": "inverted",
+    "caption": "Ivory dropping into forest. Ivory to Forest —",
     "colors": [
       {
-        "name": "Pitch",
-        "hex": "#12160C",
-        "cmyk": "18 0 45 91"
+        "name": "Ivory",
+        "hex": "#F1F2E7",
+        "cmyk": "0 0 5 5"
       },
       {
-        "name": "Graphite",
-        "hex": "#474342",
-        "cmyk": "0 6 7 72"
+        "name": "Forest",
+        "hex": "#3F7A4C",
+        "cmyk": "48 0 38 52"
       },
       {
-        "name": "Yellow",
-        "hex": "#74741B",
-        "cmyk": "0 0 77 55"
-      },
-      {
-        "name": "Gold",
-        "hex": "#97893C",
-        "cmyk": "0 9 60 41"
+        "name": "Deep Forest",
+        "hex": "#0C1C12",
+        "cmyk": "57 0 36 89"
       }
     ],
-    "caption": "Cypress road, yellow line, green fields."
+    "gradient_file": "012-ivory-to-forest/gradient.jpg",
+    "palette_file": "012-ivory-to-forest/palette.jpg"
   },
   {
-    "index": 145,
-    "id": "145",
-    "source_file": "unwatermarked_Gemini_Generated_Image_u3nzlnu3nzlnu3nz.png",
-    "photo_file": "145/photo.jpg",
-    "palette_file": "145/palette.jpg",
+    "index": 13,
+    "slug": "pearl-to-slate",
+    "name": "Pearl to Slate",
+    "category": "abstract",
+    "structure": "inverted",
+    "caption": "Three greys, top-lit. Pearl to Slate —",
     "colors": [
       {
-        "name": "Pitch",
-        "hex": "#161616",
-        "cmyk": "0 0 0 91"
+        "name": "Pearl",
+        "hex": "#EFF1F3",
+        "cmyk": "2 1 0 5"
       },
       {
-        "name": "Clay Grey",
-        "hex": "#8E8E8D",
-        "cmyk": "0 0 1 44"
-      },
-      {
-        "name": "Silver",
-        "hex": "#B9B9B9",
-        "cmyk": "0 0 0 27"
-      },
-      {
-        "name": "Chalk",
-        "hex": "#E4E5E4",
-        "cmyk": "0 0 0 10"
-      }
-    ],
-    "caption": "Grey wooden ship on white sand."
-  },
-  {
-    "index": 146,
-    "id": "146",
-    "source_file": "unwatermarked_Gemini_Generated_Image_v6g5qjv6g5qjv6g5.png",
-    "photo_file": "146/photo.jpg",
-    "palette_file": "146/palette.jpg",
-    "colors": [
-      {
-        "name": "Charcoal",
-        "hex": "#29382B",
-        "cmyk": "27 0 23 78"
-      },
-      {
-        "name": "Umber",
-        "hex": "#73402C",
-        "cmyk": "0 44 62 55"
-      },
-      {
-        "name": "Faded Orange",
-        "hex": "#8C715D",
-        "cmyk": "0 19 34 45"
-      },
-      {
-        "name": "Smoked Orange",
-        "hex": "#AB9A8D",
-        "cmyk": "0 10 18 33"
-      }
-    ],
-    "caption": "Green wall meets warm terracotta."
-  },
-  {
-    "index": 147,
-    "id": "147",
-    "source_file": "unwatermarked_Gemini_Generated_Image_w6yq8fw6yq8fw6yq.png",
-    "photo_file": "147/photo.jpg",
-    "palette_file": "147/palette.jpg",
-    "colors": [
-      {
-        "name": "Pitch",
-        "hex": "#192020",
-        "cmyk": "22 0 0 87"
-      },
-      {
-        "name": "Umber",
-        "hex": "#472C13",
-        "cmyk": "0 38 73 72"
-      },
-      {
-        "name": "Teal",
-        "hex": "#234748",
-        "cmyk": "51 1 0 72"
-      },
-      {
-        "name": "Orange",
-        "hex": "#836241",
-        "cmyk": "0 25 50 49"
-      }
-    ],
-    "caption": "White cat, teal wall, amber window."
-  },
-  {
-    "index": 148,
-    "id": "148",
-    "source_file": "unwatermarked_Gemini_Generated_Image_wfptg1wfptg1wfpt.png",
-    "photo_file": "148/photo.jpg",
-    "palette_file": "148/palette.jpg",
-    "colors": [
-      {
-        "name": "Espresso",
-        "hex": "#111109",
-        "cmyk": "0 0 47 93"
-      },
-      {
-        "name": "Dark Emerald",
-        "hex": "#1D3A26",
-        "cmyk": "50 0 34 77"
-      },
-      {
-        "name": "Umber",
-        "hex": "#A13E1E",
-        "cmyk": "0 61 81 37"
-      },
-      {
-        "name": "Orange",
-        "hex": "#CB9570",
-        "cmyk": "0 27 45 20"
-      }
-    ],
-    "caption": "Green wool cap, rust background, magpie."
-  },
-  {
-    "index": 149,
-    "id": "149",
-    "source_file": "unwatermarked_Gemini_Generated_Image_xkwe3zxkwe3zxkwe.png",
-    "photo_file": "149/photo.jpg",
-    "palette_file": "149/palette.jpg",
-    "colors": [
-      {
-        "name": "Dusty Teal",
-        "hex": "#26393A",
-        "cmyk": "34 2 0 77"
-      },
-      {
-        "name": "Red",
-        "hex": "#6D3023",
-        "cmyk": "0 56 68 57"
+        "name": "Slate",
+        "hex": "#6B7A8A",
+        "cmyk": "22 12 0 46"
       },
       {
         "name": "Dark Slate",
-        "hex": "#5C8487",
-        "cmyk": "32 2 0 47"
-      },
-      {
-        "name": "Smoked Cyan",
-        "hex": "#76A0A5",
-        "cmyk": "28 3 0 35"
+        "hex": "#161A20",
+        "cmyk": "31 19 0 87"
       }
     ],
-    "caption": "Pale blue tile above burnt orange."
+    "gradient_file": "013-pearl-to-slate/gradient.jpg",
+    "palette_file": "013-pearl-to-slate/palette.jpg"
   },
   {
-    "index": 150,
-    "id": "150",
-    "source_file": "unwatermarked_Gemini_Generated_Image_yn7chhyn7chhyn7c.png",
-    "photo_file": "150/photo.jpg",
-    "palette_file": "150/palette.jpg",
+    "index": 14,
+    "slug": "wheat-to-teal",
+    "name": "Wheat to Teal",
+    "category": "abstract",
+    "structure": "inverted",
+    "caption": "Warm above, cold below. Wheat to Teal —",
+    "colors": [
+      {
+        "name": "Wheat",
+        "hex": "#F2E8CE",
+        "cmyk": "0 4 15 5"
+      },
+      {
+        "name": "Teal",
+        "hex": "#2E8079",
+        "cmyk": "64 0 5 50"
+      },
+      {
+        "name": "Abyss Teal",
+        "hex": "#071E1C",
+        "cmyk": "77 0 7 88"
+      }
+    ],
+    "gradient_file": "014-wheat-to-teal/gradient.jpg",
+    "palette_file": "014-wheat-to-teal/palette.jpg"
+  },
+  {
+    "index": 15,
+    "slug": "blush-to-navy",
+    "name": "Blush to Navy",
+    "category": "abstract",
+    "structure": "inverted",
+    "caption": "Soft pink dissolving into navy. Blush to Navy —",
+    "colors": [
+      {
+        "name": "Blush",
+        "hex": "#F7E7EA",
+        "cmyk": "0 6 5 3"
+      },
+      {
+        "name": "Denim Blue",
+        "hex": "#6577B5",
+        "cmyk": "44 34 0 29"
+      },
+      {
+        "name": "Navy",
+        "hex": "#0B1130",
+        "cmyk": "77 65 0 81"
+      }
+    ],
+    "gradient_file": "015-blush-to-navy/gradient.jpg",
+    "palette_file": "015-blush-to-navy/palette.jpg"
+  },
+  {
+    "index": 16,
+    "slug": "clay-terrace",
+    "name": "Clay Terrace",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "No black, no white. Just clay. Clay Terrace —",
+    "colors": [
+      {
+        "name": "Fired Clay",
+        "hex": "#A9704F",
+        "cmyk": "0 34 53 34"
+      },
+      {
+        "name": "Warm Clay",
+        "hex": "#C99A6A",
+        "cmyk": "0 23 47 21"
+      },
+      {
+        "name": "Shadow Clay",
+        "hex": "#7E5A46",
+        "cmyk": "0 29 44 51"
+      }
+    ],
+    "gradient_file": "016-clay-terrace/gradient.jpg",
+    "palette_file": "016-clay-terrace/palette.jpg"
+  },
+  {
+    "index": 17,
+    "slug": "brass-and-moss",
+    "name": "Brass & Moss",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "Two metals and a plant, same volume. Brass & Moss —",
+    "colors": [
+      {
+        "name": "Brass",
+        "hex": "#9A8442",
+        "cmyk": "0 14 57 40"
+      },
+      {
+        "name": "Moss",
+        "hex": "#6F7A45",
+        "cmyk": "9 0 43 52"
+      },
+      {
+        "name": "Pale Brass",
+        "hex": "#B39B5C",
+        "cmyk": "0 13 49 30"
+      }
+    ],
+    "gradient_file": "017-brass-and-moss/gradient.jpg",
+    "palette_file": "017-brass-and-moss/palette.jpg"
+  },
+  {
+    "index": 18,
+    "slug": "dusty-highway",
+    "name": "Dusty Highway",
+    "category": "abstract",
+    "structure": "midtone",
+    "caption": "Everything at the same volume. Dusty Highway —",
+    "colors": [
+      {
+        "name": "Road Grey",
+        "hex": "#8A8175",
+        "cmyk": "0 7 15 46"
+      },
+      {
+        "name": "Dust",
+        "hex": "#A79A88",
+        "cmyk": "0 8 19 35"
+      },
+      {
+        "name": "Tarmac",
+        "hex": "#6E675C",
+        "cmyk": "0 6 16 57"
+      }
+    ],
+    "gradient_file": "018-dusty-highway/gradient.jpg",
+    "palette_file": "018-dusty-highway/palette.jpg"
+  },
+  {
+    "index": 19,
+    "slug": "faded-postcard",
+    "name": "Faded Postcard",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "A photo left in the sun. Faded Postcard —",
+    "colors": [
+      {
+        "name": "Faded Peach",
+        "hex": "#C99A7E",
+        "cmyk": "0 23 37 21"
+      },
+      {
+        "name": "Faded Sage",
+        "hex": "#9BA98F",
+        "cmyk": "8 0 15 34"
+      },
+      {
+        "name": "Faded Gold",
+        "hex": "#D5B78C",
+        "cmyk": "0 14 34 16"
+      }
+    ],
+    "gradient_file": "019-faded-postcard/gradient.jpg",
+    "palette_file": "019-faded-postcard/palette.jpg"
+  },
+  {
+    "index": 20,
+    "slug": "worn-denim",
+    "name": "Worn Denim",
+    "category": "abstract",
+    "structure": "midtone",
+    "caption": "Three shades of the same jacket. Worn Denim —",
+    "colors": [
+      {
+        "name": "Denim",
+        "hex": "#5C7290",
+        "cmyk": "36 21 0 44"
+      },
+      {
+        "name": "Light Denim",
+        "hex": "#7E93AB",
+        "cmyk": "26 14 0 33"
+      },
+      {
+        "name": "Dark Denim",
+        "hex": "#45566E",
+        "cmyk": "37 22 0 57"
+      }
+    ],
+    "gradient_file": "020-worn-denim/gradient.jpg",
+    "palette_file": "020-worn-denim/palette.jpg"
+  },
+  {
+    "index": 21,
+    "slug": "adobe-noon",
+    "name": "Adobe Noon",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "Wall, shadow, sunlight. Adobe Noon —",
+    "colors": [
+      {
+        "name": "Adobe",
+        "hex": "#C08462",
+        "cmyk": "0 31 49 25"
+      },
+      {
+        "name": "Adobe Shade",
+        "hex": "#A9694D",
+        "cmyk": "0 38 54 34"
+      },
+      {
+        "name": "Adobe Light",
+        "hex": "#D9A97F",
+        "cmyk": "0 22 41 15"
+      }
+    ],
+    "gradient_file": "021-adobe-noon/gradient.jpg",
+    "palette_file": "021-adobe-noon/palette.jpg"
+  },
+  {
+    "index": 22,
+    "slug": "sage-and-brick",
+    "name": "Sage & Brick",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "Garden green against old brick. Sage & Brick —",
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#8B9E85",
+        "cmyk": "12 0 16 38"
+      },
+      {
+        "name": "Brick",
+        "hex": "#A9604C",
+        "cmyk": "0 43 55 34"
+      },
+      {
+        "name": "Mortar",
+        "hex": "#C0B39A",
+        "cmyk": "0 7 20 25"
+      }
+    ],
+    "gradient_file": "022-sage-and-brick/gradient.jpg",
+    "palette_file": "022-sage-and-brick/palette.jpg"
+  },
+  {
+    "index": 23,
+    "slug": "harbor-noon",
+    "name": "Harbor Noon",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "Working water, no drama. Harbor Noon —",
+    "colors": [
+      {
+        "name": "Harbor Blue",
+        "hex": "#4E7A86",
+        "cmyk": "42 9 0 47"
+      },
+      {
+        "name": "Shallow",
+        "hex": "#6E9BA3",
+        "cmyk": "33 5 0 36"
+      },
+      {
+        "name": "Deep Harbor",
+        "hex": "#3D5F6B",
+        "cmyk": "43 11 0 58"
+      }
+    ],
+    "gradient_file": "023-harbor-noon/gradient.jpg",
+    "palette_file": "023-harbor-noon/palette.jpg"
+  },
+  {
+    "index": 24,
+    "slug": "mustard-field",
+    "name": "Mustard Field",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "Mustard in three weights. Mustard Field —",
+    "colors": [
+      {
+        "name": "Mustard",
+        "hex": "#B79235",
+        "cmyk": "0 20 71 28"
+      },
+      {
+        "name": "Olive Mustard",
+        "hex": "#8E7A3C",
+        "cmyk": "0 14 58 44"
+      },
+      {
+        "name": "Pale Mustard",
+        "hex": "#CDA95A",
+        "cmyk": "0 18 56 20"
+      }
+    ],
+    "gradient_file": "024-mustard-field/gradient.jpg",
+    "palette_file": "024-mustard-field/palette.jpg"
+  },
+  {
+    "index": 25,
+    "slug": "mauve-stone",
+    "name": "Mauve Stone",
+    "category": "abstract",
+    "structure": "midtone",
+    "caption": "Grey with a pulse in it. Mauve Stone —",
+    "colors": [
+      {
+        "name": "Mauve",
+        "hex": "#8E7480",
+        "cmyk": "0 18 10 44"
+      },
+      {
+        "name": "Pale Mauve",
+        "hex": "#A9909A",
+        "cmyk": "0 15 9 34"
+      },
+      {
+        "name": "Deep Mauve",
+        "hex": "#6F5A66",
+        "cmyk": "0 19 8 56"
+      }
+    ],
+    "gradient_file": "025-mauve-stone/gradient.jpg",
+    "palette_file": "025-mauve-stone/palette.jpg"
+  },
+  {
+    "index": 26,
+    "slug": "olive-drab",
+    "name": "Olive Drab",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "Utility green, three steps. Olive Drab —",
+    "colors": [
+      {
+        "name": "Drab",
+        "hex": "#6E7350",
+        "cmyk": "4 0 30 55"
+      },
+      {
+        "name": "Light Drab",
+        "hex": "#8A8E68",
+        "cmyk": "3 0 27 44"
+      },
+      {
+        "name": "Dark Drab",
+        "hex": "#565A3C",
+        "cmyk": "4 0 33 65"
+      }
+    ],
+    "gradient_file": "026-olive-drab/gradient.jpg",
+    "palette_file": "026-olive-drab/palette.jpg"
+  },
+  {
+    "index": 27,
+    "slug": "copper-patina",
+    "name": "Copper Patina",
+    "category": "abstract",
+    "structure": "midtone",
+    "caption": "The metal and what it becomes. Copper Patina —",
+    "colors": [
+      {
+        "name": "Copper",
+        "hex": "#A2643E",
+        "cmyk": "0 38 62 36"
+      },
+      {
+        "name": "Patina",
+        "hex": "#6E8E80",
+        "cmyk": "23 0 10 44"
+      },
+      {
+        "name": "Light Copper",
+        "hex": "#C08A5E",
+        "cmyk": "0 28 51 25"
+      }
+    ],
+    "gradient_file": "027-copper-patina/gradient.jpg",
+    "palette_file": "027-copper-patina/palette.jpg"
+  },
+  {
+    "index": 28,
+    "slug": "desert-rose",
+    "name": "Desert Rose",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "Rose with sand in it. Desert Rose —",
+    "colors": [
+      {
+        "name": "Desert Rose",
+        "hex": "#B07A72",
+        "cmyk": "0 31 35 31"
+      },
+      {
+        "name": "Deep Rose",
+        "hex": "#8E5F5A",
+        "cmyk": "0 33 37 44"
+      },
+      {
+        "name": "Pale Rose",
+        "hex": "#C9998F",
+        "cmyk": "0 24 29 21"
+      }
+    ],
+    "gradient_file": "028-desert-rose/gradient.jpg",
+    "palette_file": "028-desert-rose/palette.jpg"
+  },
+  {
+    "index": 29,
+    "slug": "marine-drab",
+    "name": "Marine Drab",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "Sea colors with the shine off. Marine Drab —",
+    "colors": [
+      {
+        "name": "Marine",
+        "hex": "#4A6B72",
+        "cmyk": "35 6 0 55"
+      },
+      {
+        "name": "Pale Marine",
+        "hex": "#6B8A8A",
+        "cmyk": "22 0 0 46"
+      },
+      {
+        "name": "Deep Marine",
+        "hex": "#3A555C",
+        "cmyk": "37 8 0 64"
+      }
+    ],
+    "gradient_file": "029-marine-drab/gradient.jpg",
+    "palette_file": "029-marine-drab/palette.jpg"
+  },
+  {
+    "index": 30,
+    "slug": "tobacco-leaf",
+    "name": "Tobacco Leaf",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "Dried leaf, three stages. Tobacco Leaf —",
+    "colors": [
+      {
+        "name": "Tobacco",
+        "hex": "#8A6742",
+        "cmyk": "0 25 52 46"
+      },
+      {
+        "name": "Light Leaf",
+        "hex": "#A98356",
+        "cmyk": "0 22 49 34"
+      },
+      {
+        "name": "Dark Leaf",
+        "hex": "#6B4F33",
+        "cmyk": "0 26 52 58"
+      }
+    ],
+    "gradient_file": "030-tobacco-leaf/gradient.jpg",
+    "palette_file": "030-tobacco-leaf/palette.jpg"
+  },
+  {
+    "index": 31,
+    "slug": "heather-field",
+    "name": "Heather Field",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "Purple that behaves like a neutral. Heather Field —",
+    "colors": [
+      {
+        "name": "Heather",
+        "hex": "#8B7FA8",
+        "cmyk": "17 24 0 34"
+      },
+      {
+        "name": "Pale Heather",
+        "hex": "#A99BC0",
+        "cmyk": "12 19 0 25"
+      },
+      {
+        "name": "Deep Heather",
+        "hex": "#6E6390",
+        "cmyk": "24 31 0 44"
+      }
+    ],
+    "gradient_file": "031-heather-field/gradient.jpg",
+    "palette_file": "031-heather-field/palette.jpg"
+  },
+  {
+    "index": 32,
+    "slug": "pistachio-shade",
+    "name": "Pistachio Shade",
+    "category": "nature",
+    "structure": "midtone",
+    "caption": "Green nut, green shell, green shade. Pistachio Shade —",
+    "colors": [
+      {
+        "name": "Pistachio",
+        "hex": "#94A86E",
+        "cmyk": "12 0 35 34"
+      },
+      {
+        "name": "Light Pistachio",
+        "hex": "#B0C08A",
+        "cmyk": "8 0 28 25"
+      },
+      {
+        "name": "Deep Pistachio",
+        "hex": "#7A8E56",
+        "cmyk": "14 0 39 44"
+      }
+    ],
+    "gradient_file": "032-pistachio-shade/gradient.jpg",
+    "palette_file": "032-pistachio-shade/palette.jpg"
+  },
+  {
+    "index": 33,
+    "slug": "rust-and-sky",
+    "name": "Rust & Sky",
+    "category": "abstract",
+    "structure": "midtone",
+    "caption": "Opposites at the same brightness. Rust & Sky —",
+    "colors": [
+      {
+        "name": "Rust",
+        "hex": "#A85C3C",
+        "cmyk": "0 45 64 34"
+      },
+      {
+        "name": "Sky",
+        "hex": "#6E8EA8",
+        "cmyk": "35 15 0 34"
+      },
+      {
+        "name": "Pale Rust",
+        "hex": "#C98A6A",
+        "cmyk": "0 31 47 21"
+      }
+    ],
+    "gradient_file": "033-rust-and-sky/gradient.jpg",
+    "palette_file": "033-rust-and-sky/palette.jpg"
+  },
+  {
+    "index": 34,
+    "slug": "slate-and-sand",
+    "name": "Slate & Sand",
+    "category": "abstract",
+    "structure": "midtone",
+    "caption": "Cold and warm, evenly matched. Slate & Sand —",
+    "colors": [
+      {
+        "name": "Slate",
+        "hex": "#6E7A82",
+        "cmyk": "15 6 0 49"
+      },
+      {
+        "name": "Sand",
+        "hex": "#B0A38E",
+        "cmyk": "0 7 19 31"
+      },
+      {
+        "name": "Pale Slate",
+        "hex": "#8A9199",
+        "cmyk": "10 5 0 40"
+      }
+    ],
+    "gradient_file": "034-slate-and-sand/gradient.jpg",
+    "palette_file": "034-slate-and-sand/palette.jpg"
+  },
+  {
+    "index": 35,
+    "slug": "plum-drab",
+    "name": "Plum Drab",
+    "category": "abstract",
+    "structure": "midtone",
+    "caption": "Plum with the sweetness gone. Plum Drab —",
+    "colors": [
+      {
+        "name": "Plum Drab",
+        "hex": "#7A5A6E",
+        "cmyk": "0 26 10 52"
+      },
+      {
+        "name": "Light Plum",
+        "hex": "#98748A",
+        "cmyk": "0 24 9 40"
+      },
+      {
+        "name": "Dark Plum",
+        "hex": "#5E4454",
+        "cmyk": "0 28 11 63"
+      }
+    ],
+    "gradient_file": "035-plum-drab/gradient.jpg",
+    "palette_file": "035-plum-drab/palette.jpg"
+  },
+  {
+    "index": 36,
+    "slug": "ember-in-the-dark",
+    "name": "Ember in the Dark",
+    "category": "tech",
+    "structure": "accent",
+    "caption": "Two darks and one thing burning. Ember in the Dark —",
+    "colors": [
+      {
+        "name": "Pitch",
+        "hex": "#14100F",
+        "cmyk": "0 20 25 92"
+      },
+      {
+        "name": "Char",
+        "hex": "#2A211E",
+        "cmyk": "0 21 29 84"
+      },
+      {
+        "name": "Ember",
+        "hex": "#F0763A",
+        "cmyk": "0 51 76 6"
+      }
+    ],
+    "gradient_file": "036-ember-in-the-dark/gradient.jpg",
+    "palette_file": "036-ember-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 37,
+    "slug": "cyan-in-the-dark",
+    "name": "Cyan in the Dark",
+    "category": "tech",
+    "structure": "accent",
+    "caption": "Almost nothing, then cyan. Cyan in the Dark —",
+    "colors": [
+      {
+        "name": "Night",
+        "hex": "#0B1216",
+        "cmyk": "50 18 0 91"
+      },
+      {
+        "name": "Deep Steel",
+        "hex": "#16242B",
+        "cmyk": "49 16 0 83"
+      },
+      {
+        "name": "Cyan",
+        "hex": "#35D6E8",
+        "cmyk": "77 8 0 9"
+      }
+    ],
+    "gradient_file": "037-cyan-in-the-dark/gradient.jpg",
+    "palette_file": "037-cyan-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 38,
+    "slug": "gold-in-the-dark",
+    "name": "Gold in the Dark",
+    "category": "abstract",
+    "structure": "accent",
+    "caption": "One gold source, two darks. Gold in the Dark —",
+    "colors": [
+      {
+        "name": "Pitch Brown",
+        "hex": "#100E0A",
+        "cmyk": "0 12 38 94"
+      },
+      {
+        "name": "Dark Bronze",
+        "hex": "#211D16",
+        "cmyk": "0 12 33 87"
+      },
+      {
+        "name": "Gold",
+        "hex": "#F0B72E",
+        "cmyk": "0 24 81 6"
+      }
+    ],
+    "gradient_file": "038-gold-in-the-dark/gradient.jpg",
+    "palette_file": "038-gold-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 39,
+    "slug": "green-in-the-dark",
+    "name": "Green in the Dark",
+    "category": "tech",
+    "structure": "accent",
+    "caption": "Signal green in a dark room. Green in the Dark —",
+    "colors": [
+      {
+        "name": "Deep Black",
+        "hex": "#0A100C",
+        "cmyk": "38 0 25 94"
+      },
+      {
+        "name": "Forest Black",
+        "hex": "#16241A",
+        "cmyk": "39 0 28 86"
+      },
+      {
+        "name": "Signal Green",
+        "hex": "#4BE07A",
+        "cmyk": "67 0 46 12"
+      }
+    ],
+    "gradient_file": "039-green-in-the-dark/gradient.jpg",
+    "palette_file": "039-green-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 40,
+    "slug": "pink-in-the-dark",
+    "name": "Pink in the Dark",
+    "category": "abstract",
+    "structure": "accent",
+    "caption": "Two shadows and one neon. Pink in the Dark —",
+    "colors": [
+      {
+        "name": "Black Plum",
+        "hex": "#120A10",
+        "cmyk": "0 44 11 93"
+      },
+      {
+        "name": "Deep Plum",
+        "hex": "#241423",
+        "cmyk": "0 44 3 86"
+      },
+      {
+        "name": "Neon Pink",
+        "hex": "#FF5FA2",
+        "cmyk": "0 63 36 0"
+      }
+    ],
+    "gradient_file": "040-pink-in-the-dark/gradient.jpg",
+    "palette_file": "040-pink-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 41,
+    "slug": "blue-in-the-dark",
+    "name": "Blue in the Dark",
+    "category": "tech",
+    "structure": "accent",
+    "caption": "The only light source is blue. Blue in the Dark —",
+    "colors": [
+      {
+        "name": "Night Navy",
+        "hex": "#080C16",
+        "cmyk": "64 45 0 91"
+      },
+      {
+        "name": "Deep Navy",
+        "hex": "#141C2E",
+        "cmyk": "57 39 0 82"
+      },
+      {
+        "name": "Bright Blue",
+        "hex": "#4F86FF",
+        "cmyk": "69 47 0 0"
+      }
+    ],
+    "gradient_file": "041-blue-in-the-dark/gradient.jpg",
+    "palette_file": "041-blue-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 42,
+    "slug": "violet-in-the-dark",
+    "name": "Violet in the Dark",
+    "category": "tech",
+    "structure": "accent",
+    "caption": "Dark, darker, violet. Violet in the Dark —",
+    "colors": [
+      {
+        "name": "Black Violet",
+        "hex": "#0E0A16",
+        "cmyk": "36 55 0 91"
+      },
+      {
+        "name": "Deep Violet",
+        "hex": "#1C1430",
+        "cmyk": "42 58 0 81"
+      },
+      {
+        "name": "Bright Violet",
+        "hex": "#9A5CFF",
+        "cmyk": "40 64 0 0"
+      }
+    ],
+    "gradient_file": "042-violet-in-the-dark/gradient.jpg",
+    "palette_file": "042-violet-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 43,
+    "slug": "red-in-the-dark",
+    "name": "Red in the Dark",
+    "category": "tech",
+    "structure": "accent",
+    "caption": "Two blacks and an alarm. Red in the Dark —",
+    "colors": [
+      {
+        "name": "Black Red",
+        "hex": "#140809",
+        "cmyk": "0 60 55 92"
+      },
+      {
+        "name": "Dark Red",
+        "hex": "#2A0F12",
+        "cmyk": "0 64 57 84"
+      },
+      {
+        "name": "Alarm Red",
+        "hex": "#FF3B30",
+        "cmyk": "0 77 81 0"
+      }
+    ],
+    "gradient_file": "043-red-in-the-dark/gradient.jpg",
+    "palette_file": "043-red-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 44,
+    "slug": "lime-in-the-dark",
+    "name": "Lime in the Dark",
+    "category": "tech",
+    "structure": "accent",
+    "caption": "Lime is the only thing awake. Lime in the Dark —",
+    "colors": [
+      {
+        "name": "Black Olive",
+        "hex": "#0E1008",
+        "cmyk": "12 0 50 94"
+      },
+      {
+        "name": "Dark Olive",
+        "hex": "#1C2010",
+        "cmyk": "12 0 50 87"
+      },
+      {
+        "name": "Lime",
+        "hex": "#C6F03A",
+        "cmyk": "17 0 76 6"
+      }
+    ],
+    "gradient_file": "044-lime-in-the-dark/gradient.jpg",
+    "palette_file": "044-lime-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 45,
+    "slug": "orange-in-the-dark",
+    "name": "Orange in the Dark",
+    "category": "tech",
+    "structure": "accent",
+    "caption": "Warmth against two darks. Orange in the Dark —",
+    "colors": [
+      {
+        "name": "Black Umber",
+        "hex": "#140C06",
+        "cmyk": "0 40 70 92"
+      },
+      {
+        "name": "Dark Umber",
+        "hex": "#26170C",
+        "cmyk": "0 39 68 85"
+      },
+      {
+        "name": "Orange",
+        "hex": "#FF8C1A",
+        "cmyk": "0 45 90 0"
+      }
+    ],
+    "gradient_file": "045-orange-in-the-dark/gradient.jpg",
+    "palette_file": "045-orange-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 46,
+    "slug": "white-in-the-dark",
+    "name": "White in the Dark",
+    "category": "abstract",
+    "structure": "accent",
+    "caption": "Pure contrast, nothing else. White in the Dark —",
+    "colors": [
+      {
+        "name": "Onyx",
+        "hex": "#0A0A0B",
+        "cmyk": "9 9 0 96"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#1A1A1C",
+        "cmyk": "7 7 0 89"
+      },
+      {
+        "name": "White",
+        "hex": "#F5F5F5",
+        "cmyk": "0 0 0 4"
+      }
+    ],
+    "gradient_file": "046-white-in-the-dark/gradient.jpg",
+    "palette_file": "046-white-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 47,
+    "slug": "teal-in-the-dark",
+    "name": "Teal in the Dark",
+    "category": "tech",
+    "structure": "accent",
+    "caption": "One cold light in the dark. Teal in the Dark —",
+    "colors": [
+      {
+        "name": "Black Teal",
+        "hex": "#08120F",
+        "cmyk": "56 0 17 93"
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "#12241E",
+        "cmyk": "50 0 17 86"
+      },
+      {
+        "name": "Bright Teal",
+        "hex": "#2EE0AE",
+        "cmyk": "79 0 22 12"
+      }
+    ],
+    "gradient_file": "047-teal-in-the-dark/gradient.jpg",
+    "palette_file": "047-teal-in-the-dark/palette.jpg"
+  },
+  {
+    "index": 48,
+    "slug": "paper-with-ink",
+    "name": "Paper with Ink",
+    "category": "abstract",
+    "structure": "light",
+    "caption": "Mostly paper, a little ink. Paper with Ink —",
+    "colors": [
+      {
+        "name": "Paper",
+        "hex": "#F6F3EC",
+        "cmyk": "0 1 4 4"
+      },
+      {
+        "name": "Warm Paper",
+        "hex": "#E6E0D4",
+        "cmyk": "0 3 8 10"
+      },
+      {
+        "name": "Ink",
+        "hex": "#1C1A16",
+        "cmyk": "0 7 21 89"
+      }
+    ],
+    "gradient_file": "048-paper-with-ink/gradient.jpg",
+    "palette_file": "048-paper-with-ink/palette.jpg"
+  },
+  {
+    "index": 49,
+    "slug": "cream-with-navy",
+    "name": "Cream with Navy",
+    "category": "abstract",
+    "structure": "light",
+    "caption": "Two creams held down by navy. Cream with Navy —",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#F7F1E4",
+        "cmyk": "0 2 8 3"
+      },
+      {
+        "name": "Deep Cream",
+        "hex": "#E8DFC9",
+        "cmyk": "0 4 13 9"
+      },
+      {
+        "name": "Navy",
+        "hex": "#12203F",
+        "cmyk": "71 49 0 75"
+      }
+    ],
+    "gradient_file": "049-cream-with-navy/gradient.jpg",
+    "palette_file": "049-cream-with-navy/palette.jpg"
+  },
+  {
+    "index": 50,
+    "slug": "mint-with-charcoal",
+    "name": "Mint with Charcoal",
+    "category": "nature",
+    "structure": "light",
+    "caption": "Light mint, one hard stop. Mint with Charcoal —",
+    "colors": [
+      {
+        "name": "Mint Wash",
+        "hex": "#EEF6F1",
+        "cmyk": "3 0 2 4"
+      },
+      {
+        "name": "Mint",
+        "hex": "#D7E8DE",
+        "cmyk": "7 0 4 9"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#1E2422",
+        "cmyk": "17 0 6 86"
+      }
+    ],
+    "gradient_file": "050-mint-with-charcoal/gradient.jpg",
+    "palette_file": "050-mint-with-charcoal/palette.jpg"
+  },
+  {
+    "index": 51,
+    "slug": "blush-with-oxblood",
+    "name": "Blush with Oxblood",
+    "category": "abstract",
+    "structure": "light",
+    "caption": "Soft, softer, then serious. Blush with Oxblood —",
+    "colors": [
+      {
+        "name": "Blush Wash",
+        "hex": "#FBEFF0",
+        "cmyk": "0 5 4 2"
+      },
+      {
+        "name": "Blush",
+        "hex": "#F0DADD",
+        "cmyk": "0 9 8 6"
+      },
+      {
+        "name": "Oxblood",
+        "hex": "#4A121C",
+        "cmyk": "0 76 62 71"
+      }
+    ],
+    "gradient_file": "051-blush-with-oxblood/gradient.jpg",
+    "palette_file": "051-blush-with-oxblood/palette.jpg"
+  },
+  {
+    "index": 52,
+    "slug": "sky-with-ink",
+    "name": "Sky with Ink",
+    "category": "nature",
+    "structure": "light",
+    "caption": "Wide light, one anchor. Sky with Ink —",
+    "colors": [
+      {
+        "name": "Sky Wash",
+        "hex": "#EFF5FA",
+        "cmyk": "4 2 0 2"
+      },
+      {
+        "name": "Pale Sky",
+        "hex": "#D8E6F0",
+        "cmyk": "10 4 0 6"
+      },
+      {
+        "name": "Ink Blue",
+        "hex": "#10161E",
+        "cmyk": "47 27 0 88"
+      }
+    ],
+    "gradient_file": "052-sky-with-ink/gradient.jpg",
+    "palette_file": "052-sky-with-ink/palette.jpg"
+  },
+  {
+    "index": 53,
+    "slug": "sand-with-espresso",
+    "name": "Sand with Espresso",
+    "category": "nature",
+    "structure": "light",
+    "caption": "Sand, sand, espresso. Sand with Espresso —",
+    "colors": [
+      {
+        "name": "Pale Sand",
+        "hex": "#F5EDDF",
+        "cmyk": "0 3 9 4"
+      },
+      {
+        "name": "Sand",
+        "hex": "#E4D6BE",
+        "cmyk": "0 6 17 11"
+      },
+      {
+        "name": "Espresso",
+        "hex": "#241810",
+        "cmyk": "0 33 56 86"
+      }
+    ],
+    "gradient_file": "053-sand-with-espresso/gradient.jpg",
+    "palette_file": "053-sand-with-espresso/palette.jpg"
+  },
+  {
+    "index": 54,
+    "slug": "lilac-with-black",
+    "name": "Lilac with Black",
+    "category": "abstract",
+    "structure": "light",
+    "caption": "Barely-there purple, hard base. Lilac with Black —",
+    "colors": [
+      {
+        "name": "Lilac Wash",
+        "hex": "#F3EFFA",
+        "cmyk": "3 4 0 2"
+      },
+      {
+        "name": "Lilac",
+        "hex": "#E0D8EE",
+        "cmyk": "6 9 0 7"
+      },
+      {
+        "name": "Black Violet",
+        "hex": "#14101C",
+        "cmyk": "29 43 0 89"
+      }
+    ],
+    "gradient_file": "054-lilac-with-black/gradient.jpg",
+    "palette_file": "054-lilac-with-black/palette.jpg"
+  },
+  {
+    "index": 55,
+    "slug": "bone-with-forest",
+    "name": "Bone with Forest",
+    "category": "nature",
+    "structure": "light",
+    "caption": "Bone dominant, forest anchoring. Bone with Forest —",
+    "colors": [
+      {
+        "name": "Bone",
+        "hex": "#F4F2EA",
+        "cmyk": "0 1 4 4"
+      },
+      {
+        "name": "Warm Bone",
+        "hex": "#E2DFD0",
+        "cmyk": "0 1 8 11"
+      },
+      {
+        "name": "Forest",
+        "hex": "#14301E",
+        "cmyk": "58 0 37 81"
+      }
+    ],
+    "gradient_file": "055-bone-with-forest/gradient.jpg",
+    "palette_file": "055-bone-with-forest/palette.jpg"
+  },
+  {
+    "index": 56,
+    "slug": "pearl-with-rust",
+    "name": "Pearl with Rust",
+    "category": "abstract",
+    "structure": "light",
+    "caption": "Quiet, quiet, rust. Pearl with Rust —",
+    "colors": [
+      {
+        "name": "Pearl",
+        "hex": "#F4F1EE",
+        "cmyk": "0 1 2 4"
+      },
+      {
+        "name": "Warm Pearl",
+        "hex": "#E5DDD6",
+        "cmyk": "0 3 7 10"
+      },
+      {
+        "name": "Rust",
+        "hex": "#7A3418",
+        "cmyk": "0 57 80 52"
+      }
+    ],
+    "gradient_file": "056-pearl-with-rust/gradient.jpg",
+    "palette_file": "056-pearl-with-rust/palette.jpg"
+  },
+  {
+    "index": 57,
+    "slug": "ice-with-cobalt",
+    "name": "Ice with Cobalt",
+    "category": "tech",
+    "structure": "light",
+    "caption": "Cool light with one saturated base. Ice with Cobalt —",
+    "colors": [
+      {
+        "name": "Ice",
+        "hex": "#F0F6FB",
+        "cmyk": "4 2 0 2"
+      },
+      {
+        "name": "Pale Ice",
+        "hex": "#DCE9F5",
+        "cmyk": "10 5 0 4"
+      },
+      {
+        "name": "Cobalt",
+        "hex": "#10307A",
+        "cmyk": "87 61 0 52"
+      }
+    ],
+    "gradient_file": "057-ice-with-cobalt/gradient.jpg",
+    "palette_file": "057-ice-with-cobalt/palette.jpg"
+  },
+  {
+    "index": 58,
+    "slug": "straw-with-plum",
+    "name": "Straw with Plum",
+    "category": "nature",
+    "structure": "light",
+    "caption": "Straw yellow, deep plum floor. Straw with Plum —",
+    "colors": [
+      {
+        "name": "Straw Wash",
+        "hex": "#F7F0DC",
+        "cmyk": "0 3 11 3"
+      },
+      {
+        "name": "Straw",
+        "hex": "#EBDFBC",
+        "cmyk": "0 5 20 8"
+      },
+      {
+        "name": "Deep Plum",
+        "hex": "#3A1428",
+        "cmyk": "0 66 31 77"
+      }
+    ],
+    "gradient_file": "058-straw-with-plum/gradient.jpg",
+    "palette_file": "058-straw-with-plum/palette.jpg"
+  },
+  {
+    "index": 59,
+    "slug": "linen-with-teal",
+    "name": "Linen with Teal",
+    "category": "abstract",
+    "structure": "light",
+    "caption": "Two linens and a green-blue. Linen with Teal —",
+    "colors": [
+      {
+        "name": "Linen",
+        "hex": "#F5F1E8",
+        "cmyk": "0 2 5 4"
+      },
+      {
+        "name": "Warm Linen",
+        "hex": "#E6E0D2",
+        "cmyk": "0 3 9 10"
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "#0E4A46",
+        "cmyk": "81 0 5 71"
+      }
+    ],
+    "gradient_file": "059-linen-with-teal/gradient.jpg",
+    "palette_file": "059-linen-with-teal/palette.jpg"
+  },
+  {
+    "index": 60,
+    "slug": "equal-dusk",
+    "name": "Equal Dusk",
+    "category": "abstract",
+    "structure": "equal",
+    "caption": "Three hues, one brightness. Equal Dusk —",
+    "colors": [
+      {
+        "name": "Dusk Blue",
+        "hex": "#6E7AA8",
+        "cmyk": "35 27 0 34"
+      },
+      {
+        "name": "Dusk Violet",
+        "hex": "#8E6EA8",
+        "cmyk": "15 35 0 34"
+      },
+      {
+        "name": "Dusk Green",
+        "hex": "#6EA89A",
+        "cmyk": "35 0 8 34"
+      }
+    ],
+    "gradient_file": "060-equal-dusk/gradient.jpg",
+    "palette_file": "060-equal-dusk/palette.jpg"
+  },
+  {
+    "index": 61,
+    "slug": "equal-clay",
+    "name": "Equal Clay",
+    "category": "nature",
+    "structure": "equal",
+    "caption": "Same weight, different direction. Equal Clay —",
+    "colors": [
+      {
+        "name": "Clay Orange",
+        "hex": "#B07A5C",
+        "cmyk": "0 31 48 31"
+      },
+      {
+        "name": "Clay Gold",
+        "hex": "#B09A5C",
+        "cmyk": "0 13 48 31"
+      },
+      {
+        "name": "Clay Rose",
+        "hex": "#B05C7A",
+        "cmyk": "0 48 31 31"
+      }
+    ],
+    "gradient_file": "061-equal-clay/gradient.jpg",
+    "palette_file": "061-equal-clay/palette.jpg"
+  },
+  {
+    "index": 62,
+    "slug": "equal-forest",
+    "name": "Equal Forest",
+    "category": "nature",
+    "structure": "equal",
+    "caption": "Three greens that refuse to rank. Equal Forest —",
+    "colors": [
+      {
+        "name": "Leaf",
+        "hex": "#5C8E6E",
+        "cmyk": "35 0 23 44"
+      },
+      {
+        "name": "Water Green",
+        "hex": "#5C8E8E",
+        "cmyk": "35 0 0 44"
+      },
+      {
+        "name": "Grass",
+        "hex": "#6E8E5C",
+        "cmyk": "23 0 35 44"
+      }
+    ],
+    "gradient_file": "062-equal-forest/gradient.jpg",
+    "palette_file": "062-equal-forest/palette.jpg"
+  },
+  {
+    "index": 63,
+    "slug": "equal-berry",
+    "name": "Equal Berry",
+    "category": "abstract",
+    "structure": "equal",
+    "caption": "Flat brightness, shifting hue. Equal Berry —",
+    "colors": [
+      {
+        "name": "Berry Rose",
+        "hex": "#A85C7A",
+        "cmyk": "0 45 27 34"
+      },
+      {
+        "name": "Berry Violet",
+        "hex": "#8E5CA8",
+        "cmyk": "15 45 0 34"
+      },
+      {
+        "name": "Berry Amber",
+        "hex": "#A8825C",
+        "cmyk": "0 23 45 34"
+      }
+    ],
+    "gradient_file": "063-equal-berry/gradient.jpg",
+    "palette_file": "063-equal-berry/palette.jpg"
+  },
+  {
+    "index": 64,
+    "slug": "equal-marine",
+    "name": "Equal Marine",
+    "category": "nature",
+    "structure": "equal",
+    "caption": "No hierarchy, just hue. Equal Marine —",
+    "colors": [
+      {
+        "name": "Marine Blue",
+        "hex": "#5C7A9E",
+        "cmyk": "42 23 0 38"
+      },
+      {
+        "name": "Marine Green",
+        "hex": "#5C9E93",
+        "cmyk": "42 0 7 38"
+      },
+      {
+        "name": "Marine Violet",
+        "hex": "#6B5C9E",
+        "cmyk": "32 42 0 38"
+      }
+    ],
+    "gradient_file": "064-equal-marine/gradient.jpg",
+    "palette_file": "064-equal-marine/palette.jpg"
+  },
+  {
+    "index": 65,
+    "slug": "equal-ochre",
+    "name": "Equal Ochre",
+    "category": "nature",
+    "structure": "equal",
+    "caption": "Earth tones on level ground. Equal Ochre —",
+    "colors": [
+      {
+        "name": "Ochre",
+        "hex": "#A8935C",
+        "cmyk": "0 13 45 34"
+      },
+      {
+        "name": "Burnt Ochre",
+        "hex": "#A8735C",
+        "cmyk": "0 32 45 34"
+      },
+      {
+        "name": "Green Ochre",
+        "hex": "#8EA85C",
+        "cmyk": "15 0 45 34"
+      }
+    ],
+    "gradient_file": "065-equal-ochre/gradient.jpg",
+    "palette_file": "065-equal-ochre/palette.jpg"
+  },
+  {
+    "index": 66,
+    "slug": "equal-rose",
+    "name": "Equal Rose",
+    "category": "abstract",
+    "structure": "equal",
+    "caption": "Muted, matched, unbothered. Equal Rose —",
+    "colors": [
+      {
+        "name": "Rose",
+        "hex": "#C08A93",
+        "cmyk": "0 28 23 25"
+      },
+      {
+        "name": "Sand Rose",
+        "hex": "#C0A88A",
+        "cmyk": "0 12 28 25"
+      },
+      {
+        "name": "Mint Rose",
+        "hex": "#8AC0B4",
+        "cmyk": "28 0 6 25"
+      }
+    ],
+    "gradient_file": "066-equal-rose/gradient.jpg",
+    "palette_file": "066-equal-rose/palette.jpg"
+  },
+  {
+    "index": 67,
+    "slug": "equal-storm",
+    "name": "Equal Storm",
+    "category": "abstract",
+    "structure": "equal",
+    "caption": "Three greys that aren't grey. Equal Storm —",
+    "colors": [
+      {
+        "name": "Storm Blue",
+        "hex": "#7A8A9E",
+        "cmyk": "23 13 0 38"
+      },
+      {
+        "name": "Storm Rose",
+        "hex": "#9E7A8A",
+        "cmyk": "0 23 13 38"
+      },
+      {
+        "name": "Storm Green",
+        "hex": "#8A9E7A",
+        "cmyk": "13 0 23 38"
+      }
+    ],
+    "gradient_file": "067-equal-storm/gradient.jpg",
+    "palette_file": "067-equal-storm/palette.jpg"
+  },
+  {
+    "index": 68,
+    "slug": "equal-spice",
+    "name": "Equal Spice",
+    "category": "nature",
+    "structure": "equal",
+    "caption": "Spice rack, level exposure. Equal Spice —",
+    "colors": [
+      {
+        "name": "Paprika",
+        "hex": "#9E6B4F",
+        "cmyk": "0 32 50 38"
+      },
+      {
+        "name": "Chili",
+        "hex": "#9E4F63",
+        "cmyk": "0 50 37 38"
+      },
+      {
+        "name": "Bay Leaf",
+        "hex": "#8E9E4F",
+        "cmyk": "10 0 50 38"
+      }
+    ],
+    "gradient_file": "068-equal-spice/gradient.jpg",
+    "palette_file": "068-equal-spice/palette.jpg"
+  },
+  {
+    "index": 69,
+    "slug": "equal-lagoon",
+    "name": "Equal Lagoon",
+    "category": "nature",
+    "structure": "equal",
+    "caption": "Water, weed, and shadow, matched. Equal Lagoon —",
+    "colors": [
+      {
+        "name": "Lagoon",
+        "hex": "#4F8E9E",
+        "cmyk": "50 10 0 38"
+      },
+      {
+        "name": "Reed",
+        "hex": "#4F9E76",
+        "cmyk": "50 0 25 38"
+      },
+      {
+        "name": "Depth",
+        "hex": "#6B4F9E",
+        "cmyk": "32 50 0 38"
+      }
+    ],
+    "gradient_file": "069-equal-lagoon/gradient.jpg",
+    "palette_file": "069-equal-lagoon/palette.jpg"
+  },
+  {
+    "index": 70,
+    "slug": "equal-heather",
+    "name": "Equal Heather",
+    "category": "nature",
+    "structure": "equal",
+    "caption": "Soft hues, identical weight. Equal Heather —",
+    "colors": [
+      {
+        "name": "Heather Violet",
+        "hex": "#9184AE",
+        "cmyk": "17 24 0 32"
+      },
+      {
+        "name": "Heather Rose",
+        "hex": "#AE8491",
+        "cmyk": "0 24 17 32"
+      },
+      {
+        "name": "Heather Green",
+        "hex": "#84AE9E",
+        "cmyk": "24 0 9 32"
+      }
+    ],
+    "gradient_file": "070-equal-heather/gradient.jpg",
+    "palette_file": "070-equal-heather/palette.jpg"
+  },
+  {
+    "index": 71,
+    "slug": "equal-tundra",
+    "name": "Equal Tundra",
+    "category": "nature",
+    "structure": "equal",
+    "caption": "Almost neutral, almost not. Equal Tundra —",
+    "colors": [
+      {
+        "name": "Tundra Green",
+        "hex": "#8E9E93",
+        "cmyk": "10 0 7 38"
+      },
+      {
+        "name": "Tundra Rose",
+        "hex": "#9E938E",
+        "cmyk": "0 7 10 38"
+      },
+      {
+        "name": "Tundra Sage",
+        "hex": "#939E8E",
+        "cmyk": "7 0 10 38"
+      }
+    ],
+    "gradient_file": "071-equal-tundra/gradient.jpg",
+    "palette_file": "071-equal-tundra/palette.jpg"
+  },
+  {
+    "index": 72,
+    "slug": "equal-sunset",
+    "name": "Equal Sunset",
+    "category": "nature",
+    "structure": "equal",
+    "caption": "A sunset with the drama removed. Equal Sunset —",
+    "colors": [
+      {
+        "name": "Sunset Amber",
+        "hex": "#C48A5C",
+        "cmyk": "0 30 53 23"
+      },
+      {
+        "name": "Sunset Rose",
+        "hex": "#C45C7A",
+        "cmyk": "0 53 38 23"
+      },
+      {
+        "name": "Sunset Gold",
+        "hex": "#C4B25C",
+        "cmyk": "0 9 53 23"
+      }
+    ],
+    "gradient_file": "072-equal-sunset/gradient.jpg",
+    "palette_file": "072-equal-sunset/palette.jpg"
+  },
+  {
+    "index": 73,
+    "slug": "equal-atlantic",
+    "name": "Equal Atlantic",
+    "category": "nature",
+    "structure": "equal",
+    "caption": "Cold hues on equal footing. Equal Atlantic —",
+    "colors": [
+      {
+        "name": "Atlantic Blue",
+        "hex": "#4F7A8E",
+        "cmyk": "44 14 0 44"
+      },
+      {
+        "name": "Atlantic Green",
+        "hex": "#4F8E7A",
+        "cmyk": "44 0 14 44"
+      },
+      {
+        "name": "Atlantic Violet",
+        "hex": "#7A4F8E",
+        "cmyk": "14 44 0 44"
+      }
+    ],
+    "gradient_file": "073-equal-atlantic/gradient.jpg",
+    "palette_file": "073-equal-atlantic/palette.jpg"
+  },
+  {
+    "index": 74,
+    "slug": "equal-canyon",
+    "name": "Equal Canyon",
+    "category": "nature",
+    "structure": "equal",
+    "caption": "Rock layers, same light. Equal Canyon —",
+    "colors": [
+      {
+        "name": "Canyon Red",
+        "hex": "#A8705C",
+        "cmyk": "0 33 45 34"
+      },
+      {
+        "name": "Canyon Violet",
+        "hex": "#A85C8E",
+        "cmyk": "0 45 15 34"
+      },
+      {
+        "name": "Canyon Gold",
+        "hex": "#A88F5C",
+        "cmyk": "0 15 45 34"
+      }
+    ],
+    "gradient_file": "074-equal-canyon/gradient.jpg",
+    "palette_file": "074-equal-canyon/palette.jpg"
+  },
+  {
+    "index": 75,
+    "slug": "chartreuse-plum",
+    "name": "Chartreuse & Plum",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Two colors that shouldn't work. Chartreuse & Plum —",
+    "colors": [
+      {
+        "name": "Chartreuse",
+        "hex": "#C6D62A",
+        "cmyk": "7 0 80 16"
+      },
+      {
+        "name": "Deep Plum",
+        "hex": "#3A1440",
+        "cmyk": "9 69 0 75"
+      },
+      {
+        "name": "Bone",
+        "hex": "#E9E7D6",
+        "cmyk": "0 1 8 9"
+      }
+    ],
+    "gradient_file": "075-chartreuse-plum/gradient.jpg",
+    "palette_file": "075-chartreuse-plum/palette.jpg"
+  },
+  {
+    "index": 76,
+    "slug": "tangerine-teal",
+    "name": "Tangerine & Teal",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Loud orange, deep teal. Tangerine & Teal —",
+    "colors": [
+      {
+        "name": "Tangerine",
+        "hex": "#FF7A1A",
+        "cmyk": "0 52 90 0"
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "#06565C",
+        "cmyk": "93 7 0 64"
+      },
+      {
+        "name": "Cream",
+        "hex": "#F2E2C8",
+        "cmyk": "0 7 17 5"
+      }
+    ],
+    "gradient_file": "076-tangerine-teal/gradient.jpg",
+    "palette_file": "076-tangerine-teal/palette.jpg"
+  },
+  {
+    "index": 77,
+    "slug": "hotpink-olive",
+    "name": "Hot Pink & Olive",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Hot pink held down by olive. Hot Pink & Olive —",
+    "colors": [
+      {
+        "name": "Hot Pink",
+        "hex": "#FF4D8D",
+        "cmyk": "0 70 45 0"
+      },
+      {
+        "name": "Dark Olive",
+        "hex": "#4A5220",
+        "cmyk": "10 0 61 68"
+      },
+      {
+        "name": "Pale Cream",
+        "hex": "#F5EEDC",
+        "cmyk": "0 3 10 4"
+      }
+    ],
+    "gradient_file": "077-hotpink-olive/gradient.jpg",
+    "palette_file": "077-hotpink-olive/palette.jpg"
+  },
+  {
+    "index": 78,
+    "slug": "electric-blue-sand",
+    "name": "Electric Blue & Sand",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Full-power blue on desert sand. Electric Blue & Sand —",
+    "colors": [
+      {
+        "name": "Electric Blue",
+        "hex": "#1E5BFF",
+        "cmyk": "88 64 0 0"
+      },
+      {
+        "name": "Sand",
+        "hex": "#D9C39A",
+        "cmyk": "0 10 29 15"
+      },
+      {
+        "name": "Night",
+        "hex": "#0A1024",
+        "cmyk": "72 56 0 86"
+      }
+    ],
+    "gradient_file": "078-electric-blue-sand/gradient.jpg",
+    "palette_file": "078-electric-blue-sand/palette.jpg"
+  },
+  {
+    "index": 79,
+    "slug": "acid-lilac",
+    "name": "Acid & Lilac",
+    "category": "tech",
+    "structure": "clash",
+    "caption": "Acid green next to soft violet. Acid & Lilac —",
+    "colors": [
+      {
+        "name": "Acid Green",
+        "hex": "#D8F03A",
+        "cmyk": "10 0 76 6"
+      },
+      {
+        "name": "Lilac Violet",
+        "hex": "#8A6BC4",
+        "cmyk": "30 45 0 23"
+      },
+      {
+        "name": "Black Slate",
+        "hex": "#1A1A22",
+        "cmyk": "24 24 0 87"
+      }
+    ],
+    "gradient_file": "079-acid-lilac/gradient.jpg",
+    "palette_file": "079-acid-lilac/palette.jpg"
+  },
+  {
+    "index": 80,
+    "slug": "blood-and-mint",
+    "name": "Blood & Mint",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Hot red, cold mint, no mercy. Blood & Mint —",
+    "colors": [
+      {
+        "name": "Blood Red",
+        "hex": "#B0142A",
+        "cmyk": "0 89 76 31"
+      },
+      {
+        "name": "Mint",
+        "hex": "#7EE0B0",
+        "cmyk": "44 0 21 12"
+      },
+      {
+        "name": "Black Wine",
+        "hex": "#120A0C",
+        "cmyk": "0 44 33 93"
+      }
+    ],
+    "gradient_file": "080-blood-and-mint/gradient.jpg",
+    "palette_file": "080-blood-and-mint/palette.jpg"
+  },
+  {
+    "index": 81,
+    "slug": "copper-and-cyan",
+    "name": "Copper & Cyan",
+    "category": "tech",
+    "structure": "clash",
+    "caption": "Warm metal against cold light. Copper & Cyan —",
+    "colors": [
+      {
+        "name": "Copper",
+        "hex": "#C4682E",
+        "cmyk": "0 47 77 23"
+      },
+      {
+        "name": "Cyan",
+        "hex": "#22C4D6",
+        "cmyk": "84 8 0 16"
+      },
+      {
+        "name": "Night Steel",
+        "hex": "#101418",
+        "cmyk": "33 17 0 91"
+      }
+    ],
+    "gradient_file": "081-copper-and-cyan/gradient.jpg",
+    "palette_file": "081-copper-and-cyan/palette.jpg"
+  },
+  {
+    "index": 82,
+    "slug": "mustard-and-navy",
+    "name": "Mustard & Navy",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "The classic clash, done properly. Mustard & Navy —",
+    "colors": [
+      {
+        "name": "Mustard",
+        "hex": "#E0A72E",
+        "cmyk": "0 25 79 12"
+      },
+      {
+        "name": "Navy",
+        "hex": "#142A5C",
+        "cmyk": "78 54 0 64"
+      },
+      {
+        "name": "Cream",
+        "hex": "#EDE6D4",
+        "cmyk": "0 3 11 7"
+      }
+    ],
+    "gradient_file": "082-mustard-and-navy/gradient.jpg",
+    "palette_file": "082-mustard-and-navy/palette.jpg"
+  },
+  {
+    "index": 83,
+    "slug": "forest-and-fuchsia",
+    "name": "Forest & Fuchsia",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Deep green interrupted by pink. Forest & Fuchsia —",
+    "colors": [
+      {
+        "name": "Deep Forest",
+        "hex": "#14402A",
+        "cmyk": "69 0 34 75"
+      },
+      {
+        "name": "Fuchsia",
+        "hex": "#E048A0",
+        "cmyk": "0 68 29 12"
+      },
+      {
+        "name": "Bone",
+        "hex": "#E8E4DA",
+        "cmyk": "0 2 6 9"
+      }
+    ],
+    "gradient_file": "083-forest-and-fuchsia/gradient.jpg",
+    "palette_file": "083-forest-and-fuchsia/palette.jpg"
+  },
+  {
+    "index": 84,
+    "slug": "orange-and-sky",
+    "name": "Orange & Sky",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Hot and cold, equally loud. Orange & Sky —",
+    "colors": [
+      {
+        "name": "Orange",
+        "hex": "#FF6B2C",
+        "cmyk": "0 58 83 0"
+      },
+      {
+        "name": "Sky Blue",
+        "hex": "#7EC4E8",
+        "cmyk": "46 16 0 9"
+      },
+      {
+        "name": "Ink",
+        "hex": "#14161A",
+        "cmyk": "23 15 0 90"
+      }
+    ],
+    "gradient_file": "084-orange-and-sky/gradient.jpg",
+    "palette_file": "084-orange-and-sky/palette.jpg"
+  },
+  {
+    "index": 85,
+    "slug": "burgundy-and-lime",
+    "name": "Burgundy & Lime",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Old wine, new lime. Burgundy & Lime —",
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#5C1024",
+        "cmyk": "0 83 61 64"
+      },
+      {
+        "name": "Lime",
+        "hex": "#A8D62E",
+        "cmyk": "21 0 79 16"
+      },
+      {
+        "name": "Bone",
+        "hex": "#E8E2D6",
+        "cmyk": "0 3 8 9"
+      }
+    ],
+    "gradient_file": "085-burgundy-and-lime/gradient.jpg",
+    "palette_file": "085-burgundy-and-lime/palette.jpg"
+  },
+  {
+    "index": 86,
+    "slug": "cocoa-and-ice",
+    "name": "Cocoa & Ice",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Dark chocolate and cold water. Cocoa & Ice —",
+    "colors": [
+      {
+        "name": "Cocoa",
+        "hex": "#3A241C",
+        "cmyk": "0 38 52 77"
+      },
+      {
+        "name": "Ice Blue",
+        "hex": "#A8DCE8",
+        "cmyk": "28 5 0 9"
+      },
+      {
+        "name": "Warm Bone",
+        "hex": "#E6DCD2",
+        "cmyk": "0 4 9 10"
+      }
+    ],
+    "gradient_file": "086-cocoa-and-ice/gradient.jpg",
+    "palette_file": "086-cocoa-and-ice/palette.jpg"
+  },
+  {
+    "index": 87,
+    "slug": "magenta-and-moss",
+    "name": "Magenta & Moss",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Synthetic pink over natural green. Magenta & Moss —",
+    "colors": [
+      {
+        "name": "Magenta",
+        "hex": "#D62E86",
+        "cmyk": "0 79 37 16"
+      },
+      {
+        "name": "Dark Moss",
+        "hex": "#3A4A22",
+        "cmyk": "22 0 54 71"
+      },
+      {
+        "name": "Bone",
+        "hex": "#E8E4D4",
+        "cmyk": "0 2 9 9"
+      }
+    ],
+    "gradient_file": "087-magenta-and-moss/gradient.jpg",
+    "palette_file": "087-magenta-and-moss/palette.jpg"
+  },
+  {
+    "index": 88,
+    "slug": "indigo-and-apricot",
+    "name": "Indigo & Apricot",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Hard indigo, soft apricot. Indigo & Apricot —",
+    "colors": [
+      {
+        "name": "Indigo",
+        "hex": "#22246E",
+        "cmyk": "69 67 0 57"
+      },
+      {
+        "name": "Apricot",
+        "hex": "#F0A868",
+        "cmyk": "0 30 57 6"
+      },
+      {
+        "name": "Cream",
+        "hex": "#EDE4D8",
+        "cmyk": "0 4 9 7"
+      }
+    ],
+    "gradient_file": "088-indigo-and-apricot/gradient.jpg",
+    "palette_file": "088-indigo-and-apricot/palette.jpg"
+  },
+  {
+    "index": 89,
+    "slug": "charcoal-and-neon",
+    "name": "Charcoal & Neon",
+    "category": "tech",
+    "structure": "clash",
+    "caption": "One neon on flat charcoal. Charcoal & Neon —",
     "colors": [
       {
         "name": "Charcoal",
-        "hex": "#31352C",
-        "cmyk": "8 0 17 79"
+        "hex": "#1A1A1E",
+        "cmyk": "13 13 0 88"
       },
       {
-        "name": "Dark Taupe",
-        "hex": "#615D4F",
-        "cmyk": "0 4 19 62"
+        "name": "Neon Yellow",
+        "hex": "#C6FF2E",
+        "cmyk": "22 0 82 0"
       },
       {
-        "name": "Clay Grey",
-        "hex": "#7F756B",
-        "cmyk": "0 8 16 50"
-      },
-      {
-        "name": "Smoked Orange",
-        "hex": "#B9A794",
-        "cmyk": "0 10 20 27"
+        "name": "Pale Grey",
+        "hex": "#E6E6E2",
+        "cmyk": "0 0 2 10"
       }
     ],
-    "caption": "Dark green shower behind glass."
+    "gradient_file": "089-charcoal-and-neon/gradient.jpg",
+    "palette_file": "089-charcoal-and-neon/palette.jpg"
   },
   {
-    "index": 151,
-    "id": "151",
-    "source_file": "usfgqc-wwqsds.jpg",
-    "photo_file": "151/photo.jpg",
-    "palette_file": "151/palette.jpg",
+    "index": 90,
+    "slug": "wine-and-teal",
+    "name": "Wine & Teal",
+    "category": "abstract",
+    "structure": "clash",
+    "caption": "Deep wine cut with teal. Wine & Teal —",
     "colors": [
       {
-        "name": "Umber",
-        "hex": "#452204",
-        "cmyk": "0 51 94 73"
+        "name": "Wine",
+        "hex": "#4A1024",
+        "cmyk": "0 78 51 71"
       },
       {
-        "name": "Amber",
-        "hex": "#AA7726",
-        "cmyk": "0 30 78 33"
+        "name": "Teal",
+        "hex": "#1E8E86",
+        "cmyk": "79 0 6 44"
       },
       {
-        "name": "Deep Amber",
-        "hex": "#C89A42",
-        "cmyk": "0 23 67 22"
-      },
-      {
-        "name": "Vermilion",
-        "hex": "#C2A08D",
-        "cmyk": "0 18 27 24"
+        "name": "Warm Bone",
+        "hex": "#E4DCD2",
+        "cmyk": "0 4 8 11"
       }
     ],
-    "caption": "Mustard velvet, white cushions, pink plaster."
+    "gradient_file": "090-wine-and-teal/gradient.jpg",
+    "palette_file": "090-wine-and-teal/palette.jpg"
+  },
+  {
+    "index": 91,
+    "slug": "twin-greens",
+    "name": "Twin Greens",
+    "category": "nature",
+    "structure": "duotone",
+    "caption": "Two greens, then a break. Twin Greens —",
+    "colors": [
+      {
+        "name": "Forest",
+        "hex": "#2E5C3A",
+        "cmyk": "50 0 37 64"
+      },
+      {
+        "name": "Leaf",
+        "hex": "#3A6E46",
+        "cmyk": "47 0 36 57"
+      },
+      {
+        "name": "Straw",
+        "hex": "#E0C88A",
+        "cmyk": "0 11 38 12"
+      }
+    ],
+    "gradient_file": "091-twin-greens/gradient.jpg",
+    "palette_file": "091-twin-greens/palette.jpg"
+  },
+  {
+    "index": 92,
+    "slug": "twin-greys",
+    "name": "Twin Greys",
+    "category": "abstract",
+    "structure": "duotone",
+    "caption": "Two greys and one interruption. Twin Greys —",
+    "colors": [
+      {
+        "name": "Slate",
+        "hex": "#3A3E44",
+        "cmyk": "15 9 0 73"
+      },
+      {
+        "name": "Light Slate",
+        "hex": "#494E56",
+        "cmyk": "15 9 0 66"
+      },
+      {
+        "name": "Ember",
+        "hex": "#E0703C",
+        "cmyk": "0 50 73 12"
+      }
+    ],
+    "gradient_file": "092-twin-greys/gradient.jpg",
+    "palette_file": "092-twin-greys/palette.jpg"
+  },
+  {
+    "index": 93,
+    "slug": "twin-tans",
+    "name": "Twin Tans",
+    "category": "nature",
+    "structure": "duotone",
+    "caption": "Two tans, one cold anchor. Twin Tans —",
+    "colors": [
+      {
+        "name": "Tan",
+        "hex": "#C9AE86",
+        "cmyk": "0 13 33 21"
+      },
+      {
+        "name": "Light Tan",
+        "hex": "#D9C19A",
+        "cmyk": "0 11 29 15"
+      },
+      {
+        "name": "Deep Slate",
+        "hex": "#2E3A4A",
+        "cmyk": "38 22 0 71"
+      }
+    ],
+    "gradient_file": "093-twin-tans/gradient.jpg",
+    "palette_file": "093-twin-tans/palette.jpg"
+  },
+  {
+    "index": 94,
+    "slug": "twin-blues",
+    "name": "Twin Blues",
+    "category": "abstract",
+    "structure": "duotone",
+    "caption": "Barely a shift, then gold. Twin Blues —",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26456E",
+        "cmyk": "65 37 0 57"
+      },
+      {
+        "name": "Steel Navy",
+        "hex": "#30567F",
+        "cmyk": "62 32 0 50"
+      },
+      {
+        "name": "Gold",
+        "hex": "#E8C48A",
+        "cmyk": "0 16 41 9"
+      }
+    ],
+    "gradient_file": "094-twin-blues/gradient.jpg",
+    "palette_file": "094-twin-blues/palette.jpg"
+  },
+  {
+    "index": 95,
+    "slug": "twin-plums",
+    "name": "Twin Plums",
+    "category": "abstract",
+    "structure": "duotone",
+    "caption": "Two plums, one warm exit. Twin Plums —",
+    "colors": [
+      {
+        "name": "Plum",
+        "hex": "#4A2A44",
+        "cmyk": "0 43 8 71"
+      },
+      {
+        "name": "Light Plum",
+        "hex": "#5C3654",
+        "cmyk": "0 41 9 64"
+      },
+      {
+        "name": "Sand",
+        "hex": "#D9C4A0",
+        "cmyk": "0 10 26 15"
+      }
+    ],
+    "gradient_file": "095-twin-plums/gradient.jpg",
+    "palette_file": "095-twin-plums/palette.jpg"
+  },
+  {
+    "index": 96,
+    "slug": "twin-rusts",
+    "name": "Twin Rusts",
+    "category": "nature",
+    "structure": "duotone",
+    "caption": "Two rusts, one cold end. Twin Rusts —",
+    "colors": [
+      {
+        "name": "Rust",
+        "hex": "#8E4A2E",
+        "cmyk": "0 48 68 44"
+      },
+      {
+        "name": "Light Rust",
+        "hex": "#A05A38",
+        "cmyk": "0 44 65 37"
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "#2E4A4A",
+        "cmyk": "38 0 0 71"
+      }
+    ],
+    "gradient_file": "096-twin-rusts/gradient.jpg",
+    "palette_file": "096-twin-rusts/palette.jpg"
+  },
+  {
+    "index": 97,
+    "slug": "twin-mints",
+    "name": "Twin Mints",
+    "category": "nature",
+    "structure": "duotone",
+    "caption": "Two mints, one hard stop. Twin Mints —",
+    "colors": [
+      {
+        "name": "Mint",
+        "hex": "#A8D6C4",
+        "cmyk": "21 0 8 16"
+      },
+      {
+        "name": "Light Mint",
+        "hex": "#B8E0D0",
+        "cmyk": "18 0 7 12"
+      },
+      {
+        "name": "Dark Pine",
+        "hex": "#2A3A38",
+        "cmyk": "28 0 3 77"
+      }
+    ],
+    "gradient_file": "097-twin-mints/gradient.jpg",
+    "palette_file": "097-twin-mints/palette.jpg"
+  },
+  {
+    "index": 98,
+    "slug": "twin-slates",
+    "name": "Twin Slates",
+    "category": "abstract",
+    "structure": "duotone",
+    "caption": "Cool twins, warm finish. Twin Slates —",
+    "colors": [
+      {
+        "name": "Slate Blue",
+        "hex": "#56636E",
+        "cmyk": "22 10 0 57"
+      },
+      {
+        "name": "Light Slate",
+        "hex": "#647280",
+        "cmyk": "22 11 0 50"
+      },
+      {
+        "name": "Wheat",
+        "hex": "#E6D2B4",
+        "cmyk": "0 9 22 10"
+      }
+    ],
+    "gradient_file": "098-twin-slates/gradient.jpg",
+    "palette_file": "098-twin-slates/palette.jpg"
+  },
+  {
+    "index": 99,
+    "slug": "twin-golds",
+    "name": "Twin Golds",
+    "category": "abstract",
+    "structure": "duotone",
+    "caption": "Two golds falling into dark. Twin Golds —",
+    "colors": [
+      {
+        "name": "Gold",
+        "hex": "#B08A2E",
+        "cmyk": "0 22 74 31"
+      },
+      {
+        "name": "Light Gold",
+        "hex": "#C49A38",
+        "cmyk": "0 21 71 23"
+      },
+      {
+        "name": "Dark Bronze",
+        "hex": "#2A2418",
+        "cmyk": "0 14 43 84"
+      }
+    ],
+    "gradient_file": "099-twin-golds/gradient.jpg",
+    "palette_file": "099-twin-golds/palette.jpg"
+  },
+  {
+    "index": 100,
+    "slug": "twin-roses",
+    "name": "Twin Roses",
+    "category": "abstract",
+    "structure": "duotone",
+    "caption": "Two roses and a shadow. Twin Roses —",
+    "colors": [
+      {
+        "name": "Rose",
+        "hex": "#C08A8E",
+        "cmyk": "0 28 26 25"
+      },
+      {
+        "name": "Light Rose",
+        "hex": "#CE9A9E",
+        "cmyk": "0 25 23 19"
+      },
+      {
+        "name": "Deep Mauve",
+        "hex": "#2A2226",
+        "cmyk": "0 19 10 84"
+      }
+    ],
+    "gradient_file": "100-twin-roses/gradient.jpg",
+    "palette_file": "100-twin-roses/palette.jpg"
   }
 ]

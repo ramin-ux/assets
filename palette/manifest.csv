@@ -1,101 +1,152 @@
-index,slug,name,category,caption,hex1,hex2,hex3,gradient_file,palette_file
-1,arctic-fjord,Arctic Fjord,nature,"Cold water, colder air. Arctic Fjord —",#0B1A22,#2E6F8E,#DCE8EE,001-arctic-fjord/gradient.jpg,001-arctic-fjord/palette.jpg
-2,rust-republic,Rust Republic,nature,Oxidized metal and warm paper. Rust Republic —,#2A1310,#A64B2A,#E8D5C4,002-rust-republic/gradient.jpg,002-rust-republic/palette.jpg
-3,moss-hollow,Moss Hollow,nature,Forest floor after rain. Moss Hollow —,#14201A,#4E7A56,#DCE3D2,003-moss-hollow/gradient.jpg,003-moss-hollow/palette.jpg
-4,sandstorm,Sandstorm,nature,Everything the desert turns gold. Sandstorm —,#3B2C1D,#C08B4F,#F2E6D2,004-sandstorm/gradient.jpg,004-sandstorm/palette.jpg
-5,cobalt-signal,Cobalt Signal,tech,One saturated blue against near-black. Cobalt Signal —,#070B18,#2D4EC8,#C9D4F5,005-cobalt-signal/gradient.jpg,005-cobalt-signal/palette.jpg
-6,blush-concrete,Blush Concrete,abstract,Soft pink poured into grey. Blush Concrete —,#4A3A3C,#C98B90,#EFE6E3,006-blush-concrete/gradient.jpg,006-blush-concrete/palette.jpg
-7,ultraviolet-drift,Ultraviolet Drift,abstract,"Purple that reads as light, not color. Ultraviolet Drift —",#100A1F,#6A3FD1,#DCD2F2,007-ultraviolet-drift/gradient.jpg,007-ultraviolet-drift/palette.jpg
-8,olive-press,Olive Press,nature,Green with no blue in it at all. Olive Press —,#22240F,#7C8A3A,#E4E6CE,008-olive-press/gradient.jpg,008-olive-press/palette.jpg
-9,terracotta-sun,Terracotta Sun,nature,Fired clay under late light. Terracotta Sun —,#2E1512,#C25E3A,#F0DAC6,009-terracotta-sun/gradient.jpg,009-terracotta-sun/palette.jpg
-10,glacier-mist,Glacier Mist,nature,Grey-blue that never quite commits. Glacier Mist —,#1B2A33,#6E96A8,#E9F1F4,010-glacier-mist/gradient.jpg,010-glacier-mist/palette.jpg
-11,ink-and-marigold,Ink & Marigold,abstract,"True black, one loud yellow. Ink & Marigold —",#0E0E10,#E3A72F,#F5EFE2,011-ink-and-marigold/gradient.jpg,011-ink-and-marigold/palette.jpg
-12,deep-lagoon,Deep Lagoon,nature,Water deep enough to go green. Deep Lagoon —,#05201F,#17756E,#D5EAE5,012-deep-lagoon/gradient.jpg,012-deep-lagoon/palette.jpg
-13,plum-velvet,Plum Velvet,abstract,Purple with the shine taken out. Plum Velvet —,#1C0F1E,#7A3B67,#E6D6E2,013-plum-velvet/gradient.jpg,013-plum-velvet/palette.jpg
-14,ash-rose,Ash Rose,abstract,Pink filtered through smoke. Ash Rose —,#3A3437,#B08A8C,#E9E4E2,014-ash-rose/gradient.jpg,014-ash-rose/palette.jpg
-15,midnight-petrol,Midnight Petrol,nature,Blue so dark it stops being blue. Midnight Petrol —,#06121A,#14485C,#B8CBD2,015-midnight-petrol/gradient.jpg,015-midnight-petrol/palette.jpg
-16,copper-circuit,Copper Circuit,tech,Metal warmth on a dark board. Copper Circuit —,#14100E,#B06B3C,#E0D3C6,016-copper-circuit/gradient.jpg,016-copper-circuit/palette.jpg
-17,fern-static,Fern Static,nature,Green with a little electricity in it. Fern Static —,#0D1710,#3E8E5A,#D9E8DC,017-fern-static/gradient.jpg,017-fern-static/palette.jpg
-18,slate-ember,Slate Ember,abstract,Cool grey warmed by one ember. Slate Ember —,#23262B,#8C5A4A,#E2DEDA,018-slate-ember/gradient.jpg,018-slate-ember/palette.jpg
-19,neon-ravine,Neon Ravine,tech,One neon mint cutting through dark. Neon Ravine —,#0A0F14,#16D3B0,#E6FBF6,019-neon-ravine/gradient.jpg,019-neon-ravine/palette.jpg
-20,wine-dust,Wine Dust,abstract,Deep red gone soft and dusty. Wine Dust —,#1A0C10,#8C2F42,#E8D6D8,020-wine-dust/gradient.jpg,020-wine-dust/palette.jpg
-21,steel-bloom,Steel Bloom,tech,"Cool industrial grey, three steps. Steel Bloom —",#2B3138,#7E8FA3,#E7EBEF,021-steel-bloom/gradient.jpg,021-steel-bloom/palette.jpg
-22,saffron-field,Saffron Field,nature,Yellow that carries actual weight. Saffron Field —,#2B2008,#D9A521,#F6EBCF,022-saffron-field/gradient.jpg,022-saffron-field/palette.jpg
-23,indigo-snowfall,Indigo Snowfall,nature,"Night sky, snow reflecting it back. Indigo Snowfall —",#101632,#3E4E9E,#DDE2F0,023-indigo-snowfall/gradient.jpg,023-indigo-snowfall/palette.jpg
-24,charcoal-peach,Charcoal Peach,abstract,Soft warm tone on hard black. Charcoal Peach —,#191716,#E29B77,#F4E7DE,024-charcoal-peach/gradient.jpg,024-charcoal-peach/palette.jpg
-25,sea-glass,Sea Glass,nature,Green worn smooth by water. Sea Glass —,#12292B,#5FA79C,#E3EFEB,025-sea-glass/gradient.jpg,025-sea-glass/palette.jpg
-26,bone-and-clay,Bone & Clay,nature,"All midtone, no black anywhere. Bone & Clay —",#6E4B3A,#C9A184,#F2E9DF,026-bone-and-clay/gradient.jpg,026-bone-and-clay/palette.jpg
-27,paper-sage,Paper Sage,nature,Green so quiet it reads as neutral. Paper Sage —,#5A6B54,#9FB394,#EEF0E6,027-paper-sage/gradient.jpg,027-paper-sage/palette.jpg
-28,dust-rose,Dust Rose,abstract,Pink with all the sugar removed. Dust Rose —,#7A5B5E,#C69EA0,#F3E9E8,028-dust-rose/gradient.jpg,028-dust-rose/palette.jpg
-29,linen-fog,Linen Fog,abstract,Three greys that still feel warm. Linen Fog —,#6B7078,#A9B0B8,#F0F2F4,029-linen-fog/gradient.jpg,029-linen-fog/palette.jpg
-30,butter-cream,Butter Cream,nature,Yellow at its most restrained. Butter Cream —,#7A6534,#D9BF7A,#F7F0DC,030-butter-cream/gradient.jpg,030-butter-cream/palette.jpg
-31,faded-denim,Faded Denim,abstract,Blue washed a hundred times. Faded Denim —,#4F6379,#8FA6BC,#EAF0F5,031-faded-denim/gradient.jpg,031-faded-denim/palette.jpg
-32,powder-mint,Powder Mint,nature,Mint without the neon. Powder Mint —,#4C6F63,#94C0B0,#E9F4EF,032-powder-mint/gradient.jpg,032-powder-mint/palette.jpg
-33,muted-coral,Muted Coral,nature,Coral turned down two stops. Muted Coral —,#8A4B44,#D08D82,#F6E7E2,033-muted-coral/gradient.jpg,033-muted-coral/palette.jpg
-34,oat-and-ink,Oat & Ink,abstract,"Editorial neutral, nothing louder. Oat & Ink —",#3C3A35,#A39A88,#F1EDE4,034-oat-and-ink/gradient.jpg,034-oat-and-ink/palette.jpg
-35,lilac-haze,Lilac Haze,abstract,Purple you can put behind text. Lilac Haze —,#6A5C7C,#B0A2C6,#F0ECF6,035-lilac-haze/gradient.jpg,035-lilac-haze/palette.jpg
-36,soft-cement,Soft Cement,abstract,"Pure neutral, three honest steps. Soft Cement —",#5C5C58,#A3A39C,#EDEDE9,036-soft-cement/gradient.jpg,036-soft-cement/palette.jpg
-37,peach-stucco,Peach Stucco,nature,Mediterranean wall at noon. Peach Stucco —,#97614A,#E0A585,#FAEDE2,037-peach-stucco/gradient.jpg,037-peach-stucco/palette.jpg
-38,pale-olive,Pale Olive,nature,Olive lifted into daylight. Pale Olive —,#6A6E3E,#B0B57A,#F1F2DF,038-pale-olive/gradient.jpg,038-pale-olive/palette.jpg
-39,seafoam-paper,Seafoam Paper,nature,"Sea green, printed not lit. Seafoam Paper —",#497068,#8FBDB1,#ECF5F2,039-seafoam-paper/gradient.jpg,039-seafoam-paper/palette.jpg
-40,warm-ash,Warm Ash,abstract,Grey that leans brown. Warm Ash —,#6E6660,#B3A79E,#F2EDE8,040-warm-ash/gradient.jpg,040-warm-ash/palette.jpg
-41,sky-wash,Sky Wash,nature,Overcast sky in three tones. Sky Wash —,#56728C,#9DB8CE,#EDF3F8,041-sky-wash/gradient.jpg,041-sky-wash/palette.jpg
-42,terracotta-milk,Terracotta Milk,nature,Clay softened with cream. Terracotta Milk —,#8C5340,#D39B7F,#F8ECE2,042-terracotta-milk/gradient.jpg,042-terracotta-milk/palette.jpg
-43,sage-stone,Sage Stone,nature,"Green stone, very little chroma. Sage Stone —",#5F6E60,#A2B0A0,#EFF2ED,043-sage-stone/gradient.jpg,043-sage-stone/palette.jpg
-44,dune-linen,Dune Linen,nature,"Sand as a neutral, not a color. Dune Linen —",#7E6A4E,#C3AE8C,#F5EFE2,044-dune-linen/gradient.jpg,044-dune-linen/palette.jpg
-45,blush-cloud,Blush Cloud,abstract,The softest pink that still works. Blush Cloud —,#8A6470,#CFA3AE,#F8EDF0,045-blush-cloud/gradient.jpg,045-blush-cloud/palette.jpg
-46,fog-pine,Fog Pine,nature,Pine seen through morning fog. Fog Pine —,#46564F,#8CA096,#E9EFEB,046-fog-pine/gradient.jpg,046-fog-pine/palette.jpg
-47,almond-shade,Almond Shade,nature,Warm brown with nowhere to hide. Almond Shade —,#6F5B47,#BAA184,#F4ECE0,047-almond-shade/gradient.jpg,047-almond-shade/palette.jpg
-48,periwinkle-dust,Periwinkle Dust,abstract,"Blue-purple, dusted flat. Periwinkle Dust —",#5D648C,#A0A6C8,#EEEFF7,048-periwinkle-dust/gradient.jpg,048-periwinkle-dust/palette.jpg
-49,clay-mist,Clay Mist,nature,Earth tones at low volume. Clay Mist —,#7C6157,#BFA096,#F4EBE6,049-clay-mist/gradient.jpg,049-clay-mist/palette.jpg
-50,moss-paper,Moss Paper,nature,Moss dried and pressed. Moss Paper —,#55603F,#9AA47A,#F0F1E2,050-moss-paper/gradient.jpg,050-moss-paper/palette.jpg
-51,neon-circuit,Neon Circuit,tech,"Magenta that hurts, on purpose. Neon Circuit —",#06070D,#C93FE8,#F0DEF7,051-neon-circuit/gradient.jpg,051-neon-circuit/palette.jpg
-52,terminal-green,Terminal Green,tech,The oldest interface color there is. Terminal Green —,#04120A,#2BD46B,#DFF7E7,052-terminal-green/gradient.jpg,052-terminal-green/palette.jpg
-53,laser-magenta,Laser Magenta,tech,"Full saturation, zero apology. Laser Magenta —",#0B0510,#FF2E88,#FFE0EE,053-laser-magenta/gradient.jpg,053-laser-magenta/palette.jpg
-54,volt-amber,Volt Amber,tech,Warning-light yellow on black. Volt Amber —,#100C02,#FFB300,#FFF1CC,054-volt-amber/gradient.jpg,054-volt-amber/palette.jpg
-55,cyber-dusk,Cyber Dusk,tech,Violet at interface brightness. Cyber Dusk —,#0A0716,#7B4BFF,#E4DBFF,055-cyber-dusk/gradient.jpg,055-cyber-dusk/palette.jpg
-56,plasma-core,Plasma Core,tech,Hot red-pink at the center. Plasma Core —,#12010A,#FF4D6D,#FFE1E6,056-plasma-core/gradient.jpg,056-plasma-core/palette.jpg
-57,quantum-teal,Quantum Teal,tech,Cyan pushed to its limit. Quantum Teal —,#001416,#00E5D0,#D9FBF7,057-quantum-teal/gradient.jpg,057-quantum-teal/palette.jpg
-58,pixel-noir,Pixel Noir,tech,"Dark UI grey-blue, done right. Pixel Noir —",#0C0E12,#4A5A78,#C6CEDC,058-pixel-noir/gradient.jpg,058-pixel-noir/palette.jpg
-59,hologram-ice,Hologram Ice,tech,Blue light on cold glass. Hologram Ice —,#071018,#58C5F0,#DFF3FC,059-hologram-ice/gradient.jpg,059-hologram-ice/palette.jpg
-60,kernel-panic,Kernel Panic,tech,"Alert red, nothing subtle. Kernel Panic —",#150204,#E5231F,#FADCDA,060-kernel-panic/gradient.jpg,060-kernel-panic/palette.jpg
-61,synth-violet,Synth Violet,tech,"Synthesizer purple, glowing. Synth Violet —",#0D0618,#A855F7,#EEDDFD,061-synth-violet/gradient.jpg,061-synth-violet/palette.jpg
-62,reactor-lime,Reactor Lime,tech,Green with too much energy. Reactor Lime —,#0B1002,#A3E635,#EDF9D5,062-reactor-lime/gradient.jpg,062-reactor-lime/palette.jpg
-63,deep-sapphire,Deep Sapphire,abstract,Jewel blue against true dark. Deep Sapphire —,#030A22,#1E48D6,#D4DDF7,063-deep-sapphire/gradient.jpg,063-deep-sapphire/palette.jpg
-64,ruby-vault,Ruby Vault,abstract,Red as a precious stone. Ruby Vault —,#16040A,#C1123F,#F4D6DE,064-ruby-vault/gradient.jpg,064-ruby-vault/palette.jpg
-65,emerald-vault,Emerald Vault,abstract,Green with real depth to it. Emerald Vault —,#041410,#0F9D63,#D5F0E4,065-emerald-vault/gradient.jpg,065-emerald-vault/palette.jpg
-66,amethyst-vault,Amethyst Vault,abstract,Purple cut like a gem. Amethyst Vault —,#100620,#8B34D6,#E5D6F5,066-amethyst-vault/gradient.jpg,066-amethyst-vault/palette.jpg
-67,topaz-vault,Topaz Vault,abstract,Gold with weight behind it. Topaz Vault —,#1A1204,#D9A017,#F7EBCB,067-topaz-vault/gradient.jpg,067-topaz-vault/palette.jpg
-68,onyx-chrome,Onyx Chrome,tech,"Pure neutral, maximum contrast. Onyx Chrome —",#0A0A0B,#6E7378,#DDDEE0,068-onyx-chrome/gradient.jpg,068-onyx-chrome/palette.jpg
-69,signal-orange,Signal Orange,tech,Safety orange as an accent. Signal Orange —,#120A04,#FF6A1F,#FFE3D0,069-signal-orange/gradient.jpg,069-signal-orange/palette.jpg
-70,ice-cyan,Ice Cyan,tech,Cyan cold enough to sting. Ice Cyan —,#04121A,#22C3E6,#D6F4FC,070-ice-cyan/gradient.jpg,070-ice-cyan/palette.jpg
-71,blood-orange,Blood Orange,nature,Red-orange with the pith. Blood Orange —,#1A0803,#E04B16,#FBDCCD,071-blood-orange/gradient.jpg,071-blood-orange/palette.jpg
-72,electric-indigo,Electric Indigo,tech,Indigo with current running through. Electric Indigo —,#08061A,#4338CA,#DCDAF6,072-electric-indigo/gradient.jpg,072-electric-indigo/palette.jpg
-73,acid-yellow,Acid Yellow,tech,Yellow-green at full volume. Acid Yellow —,#121200,#E8F02A,#FAFCD2,073-acid-yellow/gradient.jpg,073-acid-yellow/palette.jpg
-74,hot-coral,Hot Coral,abstract,Coral turned all the way up. Hot Coral —,#1A0708,#FF5A5F,#FFE0E1,074-hot-coral/gradient.jpg,074-hot-coral/palette.jpg
-75,deep-jade,Deep Jade,nature,Jade with water behind it. Deep Jade —,#021512,#0FA88C,#D3F1EA,075-deep-jade/gradient.jpg,075-deep-jade/palette.jpg
-76,sunset-savanna,Sunset Savanna,nature,"Purple night, orange sun, gold grass. Sunset Savanna —",#2B1A2E,#E0703C,#F3D9A8,076-sunset-savanna/gradient.jpg,076-sunset-savanna/palette.jpg
-77,storm-and-wheat,Storm & Wheat,nature,Cold sky over a warm field. Storm & Wheat —,#232A33,#6E7C8C,#E4CE96,077-storm-and-wheat/gradient.jpg,077-storm-and-wheat/palette.jpg
-78,forest-fire,Forest Fire,nature,"Green, flame, ash. Forest Fire —",#12210F,#C4471F,#E9DEC2,078-forest-fire/gradient.jpg,078-forest-fire/palette.jpg
-79,ocean-rust,Ocean Rust,nature,Salt water meets old iron. Ocean Rust —,#0B2733,#B7643A,#DCE7E5,079-ocean-rust/gradient.jpg,079-ocean-rust/palette.jpg
-80,violet-sand,Violet Sand,abstract,Cool purple over warm sand. Violet Sand —,#241633,#9A6BB5,#E8D9B8,080-violet-sand/gradient.jpg,080-violet-sand/palette.jpg
-81,teal-and-clay,Teal & Clay,nature,"Complementary, but quiet about it. Teal & Clay —",#10302F,#C08066,#EAE3D6,081-teal-and-clay/gradient.jpg,081-teal-and-clay/palette.jpg
-82,midnight-marigold,Midnight Marigold,abstract,One gold light in a blue room. Midnight Marigold —,#0B1024,#E8B23A,#E7E3D6,082-midnight-marigold/gradient.jpg,082-midnight-marigold/palette.jpg
-83,plum-and-pistachio,Plum & Pistachio,abstract,An unexpected pairing that works. Plum & Pistachio —,#22132A,#7B4C86,#D8E3B4,083-plum-and-pistachio/gradient.jpg,083-plum-and-pistachio/palette.jpg
-84,rose-and-slate,Rose & Slate,abstract,Warm pink held by cool grey. Rose & Slate —,#2C2F3A,#C1697C,#E8E6E2,084-rose-and-slate/gradient.jpg,084-rose-and-slate/palette.jpg
-85,cobalt-and-sand,Cobalt & Sand,abstract,"Blue and beige, no middle ground. Cobalt & Sand —",#0C1A3A,#2F5FC0,#E5D6B8,085-cobalt-and-sand/gradient.jpg,085-cobalt-and-sand/palette.jpg
-86,lime-ink,Lime Ink,nature,Green with a yellow spine. Lime Ink —,#10160A,#86A82E,#E3E9CE,086-lime-ink/gradient.jpg,086-lime-ink/palette.jpg
-87,coral-reef,Coral Reef,nature,Warm coral on cold water. Coral Reef —,#0E2A38,#F0705A,#EAD9C6,087-coral-reef/gradient.jpg,087-coral-reef/palette.jpg
-88,berry-field,Berry Field,nature,Berry pink against dry cream. Berry Field —,#1E0F22,#A63A6B,#E4D9B8,088-berry-field/gradient.jpg,088-berry-field/palette.jpg
-89,mustard-fog,Mustard Fog,abstract,"Mustard, muffled by grey. Mustard Fog —",#2A2A22,#C9A227,#E8E6DC,089-mustard-fog/gradient.jpg,089-mustard-fog/palette.jpg
-90,arctic-ember,Arctic Ember,nature,One warm point in cold blue. Arctic Ember —,#0F1E2A,#D96C4A,#DCE9EF,090-arctic-ember/gradient.jpg,090-arctic-ember/palette.jpg
-91,verdigris-and-rust,Verdigris & Rust,abstract,Two ways metal ages. Verdigris & Rust —,#10241F,#A85434,#DCE6DE,091-verdigris-and-rust/gradient.jpg,091-verdigris-and-rust/palette.jpg
-92,ultramarine-peach,Ultramarine Peach,abstract,"Hard blue, soft peach. Ultramarine Peach —",#0A1230,#2A4BB8,#F2CDB0,092-ultramarine-peach/gradient.jpg,092-ultramarine-peach/palette.jpg
-93,moss-and-magenta,Moss & Magenta,abstract,A collision that somehow balances. Moss & Magenta —,#16200F,#C43C82,#E3E8D2,093-moss-and-magenta/gradient.jpg,093-moss-and-magenta/palette.jpg
-94,charcoal-marine,Charcoal Marine,tech,Neutral dark with one marine tone. Charcoal Marine —,#1A1D1E,#2E7C8A,#E0E5E4,094-charcoal-marine/gradient.jpg,094-charcoal-marine/palette.jpg
-95,bronze-night,Bronze Night,abstract,Metal in low light. Bronze Night —,#14100A,#9C7440,#E6DCC8,095-bronze-night/gradient.jpg,095-bronze-night/palette.jpg
-96,fig-and-cream,Fig & Cream,nature,"Fig skin, fig flesh, cream. Fig & Cream —",#2A1520,#7E4257,#F0E4D8,096-fig-and-cream/gradient.jpg,096-fig-and-cream/palette.jpg
-97,petrol-and-gold,Petrol & Gold,abstract,Dark green-blue lit by gold. Petrol & Gold —,#08201F,#C69B3E,#E3E8E2,097-petrol-and-gold/gradient.jpg,097-petrol-and-gold/palette.jpg
-98,cranberry-ash,Cranberry Ash,nature,Deep red gone almost grey. Cranberry Ash —,#201014,#A83247,#E3DCDA,098-cranberry-ash/gradient.jpg,098-cranberry-ash/palette.jpg
-99,pine-and-copper,Pine & Copper,nature,Forest green with a metal edge. Pine & Copper —,#0D1D18,#B4703E,#E0E7DF,099-pine-and-copper/gradient.jpg,099-pine-and-copper/palette.jpg
-100,slate-and-saffron,Slate & Saffron,abstract,"Grey doing the work, saffron doing the talking. Slate & Saffron —",#232830,#E2A32C,#EBECEE,100-slate-and-saffron/gradient.jpg,100-slate-and-saffron/palette.jpg
+id,caption,photo_file,palette_file,hex1,hex2,hex3,hex4,name1,name2,name3,name4,source_file
+001,"Red robe, stone stairs, deep blue sky.",001/photo.jpg,001/palette.jpg,#0A0508,#3E3226,#285172,#C05134,Pitch,Umber,Azure,Vermilion,00177a3c1d9ea129a6f6c7b080041fad.jpg
+002,Horse of cream and indigo florals.,002/photo.jpg,002/palette.jpg,#1D1D23,#51312E,#345873,#67584A,Pitch,Red,Azure,Umber,0056a01efdd598932971486a9c0539b3.jpg
+003,Red fabric flying past a mint car.,003/photo.jpg,003/palette.jpg,#842218,#5E7759,#689A8E,#BFBA9B,Red,Graphite,Faded Jade,Smoked Gold,03e507fc9c518da375fb83da9dafcc27.jpg
+004,Orange doorway in a pale blue wall.,004/photo.jpg,004/palette.jpg,#1F5E73,#528592,#C39D88,#99B7BC,Cyan,Deep Cyan,Vermilion,Smoked Cyan,0679c9a11a95990d1bfb652a008fc6ce.jpg
+005,Someone sitting inside a painted rainbow.,005/photo.jpg,005/palette.jpg,#453C36,#F66F53,#FA857C,#F6A74D,Umber,Vivid Red,Electric Red,Signal Orange,0770e14f565c5707a41b3b7f1a58df4b.jpg
+006,White cloak spinning over red grass.,006/photo.jpg,006/palette.jpg,#120A04,#03274B,#6D210B,#C4A88E,Espresso,Dark Azure,Umber,Orange,0b5e5fdb1894bb329eea293a81a2ccda.jpg
+007,"Terracotta window, moon over dark sea.",007/photo.jpg,007/palette.jpg,#102640,#72271F,#426694,#AC4A3B,Deep Blue,Red,Blue,Deep Red,0d06208c45491029a61f1e569aaafb3b.jpg
+008,Red dress running across olive grass.,008/photo.jpg,008/palette.jpg,#061827,#3F2518,#664725,#836835,Pitch,Umber,Bark,Cocoa,0e7f0e117321625cfaa8e72dac0be273.jpg
+009,Blue boat between coral and sky.,009/photo.jpg,009/palette.jpg,#0A282F,#582C16,#AF3E2F,#6B8EA4,Pitch,Umber,Red,Smoked Azure,1160f8be0a8629f6eb8b651cb5a45b19.jpg
+010,Orange phone booth among desert cactus.,010/photo.jpg,010/palette.jpg,#822D1F,#027CA4,#AC442B,#D1623D,Red,Vivid Cyan,Deep Red,Vermilion,1381345d4298bc8766510501c7bea736.jpg
+011,"Pink wool trees, boat on lilac water.",011/photo.jpg,011/palette.jpg,#3D5174,#6B7091,#B37070,#E2DACC,Blue,Muted Indigo,Red,Washed Amber,15ce59c45c3af094c463d1ea0baeecd3.jpg
+012,Blurred flowers sweeping past a still face.,012/photo.jpg,012/palette.jpg,#2E3311,#604417,#72968D,#C89B70,Espresso,Umber,Faded Jade,Orange,15f01a4756f3c836245c035ecbdc9aa3.jpg
+013,"Sand shapes, plum spheres, wine dress.",013/photo.jpg,013/palette.jpg,#884037,#8C5E58,#A88470,#E3D5C7,Red,Muted Red,Faded Vermilion,Washed Orange,16744b45ab33712bc4d4b4c8b558ae91.jpg
+014,Orange sphere behind frosted glass tiles.,014/photo.jpg,014/palette.jpg,#382139,#9C140F,#9F6867,#F2601A,Deep Orchid,Vivid Red,Faded Red,Signal Vermilion,16786cef69818046889ed3aca40a022c.jpg
+015,Clouds resting low on green grass.,015/photo.jpg,015/palette.jpg,#456E5B,#68802E,#8CA241,#A8BB5B,Dusty Emerald,Citron,Deep Citron,Pale Citron,18ac5bcfac95a3edb99862bdcfd047cf.jpg
+016,"Cobalt gloves and a cobalt blindfold, everything else white.",016/photo.jpg,016/palette.jpg,#0A2782,#797779,#A8B5B9,#D6E3E5,Bright Blue,Stone,Faded Cyan,Washed Cyan,1c91c227b729fe73289ce3cb2c3e0666.jpg
+017,Gold visor holding a whole sky.,017/photo.jpg,017/palette.jpg,#452B23,#7B582D,#8B704D,#A29E77,Umber,Bark,Amber,Smoked Yellow,1eb011563c7f46e174cf7d1f5e2225ad.jpg
+018,Red car blurring past white blossom.,018/photo.jpg,018/palette.jpg,#30261A,#135484,#5C4034,#D3CDBC,Umber,Azure,Bark,Smoked Gold,2a74d792ce9b642b4ea90e4127c3779a.jpg
+019,"Pink hills, crimson blooms, pale sky.",019/photo.jpg,019/palette.jpg,#915A33,#B5654C,#CE8569,#D8BE91,Orange,Vermilion,Deep Vermilion,Amber,2d5bd46acb9fe9d77ce6e5c8edf99d2f.jpg
+020,Deep red fabric in green grass.,020/photo.jpg,020/palette.jpg,#210508,#4D1112,#212D1F,#546E52,Espresso,Crimson,Dark Slate,Charcoal,2e5cca72ee36ff18b988ff5d356f65ef.jpg
+021,Orange clouds over a teal wall.,021/photo.jpg,021/palette.jpg,#C64013,#59938A,#D07611,#D2BEA5,Bright Vermilion,Muted Jade,Electric Orange,Amber,2e9b3836e60c147d1a1c639f5f2409f4.jpg
+022,Red knight on checkered floor.,022/photo.jpg,022/palette.jpg,#6B0B11,#CA4C4C,#AFADA2,#E7E8E1,Bright Crimson,Red,Oat,Washed Citron,2ec2361a6816b6d35da481e225b64f03.jpg
+023,"Small boat, orange water, green fans.",023/photo.jpg,023/palette.jpg,#2F3219,#4B6271,#6A6228,#DF632F,Deep Citron,Muted Azure,Umber,Vermilion,31c2245c27a7cebfaf780effb2951447.jpg
+024,"Yellow door, yellow tree, white wall.",024/photo.jpg,024/palette.jpg,#2364A5,#3C85BC,#C1AE99,#DEDED5,Azure,Deep Azure,Faded Orange,Washed Yellow,390b4614bb1a601e0e9514e8fd3c2faa.jpg
+025,Ball resting where clay meets green.,025/photo.jpg,025/palette.jpg,#1A161B,#2E4440,#AB5B41,#E0DCDA,Pitch,Graphite,Vermilion,Bone,399600b8745bae10bab6b012bc2453aa.jpg
+026,Navy sphere behind pale glass ribs.,026/photo.jpg,026/palette.jpg,#080A2B,#0D1266,#BDC1ED,#FAFBFE,Pitch,Vivid Indigo,Light Indigo,Washed Blue,40dcd3549b0986ae2eb4eb229b854f91.jpg
+027,Yellow smoke rising off grey.,027/photo.jpg,027/palette.jpg,#3E4243,#7D4714,#A75D0B,#F9BD09,Charcoal,Umber,Bark,Signal Gold,4306fa01d7ecdbdb70ddc898665daed8.jpg
+028,White stairs between red and yellow.,028/photo.jpg,028/palette.jpg,#303E67,#DA0303,#F3C70B,#DECBBA,Blue,Vivid Red,Electric Gold,Orange,4c27e4df9e1daab5385fb34186eaf654.jpg
+029,"Red wall, turquoise sea, pale cliff.",029/photo.jpg,029/palette.jpg,#251814,#9C2618,#225769,#3B727E,Pitch,Red,Cyan,Deep Cyan,4d76bf9a3566ee70fcd6d6b29b6eafbc.jpg
+030,Red ladder in a dense garden.,030/photo.jpg,030/palette.jpg,#15100C,#521310,#544524,#CEB4A9,Espresso,Red,Umber,Vermilion,50751d7993aaec4389e304ec3866f7e2.jpg
+031,"Terracotta pool, blue water, dark cypress.",031/photo.jpg,031/palette.jpg,#131815,#3D422A,#345890,#64663B,Pitch,Muted Citron,Blue,Yellow,50998f98262df2514f5e679f10032aee.jpg
+032,Orange tree framed by ochre arch.,032/photo.jpg,032/palette.jpg,#534C2E,#8E541F,#7496B2,#C0D4DF,Umber,Bark,Azure,Deep Azure,5118c949fb2a0b3f700c4f55bf6e6a88.jpg
+033,Two painted geese on teal.,033/photo.jpg,033/palette.jpg,#BA0509,#E80706,#02807E,#DCDEDE,Bright Crimson,Vivid Red,Electric Teal,Pearl,52f3cb300a93350be77cdfeba9ed57d2.jpg
+034,"Pink blossom hills, soft green slopes.",034/photo.jpg,034/palette.jpg,#344A1D,#62753E,#84A061,#85B3CC,Lime,Deep Lime,Faded Lime,Azure,5321bd8320a0b6de393242260928e59f.jpg
+035,Deep blue dusk over yellow blooms.,035/photo.jpg,035/palette.jpg,#060638,#1A4182,#3C5399,#6A64A1,Pitch,Blue,Deep Blue,Smoked Violet,53e1541b003f695a9aed8194e1769984.jpg
+036,Glowing orange sphere in a stream.,036/photo.jpg,036/palette.jpg,#592219,#35322D,#4A5578,#6887BE,Red,Dark Taupe,Faded Blue,Blue,56f2142ac828928af14dbfd192e74c1e.jpg
+037,"Mint curves, sand floor, yellow spheres.",037/photo.jpg,037/palette.jpg,#4C4A34,#6E654D,#9CA7A7,#F1E2CD,Umber,Dark Taupe,Ash,Washed Amber,677ca7191e0776365b50070852ebce9b.jpg
+038,Rust shrubs around a blue pool.,038/photo.jpg,038/palette.jpg,#045A81,#36505A,#A63E2B,#E0DAC3,Bright Cyan,Cyan,Red,Washed Gold,6aaf7096cdd40629c853dd65e8f3e4e0.jpg
+039,Black coat on red checkerboard.,039/photo.jpg,039/palette.jpg,#191314,#AA0215,#D0B8B6,#DFDBD8,Espresso,Vivid Crimson,Faded Red,Washed Orange,72aa35f7b35fd3badd4f7b1bed055d84.jpg
+040,Red umbrella above white cliff.,040/photo.jpg,040/palette.jpg,#157E90,#6898A1,#9B9790,#CEC9C5,Cyan,Muted Cyan,Oat,Linen,73781c41c6858619aa4566d39830d870.jpg
+041,Rust robe running through gold grass.,041/photo.jpg,041/palette.jpg,#110903,#064860,#79230C,#625222,Espresso,Vivid Cyan,Umber,Bark,7437b84bc3bb12721155eaf85a1871a2.jpg
+042,"Pink fur coat, blue backdrop.",042/photo.jpg,042/palette.jpg,#35628F,#AA6A7B,#C689A3,#92A1C5,Azure,Rose,Deep Rose,Blue,75a7216cfbada1126c97934c65abe7b2.jpg
+043,Bird feathers in cream and wine.,043/photo.jpg,043/palette.jpg,#4C0405,#867066,#AB9B8D,#C6BFB8,Deep Crimson,Muted Vermilion,Faded Orange,Smoked Orange,75bbcb7407bb616f057488b8d7a5f229.jpg
+044,"Grey stone head, pale sand.",044/photo.jpg,044/palette.jpg,#424242,#949492,#ACACAB,#E5E5E5,Charcoal,Clay Grey,Oat,Chalk,75f42b64d9d932d432f9e659a5bb0c5d.jpg
+045,Blue tennis balls floating in grey.,045/photo.jpg,045/palette.jpg,#355C93,#527CB3,#7099CB,#BFC1C4,Blue,Deep Blue,Pale Blue,Silver,7844c19e563953730f2e88e26364fd43.jpg
+046,"Red house, green field, clear sky.",046/photo.jpg,046/palette.jpg,#5E5528,#226685,#528BA6,#86B9CA,Umber,Cyan,Azure,Deep Cyan,78903dd5b7fe32eb7998b87c59561fe3.jpg
+047,Blue butterflies over a blueberry shirt.,047/photo.jpg,047/palette.jpg,#14307D,#2048A6,#63655E,#AFB5BF,Blue,Deep Blue,Dark Slate,Smoked Blue,790d3028e23cca52b6936cee89a13267.jpg
+048,Lemons on navy checkered tile.,048/photo.jpg,048/palette.jpg,#031522,#04385E,#EDB70A,#E2D6B7,Pitch,Vivid Azure,Electric Gold,Gold,7a27f12f797dc565cdbdc56c32b05bd6.jpg
+049,Cobalt ruffles on burnt orange.,049/photo.jpg,049/palette.jpg,#15164E,#162995,#2043BE,#F7472D,Indigo,Deep Indigo,Blue,Signal Red,81be2aeaf8155ebfdfc2618830212fb1.jpg
+050,"Red wall, green leaves, yellow blooms.",050/photo.jpg,050/palette.jpg,#231D11,#3A4023,#565E31,#DB3C1E,Espresso,Citron,Deep Citron,Signal Red,851db541e200610531b766a528514fc7.jpg
+051,Green fringe under a fringed tree.,051/photo.jpg,051/palette.jpg,#1F2F1C,#656E42,#92AFB7,#E5CDB7,Deep Green,Citron,Faded Cyan,Orange,864870fc3a2ee73f8d8ac4ae7d9a0660.jpg
+052,White castle above red hills.,052/photo.jpg,052/palette.jpg,#0C2C20,#3B2A2A,#054888,#8B231F,Pitch,Graphite,Electric Azure,Red,86d865e2940dfd1b572f354e8ca731f2.jpg
+053,Orange and teal on cream clouds.,053/photo.jpg,053/palette.jpg,#1F2E20,#E55207,#BFA689,#DECCAE,Charcoal,Vivid Vermilion,Orange,Amber,8b3a8a2c553dcb5f563fa978169ef9e3.jpg
+054,Orange glow bleeding through grey stripes.,054/photo.jpg,054/palette.jpg,#060403,#6C6865,#9C9383,#F3910A,Espresso,Dark Taupe,Faded Amber,Signal Amber,8b47e574fab0b20c4ac83120b72d3278.jpg
+055,Balloons over dry brown grass.,055/photo.jpg,055/palette.jpg,#261715,#553120,#708D91,#98ADAA,Pitch,Umber,Faded Cyan,Smoked Jade,8b75f63778be54bd07ac3d1d645ac1d5.jpg
+056,Pale stairs between red and green.,056/photo.jpg,056/palette.jpg,#243021,#9E1409,#C32A0F,#B0B873,Charcoal,Vivid Red,Electric Red,Citron,8e4b6b16982944eea6e6369968d8d179.jpg
+057,"White tulips, bright blue everywhere.",057/photo.jpg,057/palette.jpg,#1C1D1D,#167DDA,#4C89CE,#E8E4DD,Pitch,Vivid Azure,Azure,Washed Amber,92231355f9a3b8977350358ab9738033.jpg
+058,Pink fins drifting past a black coat.,058/photo.jpg,058/palette.jpg,#1D1513,#863A3E,#9F5F5E,#939B8F,Pitch,Crimson,Red,Ash,939255d8f8bc643b67af248624f051a5.jpg
+059,Dark bust on flat yellow.,059/photo.jpg,059/palette.jpg,#121416,#3B4A3D,#586F53,#FEFF1D,Pitch,Graphite,Dark Slate,Signal Yellow,96dbb64083246da3668301147f3b0be1.jpg
+060,"Blurred red tree, violet sky.",060/photo.jpg,060/palette.jpg,#28234D,#413878,#AA2D29,#CDBABF,Violet,Deep Violet,Red,Smoked Rose,99e04e2c03762602ac70a4dc5a84eae9.jpg
+061,A white van in pink hills.,061/photo.jpg,061/palette.jpg,#A77174,#D29399,#EDAEB9,#D5D8DC,Dusty Crimson,Crimson,Deep Crimson,Washed Blue,9a244522293702f7dd151388ebdbfa60.jpg
+062,Coral suit walking through gold scrub.,062/photo.jpg,062/palette.jpg,#7D3511,#BF2D27,#7C5F56,#D14E3D,Umber,Red,Dark Slate,Deep Red,9b460464017ec21ac456c1c97514081a.jpg
+063,"Red wall, one cloud, still water.",063/photo.jpg,063/palette.jpg,#041415,#5E0D07,#0A3159,#315473,Pitch,Vivid Red,Electric Azure,Azure,9e7386f0f70ba405daed8f457957ce74.jpg
+064,Pink coat deep in tall grass.,064/photo.jpg,064/palette.jpg,#343820,#6D6743,#B67A7C,#D5A1A9,Deep Citron,Umber,Crimson,Deep Crimson,9f49f8066b25a9e621a5022a6021f825.jpg
+065,"Butter shapes on toast, pewter tray.",065/photo.jpg,065/palette.jpg,#777267,#949186,#B5B1A5,#D0D2CC,Umber,Clay Grey,Faded Gold,Pearl,Gemini_Generated_Image_1fxr8e1fxr8e1fxr (1).png
+066,"Rust wall, green panels, blue florals.",066/photo.jpg,066/palette.jpg,#2C2118,#703829,#C2B3A2,#E2DCD1,Espresso,Umber,Faded Orange,Washed Amber,Gemini_Generated_Image_2hx9d12hx9d12hx9 (1).png
+067,"Terracotta door, mint tiles, sand plaster.",067/photo.jpg,067/palette.jpg,#676253,#898783,#99A2A0,#C4B7AB,Umber,Clay Grey,Ash,Smoked Orange,Gemini_Generated_Image_2ydwr2ydwr2ydwr2 (1).png
+068,Brass fish combs on grey blue.,068/photo.jpg,068/palette.jpg,#604A28,#816845,#A48962,#8E9D9E,Umber,Amber,Deep Amber,Ash,Gemini_Generated_Image_5cfn2i5cfn2i5cfn (1).png
+069,Pink facade with teal window.,069/photo.jpg,069/palette.jpg,#2E1D1B,#4D3A30,#905D58,#AA7373,Deep Red,Umber,Faded Red,Smoked Red,Gemini_Generated_Image_6w6ntx6w6ntx6w6n (1).png
+070,White cat asleep on indigo rug.,070/photo.jpg,070/palette.jpg,#0E1F2A,#474A3B,#847960,#D4C5AA,Pitch,Graphite,Cocoa Grey,Amber,Gemini_Generated_Image_7d670w7d670w7d67 (1).png
+071,"Green door, gold hinges, amber glass.",071/photo.jpg,071/palette.jpg,#494637,#5D7D79,#948975,#B4A086,Umber,Graphite,Faded Amber,Smoked Amber,Gemini_Generated_Image_9qjdyk9qjdyk9qjd (1).png
+072,White horse crossing pink heather.,072/photo.jpg,072/palette.jpg,#322B24,#6E453E,#8C5B52,#5F7572,Umber,Red,Deep Red,Charcoal,Gemini_Generated_Image_9tkeo49tkeo49tke (1).png
+073,Ginger cat curled on rust carpet.,073/photo.jpg,073/palette.jpg,#9B543A,#7A6654,#968269,#EAD6BA,Vermilion,Dark Taupe,Faded Amber,Washed Amber,Gemini_Generated_Image_epjlwfepjlwfepjl (1).png
+074,"Striped moka pot, red blue gold.",074/photo.jpg,074/palette.jpg,#101D30,#53342C,#999898,#B4B4B3,Pitch,Umber,Ash,Linen,Gemini_Generated_Image_fqwszrfqwszrfqws (1).png
+075,Cypress shadow on terracotta wall.,075/photo.jpg,075/palette.jpg,#084D91,#2966AC,#98513F,#C8CAC9,Bright Azure,Blue,Vermilion,Silver,Gemini_Generated_Image_g6dq4hg6dq4hg6dq (1).png
+076,"Old shutter, green wall, spilling flowers.",076/photo.jpg,076/palette.jpg,#151C16,#285845,#674937,#C6AC92,Pitch,Jade,Umber,Orange,Gemini_Generated_Image_gtooxgtooxgtooxg (1).png
+077,Birch trunks by a violet wall.,077/photo.jpg,077/palette.jpg,#353B52,#074D92,#A9ACAE,#CBD7E1,Dusty Blue,Vivid Azure,Ash,Washed Azure,Gemini_Generated_Image_i8knai8knai8knai (1).png
+078,"Brass watering can, teal above orange.",078/photo.jpg,078/palette.jpg,#4C4B45,#2B68A3,#A85839,#507D80,Umber,Azure,Vermilion,Smoked Teal,Gemini_Generated_Image_ihc8eiihc8eiihc8 (1).png
+079,"Bronze sculpture, white wall, deep sky.",079/photo.jpg,079/palette.jpg,#04478F,#958C82,#AFA69A,#D6D6D4,Bright Azure,Clay Grey,Faded Amber,Bone,Gemini_Generated_Image_l86y09l86y09l86y (1).png
+080,Brass dog figure on soft grey.,080/photo.jpg,080/palette.jpg,#9D7C42,#908D8D,#C0C0BF,#E6C585,Amber,Stone,Linen,Deep Amber,Gemini_Generated_Image_lwlr86lwlr86lwlr (1).png
+081,"Red arches, blue sea beyond.",081/photo.jpg,081/palette.jpg,#931E26,#B03C3F,#AE6361,#B1CFE6,Crimson,Deep Crimson,Red,Azure,Gemini_Generated_Image_m243ipm243ipm243 (1).png
+082,Orange fish circling pale teal water.,082/photo.jpg,082/palette.jpg,#5C0603,#1B3237,#9A0903,#216465,Bright Red,Dark Cyan,Electric Red,Teal,a318527e6a7df4d55a29fb5685381a68.jpg
+083,"Grey coat mid leap, orange shoes.",083/photo.jpg,083/palette.jpg,#251615,#025167,#3B4449,#276C80,Pitch,Vivid Cyan,Dark Slate,Cyan,a69145c68c87c839910a8e495332450b.jpg
+084,Yellow fabric splits dark water.,084/photo.jpg,084/palette.jpg,#06101D,#607881,#8A9C99,#F4BD07,Pitch,Graphite,Stone,Signal Gold,a8cea142225ef0ad8f2e40021460aa24.jpg
+085,Tennis balls hanging like fruit.,085/photo.jpg,085/palette.jpg,#11170F,#42471E,#636223,#877E2A,Pitch,Citron,Yellow,Umber,ab00c431cb09929b20276c646105fedc.jpg
+086,Stone house in blue dunes.,086/photo.jpg,086/palette.jpg,#0A2C58,#26537C,#40709A,#7AA0BE,Bright Blue,Azure,Deep Azure,Pale Azure,abb083298474ed1bd7a08844e36196d8.jpg
+087,Orange and charcoal through textured glass.,087/photo.jpg,087/palette.jpg,#282522,#EDB175,#D3C3B1,#DCDCD4,Umber,Vivid Orange,Orange,Washed Yellow,acc5b58eaf6f75f265c3ae19f71ee3a3.jpg
+088,"Painted garden path, teal and orange.",088/photo.jpg,088/palette.jpg,#181D14,#4E421C,#CD4613,#81761F,Pitch,Umber,Electric Vermilion,Bark,ae8b33e9114d18453bf305a7d95e1bd9.jpg
+089,White rabbits over clipped green hedges.,089/photo.jpg,089/palette.jpg,#131811,#494A34,#B8BFBE,#D5D7D4,Pitch,Dark Taupe,Silver,Pearl,b014e96ee13a5853781bc92f4451deba.jpg
+090,Palm shadow on orange wall.,090/photo.jpg,090/palette.jpg,#9F4825,#E99745,#A9D1C2,#EAE5D9,Vermilion,Vivid Orange,Jade,Washed Gold,b2b4b7c06ce285466ff677d1b9ed39bb.jpg
+091,Blue chair facing pale dunes.,091/photo.jpg,091/palette.jpg,#9198A7,#A9C0D0,#D2C0AF,#DFDCD2,Dusty Blue,Azure,Orange,Washed Gold,b4b9f8ab859eba12062cd2a54c418b89.jpg
+092,Brown dress against tall grass.,092/photo.jpg,092/palette.jpg,#3D4106,#5F5C08,#8F7A5C,#94ADC7,Espresso,Vivid Yellow,Faded Amber,Azure,b7c0b40d59cce9f462e1f88384d236f6.jpg
+093,Blue coat on smeared flower field.,093/photo.jpg,093/palette.jpg,#1A2921,#56472B,#086F84,#8D775A,Pitch,Umber,Electric Cyan,Smoked Amber,b7e18397df14176a59f0b649c81bd2fc.jpg
+094,Three lemons on a white ledge.,094/photo.jpg,094/palette.jpg,#0B3950,#215A75,#457A92,#D1CFCA,Deep Azure,Azure,Cyan,Bone,b806a0791b058a2df9ec4922d6224120.jpg
+095,Green crosses projected on a dark portrait.,095/photo.jpg,095/palette.jpg,#020403,#174A3D,#465C59,#B1B1B1,Pitch,Jade,Dark Slate,Ash,b9018fcf6b53d7173ca1d127b0cf33a9.jpg
+096,Someone walking a rainbow curve.,096/photo.jpg,096/palette.jpg,#312B27,#A65A3A,#EB7358,#F9897E,Umber,Vermilion,Electric Red,Signal Red,bfad1715850da844c6ad8397ade592e3.jpg
+097,Blue stucco stairs cut through pale rock.,097/photo.jpg,097/palette.jpg,#050F3C,#29458F,#D4BB9F,#C6CBD6,Pitch,Blue,Orange,Smoked Blue,bfd2e1823629e88e3b0cf44bcd139e97.jpg
+098,"Yellow cloth, gold earrings, yellow wall.",098/photo.jpg,098/palette.jpg,#824805,#A76719,#C8880E,#EBB938,Umber,Bark,Electric Amber,Signal Gold,c74fa69337787b41aad315b3175671d6.jpg
+099,Bright blue fish against a blue backdrop.,099/photo.jpg,099/palette.jpg,#4687A5,#679DB4,#A7ABAF,#E8EBF0,Cyan,Deep Cyan,Ash,Washed Blue,c77b08ee963e1303e05ea9eb0c352584.jpg
+100,A chestnut horse crossing green grass.,100/photo.jpg,100/palette.jpg,#26422C,#5C704C,#7F8C61,#A4A976,Emerald,Graphite,Faded Lime,Smoked Citron,cbb08b060c9073a42486b5b1a44403b3.jpg
+101,One cloud over a pink floor.,101/photo.jpg,101/palette.jpg,#087EC1,#3196CF,#5CAAD7,#EDB9BC,Bright Azure,Azure,Deep Azure,Washed Crimson,d5770d572c896400357ec3229e866f3e.jpg
+102,"Black hat, cream robe, sand background.",102/photo.jpg,102/palette.jpg,#2C2724,#866F5A,#BE9A6D,#CDD6CB,Umber,Dark Taupe,Amber,Smoked Green,d57fa23dcc1015f57bcac623d561c02e.jpg
+103,White tulips tower over a white dress.,103/photo.jpg,103/palette.jpg,#464C3A,#50646C,#797B6A,#9D9F85,Charcoal,Graphite,Cocoa Grey,Smoked Citron,da42748777e673b16856f478394d2cda.jpg
+104,"Striped red and green hills, deep blue sky.",104/photo.jpg,104/palette.jpg,#094D8F,#9E413A,#A09569,#D79B8E,Bright Azure,Red,Faded Gold,Deep Red,dc29a9ba51d4363ba409dd631575087c.jpg
+105,Pale road curving across a green hill.,105/photo.jpg,105/palette.jpg,#3A4416,#195D86,#6F6A44,#B49075,Deep Citron,Azure,Umber,Orange,dd59986109e3e6c9bf86dcba9c03d744.jpg
+106,"Powdered mounds of orange, yellow, cream.",106/photo.jpg,106/palette.jpg,#27405C,#D39D51,#CDAE96,#DDCBB9,Azure,Amber,Orange,Deep Orange,dfdda8c1aa8910a0825f365276733b62.jpg
+107,Two dark red butterflies over grey.,107/photo.jpg,107/palette.jpg,#540A13,#836F6D,#A9ADB3,#E0E1E3,Bright Crimson,Muted Red,Ash,Pearl,download (1).png
+108,Doorway opening onto pink water and grass.,108/photo.jpg,108/palette.jpg,#1E6191,#446B3B,#428BB0,#84C2BA,Azure,Green,Deep Azure,Teal,download (2).png
+109,Lime green fur on hot pink.,109/photo.jpg,109/palette.jpg,#8D7844,#BB587D,#9E9B58,#B5B579,Gold,Rose,Yellow,Deep Yellow,download.png
+110,Cream dress among clipped green spheres.,110/photo.jpg,110/palette.jpg,#1B2F1E,#415934,#7F8A5D,#A0A190,Deep Green,Green,Faded Citron,Oat,e0853cabf039edda25577b4b22a789d9.jpg
+111,Two rust chairs facing green cliffs.,111/photo.jpg,111/palette.jpg,#592B0F,#3B4B42,#5B6B49,#8F9F9A,Umber,Graphite,Dark Slate,Ash,e358c9a047cfb031aae0e529c49ab886.jpg
+112,"Pink blossom beside a blue wall, sea behind.",112/photo.jpg,112/palette.jpg,#0B3D67,#406994,#8B6151,#AD806B,Bright Azure,Azure,Vermilion,Deep Vermilion,e5cb6c646a0d46d98f4691f160cfd09b.jpg
+113,"Red door, yellow house, golden grass.",113/photo.jpg,113/palette.jpg,#744C0A,#AE760B,#D8A21A,#B4B6AA,Umber,Bark,Electric Gold,Oat,e6e1deb8e56e773c34f2ce65f2d42c22.jpg
+114,Someone in orange beside an orange wall.,114/photo.jpg,114/palette.jpg,#902E2D,#3F4D64,#4B7993,#8099A4,Red,Muted Blue,Azure,Smoked Cyan,e6ebc25e64bad0f0cd2d86a6d8507807.jpg
+115,"Palm blurring in wind, pink horizon.",115/photo.jpg,115/palette.jpg,#096581,#B08374,#B1B7A8,#CFD6C8,Bright Cyan,Vermilion,Faded Lime,Smoked Lime,e8221fb22512bbdeec3bfb323f1d42e2.jpg
+116,White bird on a blue hat.,116/photo.jpg,116/palette.jpg,#03246C,#0157B3,#C8B4B4,#E9ECF2,Bright Blue,Vivid Azure,Faded Red,Washed Blue,ec2e07825a8ae3db9705e8abc9fe60c4.jpg
+117,"Green fairways, sand, one blue pond.",117/photo.jpg,117/palette.jpg,#041E06,#084C0A,#0254A1,#F5A973,Pitch,Dark Green,Electric Azure,Signal Orange,ecef7358064f030ab0717063fb732d75.jpg
+118,White ears above a blue wall.,118/photo.jpg,118/palette.jpg,#0743AD,#0A6AC7,#378ADC,#E0DFE2,Bright Blue,Vivid Azure,Azure,Pearl,ed8afd6b13b26c50486d1ad30a39840b.jpg
+119,Terracotta curve through pale mint arches.,119/photo.jpg,119/palette.jpg,#477783,#C05C2E,#73928F,#E3DCC2,Cyan,Vermilion,Faded Teal,Washed Gold,f22d3c69e5bc58c0744738409fc5640a.jpg
+120,A walking figure under red haze.,120/photo.jpg,120/palette.jpg,#372720,#662F20,#AD341F,#D9A83C,Umber,Bark,Red,Amber,f442e29bc79f4ca37304e2ed5d183632.jpg
+121,Glossy eggs on maroon checkerboard.,121/photo.jpg,121/palette.jpg,#20060B,#7A2636,#618299,#C2D8EF,Espresso,Crimson,Faded Azure,Washed Azure,f6826d61c142077ae8a98b6a651ffd8a.jpg
+122,"Bare branch shadows, mint wall, red door.",122/photo.jpg,122/palette.jpg,#3D4F54,#64797F,#889DA3,#B4C8CD,Charcoal,Graphite,Faded Cyan,Smoked Cyan,f79e34d0e835d5cdd73ffa384eff9d8d.jpg
+123,Orange rings floating over blue sea.,123/photo.jpg,123/palette.jpg,#43555D,#D04522,#5F7175,#81A2A8,Charcoal,Vermilion,Dark Slate,Smoked Cyan,f8093a5237d74c7bcf89d5e14e0d9112.jpg
+124,Red light washing a grey peak.,124/photo.jpg,124/palette.jpg,#651A09,#8F2613,#55506B,#5B7793,Bright Red,Vivid Red,Dark Slate,Smoked Azure,febd45fac959274411cd6bca8cb0d29d.jpg
+125,"Green tree, red ground, deep blue.",125/photo.jpg,125/palette.jpg,#121007,#0F1342,#AB2309,#E5BDA8,Espresso,Dark Indigo,Electric Red,Vermilion,fff3cc53f887196437e139f6bf756657.jpg
+126,Tennis balls spiralling on teal.,126/photo.jpg,126/palette.jpg,#10390A,#018799,#537E11,#96B724,Pitch,Vivid Cyan,Electric Lime,Citron,palp.jpg
+127,"Rows of pale cars, dusty pink.",127/photo.jpg,127/palette.jpg,#251B20,#50424F,#A98B9C,#D6BBC8,Pitch,Graphite,Faded Fuchsia,Smoked Fuchsia,unwatermarked_Gemini_Generated_Image_1jictp1jictp1jic.png
+128,Green door in an ochre wall.,128/photo.jpg,128/palette.jpg,#0A0D0A,#39524D,#B68A5B,#D5C1A8,Pitch,Graphite,Orange,Amber,unwatermarked_Gemini_Generated_Image_33jiep33jiep33ji.png
+129,"Blue door, white wall, wide sea.",129/photo.jpg,129/palette.jpg,#4088B2,#78A1B9,#7CC1D9,#DDDAD6,Azure,Deep Azure,Cyan,Washed Amber,unwatermarked_Gemini_Generated_Image_586sqg586sqg586s.png
+130,One cactus casts a shadow on peach.,130/photo.jpg,130/palette.jpg,#423930,#3F6669,#4B8AB5,#F1A684,Umber,Muted Teal,Azure,Signal Vermilion,unwatermarked_Gemini_Generated_Image_5retq65retq65ret.png
+131,"Coffee on marble, sailboat far out.",131/photo.jpg,131/palette.jpg,#242624,#92A7BA,#B4CAE2,#E3D6CA,Charcoal,Muted Azure,Azure,Washed Orange,unwatermarked_Gemini_Generated_Image_6t738r6t738r6t73.png
+132,"Olive tree, pale plaster, grey tile.",132/photo.jpg,132/palette.jpg,#4B4739,#655D52,#8E8A85,#C6BCB2,Umber,Dark Taupe,Clay Grey,Smoked Orange,unwatermarked_Gemini_Generated_Image_7gh8ui7gh8ui7gh8 copy.png
+133,White steps climbing into hard blue.,133/photo.jpg,133/palette.jpg,#3979B7,#A8A6A2,#D4D3CF,#F9F8F4,Azure,Oat,Bone,Washed Gold,unwatermarked_Gemini_Generated_Image_8cjmgb8cjmgb8cjm.png
+134,Yellow flowers spill across deep green.,134/photo.jpg,134/palette.jpg,#101C15,#492E20,#075C40,#754C37,Pitch,Umber,Electric Jade,Bark,unwatermarked_Gemini_Generated_Image_96j2qk96j2qk96j2.png
+135,"Rows of mint cars, one orange vest.",135/photo.jpg,135/palette.jpg,#1B2A21,#32453C,#709082,#8FA49A,Pitch,Graphite,Faded Emerald,Smoked Emerald,unwatermarked_Gemini_Generated_Image_c57nc3c57nc3c57n.png
+136,Warm wood desk set into grey stone.,136/photo.jpg,136/palette.jpg,#131310,#676352,#828074,#A4A197,Pitch,Dark Taupe,Clay Grey,Oat,unwatermarked_Gemini_Generated_Image_d7jhlnd7jhlnd7jh.png
+137,"Red spiral stair, green marble behind.",137/photo.jpg,137/palette.jpg,#201A19,#3C3F3D,#615E5B,#7A7775,Pitch,Graphite,Cocoa Grey,Clay Grey,unwatermarked_Gemini_Generated_Image_e48ct0e48ct0e48c.png
+138,Rust leaves over a teal wall.,138/photo.jpg,138/palette.jpg,#1C2D2E,#4D6C70,#A85038,#737A81,Deep Teal,Graphite,Vermilion,Stone,unwatermarked_Gemini_Generated_Image_hlmotjhlmotjhlmo.png
+139,Copper ironwork glowing in a terracotta hall.,139/photo.jpg,139/palette.jpg,#402B21,#685651,#8E5A3E,#A37F65,Umber,Graphite,Vermilion,Orange,unwatermarked_Gemini_Generated_Image_jn4l4cjn4l4cjn4l.png
+140,Cobalt tub in a green room.,140/photo.jpg,140/palette.jpg,#12192C,#394939,#7E795C,#C9C9C7,Pitch,Graphite,Cocoa Grey,Linen,unwatermarked_Gemini_Generated_Image_jouvjijouvjijouv.png
+141,One open window in flat blue.,141/photo.jpg,141/palette.jpg,#030B13,#042441,#105A7E,#59899C,Pitch,Ink,Electric Azure,Cyan,unwatermarked_Gemini_Generated_Image_n7850sn7850sn785.png
+142,A figure in blue crossing silver grass.,142/photo.jpg,142/palette.jpg,#2D1218,#453240,#82797D,#9B9598,Espresso,Graphite,Stone,Ash,unwatermarked_Gemini_Generated_Image_qesv2cqesv2cqesv.png
+143,"Green wall meets red wall, thin tree.",143/photo.jpg,143/palette.jpg,#612728,#0A5138,#266C97,#448BB4,Crimson,Dark Jade,Azure,Deep Azure,unwatermarked_Gemini_Generated_Image_rguqsxrguqsxrguq.png
+144,"Cypress road, yellow line, green fields.",144/photo.jpg,144/palette.jpg,#12160C,#474342,#74741B,#97893C,Pitch,Graphite,Yellow,Gold,unwatermarked_Gemini_Generated_Image_tx3raztx3raztx3r.png
+145,Grey wooden ship on white sand.,145/photo.jpg,145/palette.jpg,#161616,#8E8E8D,#B9B9B9,#E4E5E4,Pitch,Clay Grey,Silver,Chalk,unwatermarked_Gemini_Generated_Image_u3nzlnu3nzlnu3nz.png
+146,Green wall meets warm terracotta.,146/photo.jpg,146/palette.jpg,#29382B,#73402C,#8C715D,#AB9A8D,Charcoal,Umber,Faded Orange,Smoked Orange,unwatermarked_Gemini_Generated_Image_v6g5qjv6g5qjv6g5.png
+147,"White cat, teal wall, amber window.",147/photo.jpg,147/palette.jpg,#192020,#472C13,#234748,#836241,Pitch,Umber,Teal,Orange,unwatermarked_Gemini_Generated_Image_w6yq8fw6yq8fw6yq.png
+148,"Green wool cap, rust background, magpie.",148/photo.jpg,148/palette.jpg,#111109,#1D3A26,#A13E1E,#CB9570,Espresso,Dark Emerald,Umber,Orange,unwatermarked_Gemini_Generated_Image_wfptg1wfptg1wfpt.png
+149,Pale blue tile above burnt orange.,149/photo.jpg,149/palette.jpg,#26393A,#6D3023,#5C8487,#76A0A5,Dusty Teal,Red,Dark Slate,Smoked Cyan,unwatermarked_Gemini_Generated_Image_xkwe3zxkwe3zxkwe.png
+150,Dark green shower behind glass.,150/photo.jpg,150/palette.jpg,#31352C,#615D4F,#7F756B,#B9A794,Charcoal,Dark Taupe,Clay Grey,Smoked Orange,unwatermarked_Gemini_Generated_Image_yn7chhyn7chhyn7c.png
+151,"Mustard velvet, white cushions, pink plaster.",151/photo.jpg,151/palette.jpg,#452204,#AA7726,#C89A42,#C2A08D,Umber,Amber,Deep Amber,Vermilion,usfgqc-wwqsds.jpg

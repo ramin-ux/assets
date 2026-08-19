@@ -1,0 +1,101 @@
+index,slug,name,category,caption,hex1,hex2,hex3,gradient_file,palette_file
+1,arctic-fjord,Arctic Fjord,nature,"Cold water, colder air. Arctic Fjord —",#0B1A22,#2E6F8E,#DCE8EE,001-arctic-fjord/gradient.jpg,001-arctic-fjord/palette.jpg
+2,rust-republic,Rust Republic,nature,Oxidized metal and warm paper. Rust Republic —,#2A1310,#A64B2A,#E8D5C4,002-rust-republic/gradient.jpg,002-rust-republic/palette.jpg
+3,moss-hollow,Moss Hollow,nature,Forest floor after rain. Moss Hollow —,#14201A,#4E7A56,#DCE3D2,003-moss-hollow/gradient.jpg,003-moss-hollow/palette.jpg
+4,sandstorm,Sandstorm,nature,Everything the desert turns gold. Sandstorm —,#3B2C1D,#C08B4F,#F2E6D2,004-sandstorm/gradient.jpg,004-sandstorm/palette.jpg
+5,cobalt-signal,Cobalt Signal,tech,One saturated blue against near-black. Cobalt Signal —,#070B18,#2D4EC8,#C9D4F5,005-cobalt-signal/gradient.jpg,005-cobalt-signal/palette.jpg
+6,blush-concrete,Blush Concrete,abstract,Soft pink poured into grey. Blush Concrete —,#4A3A3C,#C98B90,#EFE6E3,006-blush-concrete/gradient.jpg,006-blush-concrete/palette.jpg
+7,ultraviolet-drift,Ultraviolet Drift,abstract,"Purple that reads as light, not color. Ultraviolet Drift —",#100A1F,#6A3FD1,#DCD2F2,007-ultraviolet-drift/gradient.jpg,007-ultraviolet-drift/palette.jpg
+8,olive-press,Olive Press,nature,Green with no blue in it at all. Olive Press —,#22240F,#7C8A3A,#E4E6CE,008-olive-press/gradient.jpg,008-olive-press/palette.jpg
+9,terracotta-sun,Terracotta Sun,nature,Fired clay under late light. Terracotta Sun —,#2E1512,#C25E3A,#F0DAC6,009-terracotta-sun/gradient.jpg,009-terracotta-sun/palette.jpg
+10,glacier-mist,Glacier Mist,nature,Grey-blue that never quite commits. Glacier Mist —,#1B2A33,#6E96A8,#E9F1F4,010-glacier-mist/gradient.jpg,010-glacier-mist/palette.jpg
+11,ink-and-marigold,Ink & Marigold,abstract,"True black, one loud yellow. Ink & Marigold —",#0E0E10,#E3A72F,#F5EFE2,011-ink-and-marigold/gradient.jpg,011-ink-and-marigold/palette.jpg
+12,deep-lagoon,Deep Lagoon,nature,Water deep enough to go green. Deep Lagoon —,#05201F,#17756E,#D5EAE5,012-deep-lagoon/gradient.jpg,012-deep-lagoon/palette.jpg
+13,plum-velvet,Plum Velvet,abstract,Purple with the shine taken out. Plum Velvet —,#1C0F1E,#7A3B67,#E6D6E2,013-plum-velvet/gradient.jpg,013-plum-velvet/palette.jpg
+14,ash-rose,Ash Rose,abstract,Pink filtered through smoke. Ash Rose —,#3A3437,#B08A8C,#E9E4E2,014-ash-rose/gradient.jpg,014-ash-rose/palette.jpg
+15,midnight-petrol,Midnight Petrol,nature,Blue so dark it stops being blue. Midnight Petrol —,#06121A,#14485C,#B8CBD2,015-midnight-petrol/gradient.jpg,015-midnight-petrol/palette.jpg
+16,copper-circuit,Copper Circuit,tech,Metal warmth on a dark board. Copper Circuit —,#14100E,#B06B3C,#E0D3C6,016-copper-circuit/gradient.jpg,016-copper-circuit/palette.jpg
+17,fern-static,Fern Static,nature,Green with a little electricity in it. Fern Static —,#0D1710,#3E8E5A,#D9E8DC,017-fern-static/gradient.jpg,017-fern-static/palette.jpg
+18,slate-ember,Slate Ember,abstract,Cool grey warmed by one ember. Slate Ember —,#23262B,#8C5A4A,#E2DEDA,018-slate-ember/gradient.jpg,018-slate-ember/palette.jpg
+19,neon-ravine,Neon Ravine,tech,One neon mint cutting through dark. Neon Ravine —,#0A0F14,#16D3B0,#E6FBF6,019-neon-ravine/gradient.jpg,019-neon-ravine/palette.jpg
+20,wine-dust,Wine Dust,abstract,Deep red gone soft and dusty. Wine Dust —,#1A0C10,#8C2F42,#E8D6D8,020-wine-dust/gradient.jpg,020-wine-dust/palette.jpg
+21,steel-bloom,Steel Bloom,tech,"Cool industrial grey, three steps. Steel Bloom —",#2B3138,#7E8FA3,#E7EBEF,021-steel-bloom/gradient.jpg,021-steel-bloom/palette.jpg
+22,saffron-field,Saffron Field,nature,Yellow that carries actual weight. Saffron Field —,#2B2008,#D9A521,#F6EBCF,022-saffron-field/gradient.jpg,022-saffron-field/palette.jpg
+23,indigo-snowfall,Indigo Snowfall,nature,"Night sky, snow reflecting it back. Indigo Snowfall —",#101632,#3E4E9E,#DDE2F0,023-indigo-snowfall/gradient.jpg,023-indigo-snowfall/palette.jpg
+24,charcoal-peach,Charcoal Peach,abstract,Soft warm tone on hard black. Charcoal Peach —,#191716,#E29B77,#F4E7DE,024-charcoal-peach/gradient.jpg,024-charcoal-peach/palette.jpg
+25,sea-glass,Sea Glass,nature,Green worn smooth by water. Sea Glass —,#12292B,#5FA79C,#E3EFEB,025-sea-glass/gradient.jpg,025-sea-glass/palette.jpg
+26,bone-and-clay,Bone & Clay,nature,"All midtone, no black anywhere. Bone & Clay —",#6E4B3A,#C9A184,#F2E9DF,026-bone-and-clay/gradient.jpg,026-bone-and-clay/palette.jpg
+27,paper-sage,Paper Sage,nature,Green so quiet it reads as neutral. Paper Sage —,#5A6B54,#9FB394,#EEF0E6,027-paper-sage/gradient.jpg,027-paper-sage/palette.jpg
+28,dust-rose,Dust Rose,abstract,Pink with all the sugar removed. Dust Rose —,#7A5B5E,#C69EA0,#F3E9E8,028-dust-rose/gradient.jpg,028-dust-rose/palette.jpg
+29,linen-fog,Linen Fog,abstract,Three greys that still feel warm. Linen Fog —,#6B7078,#A9B0B8,#F0F2F4,029-linen-fog/gradient.jpg,029-linen-fog/palette.jpg
+30,butter-cream,Butter Cream,nature,Yellow at its most restrained. Butter Cream —,#7A6534,#D9BF7A,#F7F0DC,030-butter-cream/gradient.jpg,030-butter-cream/palette.jpg
+31,faded-denim,Faded Denim,abstract,Blue washed a hundred times. Faded Denim —,#4F6379,#8FA6BC,#EAF0F5,031-faded-denim/gradient.jpg,031-faded-denim/palette.jpg
+32,powder-mint,Powder Mint,nature,Mint without the neon. Powder Mint —,#4C6F63,#94C0B0,#E9F4EF,032-powder-mint/gradient.jpg,032-powder-mint/palette.jpg
+33,muted-coral,Muted Coral,nature,Coral turned down two stops. Muted Coral —,#8A4B44,#D08D82,#F6E7E2,033-muted-coral/gradient.jpg,033-muted-coral/palette.jpg
+34,oat-and-ink,Oat & Ink,abstract,"Editorial neutral, nothing louder. Oat & Ink —",#3C3A35,#A39A88,#F1EDE4,034-oat-and-ink/gradient.jpg,034-oat-and-ink/palette.jpg
+35,lilac-haze,Lilac Haze,abstract,Purple you can put behind text. Lilac Haze —,#6A5C7C,#B0A2C6,#F0ECF6,035-lilac-haze/gradient.jpg,035-lilac-haze/palette.jpg
+36,soft-cement,Soft Cement,abstract,"Pure neutral, three honest steps. Soft Cement —",#5C5C58,#A3A39C,#EDEDE9,036-soft-cement/gradient.jpg,036-soft-cement/palette.jpg
+37,peach-stucco,Peach Stucco,nature,Mediterranean wall at noon. Peach Stucco —,#97614A,#E0A585,#FAEDE2,037-peach-stucco/gradient.jpg,037-peach-stucco/palette.jpg
+38,pale-olive,Pale Olive,nature,Olive lifted into daylight. Pale Olive —,#6A6E3E,#B0B57A,#F1F2DF,038-pale-olive/gradient.jpg,038-pale-olive/palette.jpg
+39,seafoam-paper,Seafoam Paper,nature,"Sea green, printed not lit. Seafoam Paper —",#497068,#8FBDB1,#ECF5F2,039-seafoam-paper/gradient.jpg,039-seafoam-paper/palette.jpg
+40,warm-ash,Warm Ash,abstract,Grey that leans brown. Warm Ash —,#6E6660,#B3A79E,#F2EDE8,040-warm-ash/gradient.jpg,040-warm-ash/palette.jpg
+41,sky-wash,Sky Wash,nature,Overcast sky in three tones. Sky Wash —,#56728C,#9DB8CE,#EDF3F8,041-sky-wash/gradient.jpg,041-sky-wash/palette.jpg
+42,terracotta-milk,Terracotta Milk,nature,Clay softened with cream. Terracotta Milk —,#8C5340,#D39B7F,#F8ECE2,042-terracotta-milk/gradient.jpg,042-terracotta-milk/palette.jpg
+43,sage-stone,Sage Stone,nature,"Green stone, very little chroma. Sage Stone —",#5F6E60,#A2B0A0,#EFF2ED,043-sage-stone/gradient.jpg,043-sage-stone/palette.jpg
+44,dune-linen,Dune Linen,nature,"Sand as a neutral, not a color. Dune Linen —",#7E6A4E,#C3AE8C,#F5EFE2,044-dune-linen/gradient.jpg,044-dune-linen/palette.jpg
+45,blush-cloud,Blush Cloud,abstract,The softest pink that still works. Blush Cloud —,#8A6470,#CFA3AE,#F8EDF0,045-blush-cloud/gradient.jpg,045-blush-cloud/palette.jpg
+46,fog-pine,Fog Pine,nature,Pine seen through morning fog. Fog Pine —,#46564F,#8CA096,#E9EFEB,046-fog-pine/gradient.jpg,046-fog-pine/palette.jpg
+47,almond-shade,Almond Shade,nature,Warm brown with nowhere to hide. Almond Shade —,#6F5B47,#BAA184,#F4ECE0,047-almond-shade/gradient.jpg,047-almond-shade/palette.jpg
+48,periwinkle-dust,Periwinkle Dust,abstract,"Blue-purple, dusted flat. Periwinkle Dust —",#5D648C,#A0A6C8,#EEEFF7,048-periwinkle-dust/gradient.jpg,048-periwinkle-dust/palette.jpg
+49,clay-mist,Clay Mist,nature,Earth tones at low volume. Clay Mist —,#7C6157,#BFA096,#F4EBE6,049-clay-mist/gradient.jpg,049-clay-mist/palette.jpg
+50,moss-paper,Moss Paper,nature,Moss dried and pressed. Moss Paper —,#55603F,#9AA47A,#F0F1E2,050-moss-paper/gradient.jpg,050-moss-paper/palette.jpg
+51,neon-circuit,Neon Circuit,tech,"Magenta that hurts, on purpose. Neon Circuit —",#06070D,#C93FE8,#F0DEF7,051-neon-circuit/gradient.jpg,051-neon-circuit/palette.jpg
+52,terminal-green,Terminal Green,tech,The oldest interface color there is. Terminal Green —,#04120A,#2BD46B,#DFF7E7,052-terminal-green/gradient.jpg,052-terminal-green/palette.jpg
+53,laser-magenta,Laser Magenta,tech,"Full saturation, zero apology. Laser Magenta —",#0B0510,#FF2E88,#FFE0EE,053-laser-magenta/gradient.jpg,053-laser-magenta/palette.jpg
+54,volt-amber,Volt Amber,tech,Warning-light yellow on black. Volt Amber —,#100C02,#FFB300,#FFF1CC,054-volt-amber/gradient.jpg,054-volt-amber/palette.jpg
+55,cyber-dusk,Cyber Dusk,tech,Violet at interface brightness. Cyber Dusk —,#0A0716,#7B4BFF,#E4DBFF,055-cyber-dusk/gradient.jpg,055-cyber-dusk/palette.jpg
+56,plasma-core,Plasma Core,tech,Hot red-pink at the center. Plasma Core —,#12010A,#FF4D6D,#FFE1E6,056-plasma-core/gradient.jpg,056-plasma-core/palette.jpg
+57,quantum-teal,Quantum Teal,tech,Cyan pushed to its limit. Quantum Teal —,#001416,#00E5D0,#D9FBF7,057-quantum-teal/gradient.jpg,057-quantum-teal/palette.jpg
+58,pixel-noir,Pixel Noir,tech,"Dark UI grey-blue, done right. Pixel Noir —",#0C0E12,#4A5A78,#C6CEDC,058-pixel-noir/gradient.jpg,058-pixel-noir/palette.jpg
+59,hologram-ice,Hologram Ice,tech,Blue light on cold glass. Hologram Ice —,#071018,#58C5F0,#DFF3FC,059-hologram-ice/gradient.jpg,059-hologram-ice/palette.jpg
+60,kernel-panic,Kernel Panic,tech,"Alert red, nothing subtle. Kernel Panic —",#150204,#E5231F,#FADCDA,060-kernel-panic/gradient.jpg,060-kernel-panic/palette.jpg
+61,synth-violet,Synth Violet,tech,"Synthesizer purple, glowing. Synth Violet —",#0D0618,#A855F7,#EEDDFD,061-synth-violet/gradient.jpg,061-synth-violet/palette.jpg
+62,reactor-lime,Reactor Lime,tech,Green with too much energy. Reactor Lime —,#0B1002,#A3E635,#EDF9D5,062-reactor-lime/gradient.jpg,062-reactor-lime/palette.jpg
+63,deep-sapphire,Deep Sapphire,abstract,Jewel blue against true dark. Deep Sapphire —,#030A22,#1E48D6,#D4DDF7,063-deep-sapphire/gradient.jpg,063-deep-sapphire/palette.jpg
+64,ruby-vault,Ruby Vault,abstract,Red as a precious stone. Ruby Vault —,#16040A,#C1123F,#F4D6DE,064-ruby-vault/gradient.jpg,064-ruby-vault/palette.jpg
+65,emerald-vault,Emerald Vault,abstract,Green with real depth to it. Emerald Vault —,#041410,#0F9D63,#D5F0E4,065-emerald-vault/gradient.jpg,065-emerald-vault/palette.jpg
+66,amethyst-vault,Amethyst Vault,abstract,Purple cut like a gem. Amethyst Vault —,#100620,#8B34D6,#E5D6F5,066-amethyst-vault/gradient.jpg,066-amethyst-vault/palette.jpg
+67,topaz-vault,Topaz Vault,abstract,Gold with weight behind it. Topaz Vault —,#1A1204,#D9A017,#F7EBCB,067-topaz-vault/gradient.jpg,067-topaz-vault/palette.jpg
+68,onyx-chrome,Onyx Chrome,tech,"Pure neutral, maximum contrast. Onyx Chrome —",#0A0A0B,#6E7378,#DDDEE0,068-onyx-chrome/gradient.jpg,068-onyx-chrome/palette.jpg
+69,signal-orange,Signal Orange,tech,Safety orange as an accent. Signal Orange —,#120A04,#FF6A1F,#FFE3D0,069-signal-orange/gradient.jpg,069-signal-orange/palette.jpg
+70,ice-cyan,Ice Cyan,tech,Cyan cold enough to sting. Ice Cyan —,#04121A,#22C3E6,#D6F4FC,070-ice-cyan/gradient.jpg,070-ice-cyan/palette.jpg
+71,blood-orange,Blood Orange,nature,Red-orange with the pith. Blood Orange —,#1A0803,#E04B16,#FBDCCD,071-blood-orange/gradient.jpg,071-blood-orange/palette.jpg
+72,electric-indigo,Electric Indigo,tech,Indigo with current running through. Electric Indigo —,#08061A,#4338CA,#DCDAF6,072-electric-indigo/gradient.jpg,072-electric-indigo/palette.jpg
+73,acid-yellow,Acid Yellow,tech,Yellow-green at full volume. Acid Yellow —,#121200,#E8F02A,#FAFCD2,073-acid-yellow/gradient.jpg,073-acid-yellow/palette.jpg
+74,hot-coral,Hot Coral,abstract,Coral turned all the way up. Hot Coral —,#1A0708,#FF5A5F,#FFE0E1,074-hot-coral/gradient.jpg,074-hot-coral/palette.jpg
+75,deep-jade,Deep Jade,nature,Jade with water behind it. Deep Jade —,#021512,#0FA88C,#D3F1EA,075-deep-jade/gradient.jpg,075-deep-jade/palette.jpg
+76,sunset-savanna,Sunset Savanna,nature,"Purple night, orange sun, gold grass. Sunset Savanna —",#2B1A2E,#E0703C,#F3D9A8,076-sunset-savanna/gradient.jpg,076-sunset-savanna/palette.jpg
+77,storm-and-wheat,Storm & Wheat,nature,Cold sky over a warm field. Storm & Wheat —,#232A33,#6E7C8C,#E4CE96,077-storm-and-wheat/gradient.jpg,077-storm-and-wheat/palette.jpg
+78,forest-fire,Forest Fire,nature,"Green, flame, ash. Forest Fire —",#12210F,#C4471F,#E9DEC2,078-forest-fire/gradient.jpg,078-forest-fire/palette.jpg
+79,ocean-rust,Ocean Rust,nature,Salt water meets old iron. Ocean Rust —,#0B2733,#B7643A,#DCE7E5,079-ocean-rust/gradient.jpg,079-ocean-rust/palette.jpg
+80,violet-sand,Violet Sand,abstract,Cool purple over warm sand. Violet Sand —,#241633,#9A6BB5,#E8D9B8,080-violet-sand/gradient.jpg,080-violet-sand/palette.jpg
+81,teal-and-clay,Teal & Clay,nature,"Complementary, but quiet about it. Teal & Clay —",#10302F,#C08066,#EAE3D6,081-teal-and-clay/gradient.jpg,081-teal-and-clay/palette.jpg
+82,midnight-marigold,Midnight Marigold,abstract,One gold light in a blue room. Midnight Marigold —,#0B1024,#E8B23A,#E7E3D6,082-midnight-marigold/gradient.jpg,082-midnight-marigold/palette.jpg
+83,plum-and-pistachio,Plum & Pistachio,abstract,An unexpected pairing that works. Plum & Pistachio —,#22132A,#7B4C86,#D8E3B4,083-plum-and-pistachio/gradient.jpg,083-plum-and-pistachio/palette.jpg
+84,rose-and-slate,Rose & Slate,abstract,Warm pink held by cool grey. Rose & Slate —,#2C2F3A,#C1697C,#E8E6E2,084-rose-and-slate/gradient.jpg,084-rose-and-slate/palette.jpg
+85,cobalt-and-sand,Cobalt & Sand,abstract,"Blue and beige, no middle ground. Cobalt & Sand —",#0C1A3A,#2F5FC0,#E5D6B8,085-cobalt-and-sand/gradient.jpg,085-cobalt-and-sand/palette.jpg
+86,lime-ink,Lime Ink,nature,Green with a yellow spine. Lime Ink —,#10160A,#86A82E,#E3E9CE,086-lime-ink/gradient.jpg,086-lime-ink/palette.jpg
+87,coral-reef,Coral Reef,nature,Warm coral on cold water. Coral Reef —,#0E2A38,#F0705A,#EAD9C6,087-coral-reef/gradient.jpg,087-coral-reef/palette.jpg
+88,berry-field,Berry Field,nature,Berry pink against dry cream. Berry Field —,#1E0F22,#A63A6B,#E4D9B8,088-berry-field/gradient.jpg,088-berry-field/palette.jpg
+89,mustard-fog,Mustard Fog,abstract,"Mustard, muffled by grey. Mustard Fog —",#2A2A22,#C9A227,#E8E6DC,089-mustard-fog/gradient.jpg,089-mustard-fog/palette.jpg
+90,arctic-ember,Arctic Ember,nature,One warm point in cold blue. Arctic Ember —,#0F1E2A,#D96C4A,#DCE9EF,090-arctic-ember/gradient.jpg,090-arctic-ember/palette.jpg
+91,verdigris-and-rust,Verdigris & Rust,abstract,Two ways metal ages. Verdigris & Rust —,#10241F,#A85434,#DCE6DE,091-verdigris-and-rust/gradient.jpg,091-verdigris-and-rust/palette.jpg
+92,ultramarine-peach,Ultramarine Peach,abstract,"Hard blue, soft peach. Ultramarine Peach —",#0A1230,#2A4BB8,#F2CDB0,092-ultramarine-peach/gradient.jpg,092-ultramarine-peach/palette.jpg
+93,moss-and-magenta,Moss & Magenta,abstract,A collision that somehow balances. Moss & Magenta —,#16200F,#C43C82,#E3E8D2,093-moss-and-magenta/gradient.jpg,093-moss-and-magenta/palette.jpg
+94,charcoal-marine,Charcoal Marine,tech,Neutral dark with one marine tone. Charcoal Marine —,#1A1D1E,#2E7C8A,#E0E5E4,094-charcoal-marine/gradient.jpg,094-charcoal-marine/palette.jpg
+95,bronze-night,Bronze Night,abstract,Metal in low light. Bronze Night —,#14100A,#9C7440,#E6DCC8,095-bronze-night/gradient.jpg,095-bronze-night/palette.jpg
+96,fig-and-cream,Fig & Cream,nature,"Fig skin, fig flesh, cream. Fig & Cream —",#2A1520,#7E4257,#F0E4D8,096-fig-and-cream/gradient.jpg,096-fig-and-cream/palette.jpg
+97,petrol-and-gold,Petrol & Gold,abstract,Dark green-blue lit by gold. Petrol & Gold —,#08201F,#C69B3E,#E3E8E2,097-petrol-and-gold/gradient.jpg,097-petrol-and-gold/palette.jpg
+98,cranberry-ash,Cranberry Ash,nature,Deep red gone almost grey. Cranberry Ash —,#201014,#A83247,#E3DCDA,098-cranberry-ash/gradient.jpg,098-cranberry-ash/palette.jpg
+99,pine-and-copper,Pine & Copper,nature,Forest green with a metal edge. Pine & Copper —,#0D1D18,#B4703E,#E0E7DF,099-pine-and-copper/gradient.jpg,099-pine-and-copper/palette.jpg
+100,slate-and-saffron,Slate & Saffron,abstract,"Grey doing the work, saffron doing the talking. Slate & Saffron —",#232830,#E2A32C,#EBECEE,100-slate-and-saffron/gradient.jpg,100-slate-and-saffron/palette.jpg

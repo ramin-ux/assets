@@ -1,0 +1,2602 @@
+[
+  {
+    "index": 1,
+    "slug": "arctic-fjord",
+    "name": "Arctic Fjord",
+    "category": "nature",
+    "caption": "Cold water, colder air. Arctic Fjord —",
+    "colors": [
+      {
+        "name": "Deep Fjord",
+        "hex": "#0B1A22",
+        "cmyk": "68 24 0 87"
+      },
+      {
+        "name": "Nordic Blue",
+        "hex": "#2E6F8E",
+        "cmyk": "68 22 0 44"
+      },
+      {
+        "name": "Ice Sheet",
+        "hex": "#DCE8EE",
+        "cmyk": "8 3 0 7"
+      }
+    ],
+    "gradient_file": "001-arctic-fjord/gradient.jpg",
+    "palette_file": "001-arctic-fjord/palette.jpg"
+  },
+  {
+    "index": 2,
+    "slug": "rust-republic",
+    "name": "Rust Republic",
+    "category": "nature",
+    "caption": "Oxidized metal and warm paper. Rust Republic —",
+    "colors": [
+      {
+        "name": "Burnt Umber",
+        "hex": "#2A1310",
+        "cmyk": "0 55 62 84"
+      },
+      {
+        "name": "Rust Orange",
+        "hex": "#A64B2A",
+        "cmyk": "0 55 75 35"
+      },
+      {
+        "name": "Raw Linen",
+        "hex": "#E8D5C4",
+        "cmyk": "0 8 16 9"
+      }
+    ],
+    "gradient_file": "002-rust-republic/gradient.jpg",
+    "palette_file": "002-rust-republic/palette.jpg"
+  },
+  {
+    "index": 3,
+    "slug": "moss-hollow",
+    "name": "Moss Hollow",
+    "category": "nature",
+    "caption": "Forest floor after rain. Moss Hollow —",
+    "colors": [
+      {
+        "name": "Deep Hollow",
+        "hex": "#14201A",
+        "cmyk": "38 0 19 87"
+      },
+      {
+        "name": "Moss Green",
+        "hex": "#4E7A56",
+        "cmyk": "36 0 30 52"
+      },
+      {
+        "name": "Pale Lichen",
+        "hex": "#DCE3D2",
+        "cmyk": "3 0 7 11"
+      }
+    ],
+    "gradient_file": "003-moss-hollow/gradient.jpg",
+    "palette_file": "003-moss-hollow/palette.jpg"
+  },
+  {
+    "index": 4,
+    "slug": "sandstorm",
+    "name": "Sandstorm",
+    "category": "nature",
+    "caption": "Everything the desert turns gold. Sandstorm —",
+    "colors": [
+      {
+        "name": "Dark Loam",
+        "hex": "#3B2C1D",
+        "cmyk": "0 25 51 77"
+      },
+      {
+        "name": "Desert Ochre",
+        "hex": "#C08B4F",
+        "cmyk": "0 28 59 25"
+      },
+      {
+        "name": "Bleached Sand",
+        "hex": "#F2E6D2",
+        "cmyk": "0 5 13 5"
+      }
+    ],
+    "gradient_file": "004-sandstorm/gradient.jpg",
+    "palette_file": "004-sandstorm/palette.jpg"
+  },
+  {
+    "index": 5,
+    "slug": "cobalt-signal",
+    "name": "Cobalt Signal",
+    "category": "tech",
+    "caption": "One saturated blue against near-black. Cobalt Signal —",
+    "colors": [
+      {
+        "name": "Signal Black",
+        "hex": "#070B18",
+        "cmyk": "71 54 0 91"
+      },
+      {
+        "name": "Pure Cobalt",
+        "hex": "#2D4EC8",
+        "cmyk": "77 61 0 22"
+      },
+      {
+        "name": "Frost Blue",
+        "hex": "#C9D4F5",
+        "cmyk": "18 13 0 4"
+      }
+    ],
+    "gradient_file": "005-cobalt-signal/gradient.jpg",
+    "palette_file": "005-cobalt-signal/palette.jpg"
+  },
+  {
+    "index": 6,
+    "slug": "blush-concrete",
+    "name": "Blush Concrete",
+    "category": "abstract",
+    "caption": "Soft pink poured into grey. Blush Concrete —",
+    "colors": [
+      {
+        "name": "Wet Concrete",
+        "hex": "#4A3A3C",
+        "cmyk": "0 22 19 71"
+      },
+      {
+        "name": "Dusty Blush",
+        "hex": "#C98B90",
+        "cmyk": "0 31 28 21"
+      },
+      {
+        "name": "Chalk White",
+        "hex": "#EFE6E3",
+        "cmyk": "0 4 5 6"
+      }
+    ],
+    "gradient_file": "006-blush-concrete/gradient.jpg",
+    "palette_file": "006-blush-concrete/palette.jpg"
+  },
+  {
+    "index": 7,
+    "slug": "ultraviolet-drift",
+    "name": "Ultraviolet Drift",
+    "category": "abstract",
+    "caption": "Purple that reads as light, not color. Ultraviolet Drift —",
+    "colors": [
+      {
+        "name": "Void Purple",
+        "hex": "#100A1F",
+        "cmyk": "48 68 0 88"
+      },
+      {
+        "name": "Ultraviolet",
+        "hex": "#6A3FD1",
+        "cmyk": "49 70 0 18"
+      },
+      {
+        "name": "Lilac Dust",
+        "hex": "#DCD2F2",
+        "cmyk": "9 13 0 5"
+      }
+    ],
+    "gradient_file": "007-ultraviolet-drift/gradient.jpg",
+    "palette_file": "007-ultraviolet-drift/palette.jpg"
+  },
+  {
+    "index": 8,
+    "slug": "olive-press",
+    "name": "Olive Press",
+    "category": "nature",
+    "caption": "Green with no blue in it at all. Olive Press —",
+    "colors": [
+      {
+        "name": "Dark Olive",
+        "hex": "#22240F",
+        "cmyk": "6 0 58 86"
+      },
+      {
+        "name": "Olive Leaf",
+        "hex": "#7C8A3A",
+        "cmyk": "10 0 58 46"
+      },
+      {
+        "name": "Pressed Cream",
+        "hex": "#E4E6CE",
+        "cmyk": "1 0 10 10"
+      }
+    ],
+    "gradient_file": "008-olive-press/gradient.jpg",
+    "palette_file": "008-olive-press/palette.jpg"
+  },
+  {
+    "index": 9,
+    "slug": "terracotta-sun",
+    "name": "Terracotta Sun",
+    "category": "nature",
+    "caption": "Fired clay under late light. Terracotta Sun —",
+    "colors": [
+      {
+        "name": "Kiln Black",
+        "hex": "#2E1512",
+        "cmyk": "0 54 61 82"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#C25E3A",
+        "cmyk": "0 52 70 24"
+      },
+      {
+        "name": "Warm Plaster",
+        "hex": "#F0DAC6",
+        "cmyk": "0 9 17 6"
+      }
+    ],
+    "gradient_file": "009-terracotta-sun/gradient.jpg",
+    "palette_file": "009-terracotta-sun/palette.jpg"
+  },
+  {
+    "index": 10,
+    "slug": "glacier-mist",
+    "name": "Glacier Mist",
+    "category": "nature",
+    "caption": "Grey-blue that never quite commits. Glacier Mist —",
+    "colors": [
+      {
+        "name": "Slate Deep",
+        "hex": "#1B2A33",
+        "cmyk": "47 18 0 80"
+      },
+      {
+        "name": "Glacier Blue",
+        "hex": "#6E96A8",
+        "cmyk": "35 11 0 34"
+      },
+      {
+        "name": "Snow Mist",
+        "hex": "#E9F1F4",
+        "cmyk": "5 1 0 4"
+      }
+    ],
+    "gradient_file": "010-glacier-mist/gradient.jpg",
+    "palette_file": "010-glacier-mist/palette.jpg"
+  },
+  {
+    "index": 11,
+    "slug": "ink-and-marigold",
+    "name": "Ink & Marigold",
+    "category": "abstract",
+    "caption": "True black, one loud yellow. Ink & Marigold —",
+    "colors": [
+      {
+        "name": "Pure Ink",
+        "hex": "#0E0E10",
+        "cmyk": "12 12 0 94"
+      },
+      {
+        "name": "Marigold",
+        "hex": "#E3A72F",
+        "cmyk": "0 26 79 11"
+      },
+      {
+        "name": "Warm Paper",
+        "hex": "#F5EFE2",
+        "cmyk": "0 2 8 4"
+      }
+    ],
+    "gradient_file": "011-ink-and-marigold/gradient.jpg",
+    "palette_file": "011-ink-and-marigold/palette.jpg"
+  },
+  {
+    "index": 12,
+    "slug": "deep-lagoon",
+    "name": "Deep Lagoon",
+    "category": "nature",
+    "caption": "Water deep enough to go green. Deep Lagoon —",
+    "colors": [
+      {
+        "name": "Abyss Teal",
+        "hex": "#05201F",
+        "cmyk": "84 0 3 87"
+      },
+      {
+        "name": "Lagoon",
+        "hex": "#17756E",
+        "cmyk": "80 0 6 54"
+      },
+      {
+        "name": "Sea Foam",
+        "hex": "#D5EAE5",
+        "cmyk": "9 0 2 8"
+      }
+    ],
+    "gradient_file": "012-deep-lagoon/gradient.jpg",
+    "palette_file": "012-deep-lagoon/palette.jpg"
+  },
+  {
+    "index": 13,
+    "slug": "plum-velvet",
+    "name": "Plum Velvet",
+    "category": "abstract",
+    "caption": "Purple with the shine taken out. Plum Velvet —",
+    "colors": [
+      {
+        "name": "Dark Plum",
+        "hex": "#1C0F1E",
+        "cmyk": "7 50 0 88"
+      },
+      {
+        "name": "Velvet Wine",
+        "hex": "#7A3B67",
+        "cmyk": "0 52 16 52"
+      },
+      {
+        "name": "Mauve Pale",
+        "hex": "#E6D6E2",
+        "cmyk": "0 7 2 10"
+      }
+    ],
+    "gradient_file": "013-plum-velvet/gradient.jpg",
+    "palette_file": "013-plum-velvet/palette.jpg"
+  },
+  {
+    "index": 14,
+    "slug": "ash-rose",
+    "name": "Ash Rose",
+    "category": "abstract",
+    "caption": "Pink filtered through smoke. Ash Rose —",
+    "colors": [
+      {
+        "name": "Ash Grey",
+        "hex": "#3A3437",
+        "cmyk": "0 10 5 77"
+      },
+      {
+        "name": "Rose Taupe",
+        "hex": "#B08A8C",
+        "cmyk": "0 22 20 31"
+      },
+      {
+        "name": "Bone Pink",
+        "hex": "#E9E4E2",
+        "cmyk": "0 2 3 9"
+      }
+    ],
+    "gradient_file": "014-ash-rose/gradient.jpg",
+    "palette_file": "014-ash-rose/palette.jpg"
+  },
+  {
+    "index": 15,
+    "slug": "midnight-petrol",
+    "name": "Midnight Petrol",
+    "category": "nature",
+    "caption": "Blue so dark it stops being blue. Midnight Petrol —",
+    "colors": [
+      {
+        "name": "Petrol Black",
+        "hex": "#06121A",
+        "cmyk": "77 31 0 90"
+      },
+      {
+        "name": "Deep Petrol",
+        "hex": "#14485C",
+        "cmyk": "78 22 0 64"
+      },
+      {
+        "name": "Cold Steam",
+        "hex": "#B8CBD2",
+        "cmyk": "12 3 0 18"
+      }
+    ],
+    "gradient_file": "015-midnight-petrol/gradient.jpg",
+    "palette_file": "015-midnight-petrol/palette.jpg"
+  },
+  {
+    "index": 16,
+    "slug": "copper-circuit",
+    "name": "Copper Circuit",
+    "category": "tech",
+    "caption": "Metal warmth on a dark board. Copper Circuit —",
+    "colors": [
+      {
+        "name": "Board Black",
+        "hex": "#14100E",
+        "cmyk": "0 20 30 92"
+      },
+      {
+        "name": "Copper",
+        "hex": "#B06B3C",
+        "cmyk": "0 39 66 31"
+      },
+      {
+        "name": "Oxide Cream",
+        "hex": "#E0D3C6",
+        "cmyk": "0 6 12 12"
+      }
+    ],
+    "gradient_file": "016-copper-circuit/gradient.jpg",
+    "palette_file": "016-copper-circuit/palette.jpg"
+  },
+  {
+    "index": 17,
+    "slug": "fern-static",
+    "name": "Fern Static",
+    "category": "nature",
+    "caption": "Green with a little electricity in it. Fern Static —",
+    "colors": [
+      {
+        "name": "Deep Fern",
+        "hex": "#0D1710",
+        "cmyk": "43 0 30 91"
+      },
+      {
+        "name": "Fern Green",
+        "hex": "#3E8E5A",
+        "cmyk": "56 0 37 44"
+      },
+      {
+        "name": "Pale Frond",
+        "hex": "#D9E8DC",
+        "cmyk": "6 0 5 9"
+      }
+    ],
+    "gradient_file": "017-fern-static/gradient.jpg",
+    "palette_file": "017-fern-static/palette.jpg"
+  },
+  {
+    "index": 18,
+    "slug": "slate-ember",
+    "name": "Slate Ember",
+    "category": "abstract",
+    "caption": "Cool grey warmed by one ember. Slate Ember —",
+    "colors": [
+      {
+        "name": "Cold Slate",
+        "hex": "#23262B",
+        "cmyk": "19 12 0 83"
+      },
+      {
+        "name": "Ember Brown",
+        "hex": "#8C5A4A",
+        "cmyk": "0 36 47 45"
+      },
+      {
+        "name": "Warm Grey",
+        "hex": "#E2DEDA",
+        "cmyk": "0 2 4 11"
+      }
+    ],
+    "gradient_file": "018-slate-ember/gradient.jpg",
+    "palette_file": "018-slate-ember/palette.jpg"
+  },
+  {
+    "index": 19,
+    "slug": "neon-ravine",
+    "name": "Neon Ravine",
+    "category": "tech",
+    "caption": "One neon mint cutting through dark. Neon Ravine —",
+    "colors": [
+      {
+        "name": "Ravine Black",
+        "hex": "#0A0F14",
+        "cmyk": "50 25 0 92"
+      },
+      {
+        "name": "Neon Mint",
+        "hex": "#16D3B0",
+        "cmyk": "90 0 17 17"
+      },
+      {
+        "name": "Vapor White",
+        "hex": "#E6FBF6",
+        "cmyk": "8 0 2 2"
+      }
+    ],
+    "gradient_file": "019-neon-ravine/gradient.jpg",
+    "palette_file": "019-neon-ravine/palette.jpg"
+  },
+  {
+    "index": 20,
+    "slug": "wine-dust",
+    "name": "Wine Dust",
+    "category": "abstract",
+    "caption": "Deep red gone soft and dusty. Wine Dust —",
+    "colors": [
+      {
+        "name": "Wine Dark",
+        "hex": "#1A0C10",
+        "cmyk": "0 54 38 90"
+      },
+      {
+        "name": "Dusty Wine",
+        "hex": "#8C2F42",
+        "cmyk": "0 66 53 45"
+      },
+      {
+        "name": "Rose Powder",
+        "hex": "#E8D6D8",
+        "cmyk": "0 8 7 9"
+      }
+    ],
+    "gradient_file": "020-wine-dust/gradient.jpg",
+    "palette_file": "020-wine-dust/palette.jpg"
+  },
+  {
+    "index": 21,
+    "slug": "steel-bloom",
+    "name": "Steel Bloom",
+    "category": "tech",
+    "caption": "Cool industrial grey, three steps. Steel Bloom —",
+    "colors": [
+      {
+        "name": "Gunmetal",
+        "hex": "#2B3138",
+        "cmyk": "23 13 0 78"
+      },
+      {
+        "name": "Steel Blue",
+        "hex": "#7E8FA3",
+        "cmyk": "23 12 0 36"
+      },
+      {
+        "name": "Pale Steel",
+        "hex": "#E7EBEF",
+        "cmyk": "3 2 0 6"
+      }
+    ],
+    "gradient_file": "021-steel-bloom/gradient.jpg",
+    "palette_file": "021-steel-bloom/palette.jpg"
+  },
+  {
+    "index": 22,
+    "slug": "saffron-field",
+    "name": "Saffron Field",
+    "category": "nature",
+    "caption": "Yellow that carries actual weight. Saffron Field —",
+    "colors": [
+      {
+        "name": "Dark Spice",
+        "hex": "#2B2008",
+        "cmyk": "0 26 81 83"
+      },
+      {
+        "name": "Saffron",
+        "hex": "#D9A521",
+        "cmyk": "0 24 85 15"
+      },
+      {
+        "name": "Cream Husk",
+        "hex": "#F6EBCF",
+        "cmyk": "0 4 16 4"
+      }
+    ],
+    "gradient_file": "022-saffron-field/gradient.jpg",
+    "palette_file": "022-saffron-field/palette.jpg"
+  },
+  {
+    "index": 23,
+    "slug": "indigo-snowfall",
+    "name": "Indigo Snowfall",
+    "category": "nature",
+    "caption": "Night sky, snow reflecting it back. Indigo Snowfall —",
+    "colors": [
+      {
+        "name": "Deep Indigo",
+        "hex": "#101632",
+        "cmyk": "68 56 0 80"
+      },
+      {
+        "name": "Indigo Blue",
+        "hex": "#3E4E9E",
+        "cmyk": "61 51 0 38"
+      },
+      {
+        "name": "Snow Blue",
+        "hex": "#DDE2F0",
+        "cmyk": "8 6 0 6"
+      }
+    ],
+    "gradient_file": "023-indigo-snowfall/gradient.jpg",
+    "palette_file": "023-indigo-snowfall/palette.jpg"
+  },
+  {
+    "index": 24,
+    "slug": "charcoal-peach",
+    "name": "Charcoal Peach",
+    "category": "abstract",
+    "caption": "Soft warm tone on hard black. Charcoal Peach —",
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#191716",
+        "cmyk": "0 8 12 90"
+      },
+      {
+        "name": "Peach Clay",
+        "hex": "#E29B77",
+        "cmyk": "0 31 47 11"
+      },
+      {
+        "name": "Peach Cream",
+        "hex": "#F4E7DE",
+        "cmyk": "0 5 9 4"
+      }
+    ],
+    "gradient_file": "024-charcoal-peach/gradient.jpg",
+    "palette_file": "024-charcoal-peach/palette.jpg"
+  },
+  {
+    "index": 25,
+    "slug": "sea-glass",
+    "name": "Sea Glass",
+    "category": "nature",
+    "caption": "Green worn smooth by water. Sea Glass —",
+    "colors": [
+      {
+        "name": "Deep Kelp",
+        "hex": "#12292B",
+        "cmyk": "58 5 0 83"
+      },
+      {
+        "name": "Sea Glass",
+        "hex": "#5FA79C",
+        "cmyk": "43 0 7 35"
+      },
+      {
+        "name": "Tide Foam",
+        "hex": "#E3EFEB",
+        "cmyk": "5 0 2 6"
+      }
+    ],
+    "gradient_file": "025-sea-glass/gradient.jpg",
+    "palette_file": "025-sea-glass/palette.jpg"
+  },
+  {
+    "index": 26,
+    "slug": "bone-and-clay",
+    "name": "Bone & Clay",
+    "category": "nature",
+    "caption": "All midtone, no black anywhere. Bone & Clay —",
+    "colors": [
+      {
+        "name": "Raw Clay",
+        "hex": "#6E4B3A",
+        "cmyk": "0 32 47 57"
+      },
+      {
+        "name": "Soft Clay",
+        "hex": "#C9A184",
+        "cmyk": "0 20 34 21"
+      },
+      {
+        "name": "Bone",
+        "hex": "#F2E9DF",
+        "cmyk": "0 4 8 5"
+      }
+    ],
+    "gradient_file": "026-bone-and-clay/gradient.jpg",
+    "palette_file": "026-bone-and-clay/palette.jpg"
+  },
+  {
+    "index": 27,
+    "slug": "paper-sage",
+    "name": "Paper Sage",
+    "category": "nature",
+    "caption": "Green so quiet it reads as neutral. Paper Sage —",
+    "colors": [
+      {
+        "name": "Deep Sage",
+        "hex": "#5A6B54",
+        "cmyk": "16 0 21 58"
+      },
+      {
+        "name": "Sage",
+        "hex": "#9FB394",
+        "cmyk": "11 0 17 30"
+      },
+      {
+        "name": "Sage Paper",
+        "hex": "#EEF0E6",
+        "cmyk": "1 0 4 6"
+      }
+    ],
+    "gradient_file": "027-paper-sage/gradient.jpg",
+    "palette_file": "027-paper-sage/palette.jpg"
+  },
+  {
+    "index": 28,
+    "slug": "dust-rose",
+    "name": "Dust Rose",
+    "category": "abstract",
+    "caption": "Pink with all the sugar removed. Dust Rose —",
+    "colors": [
+      {
+        "name": "Mauve Deep",
+        "hex": "#7A5B5E",
+        "cmyk": "0 25 23 52"
+      },
+      {
+        "name": "Dust Rose",
+        "hex": "#C69EA0",
+        "cmyk": "0 20 19 22"
+      },
+      {
+        "name": "Rose Paper",
+        "hex": "#F3E9E8",
+        "cmyk": "0 4 5 5"
+      }
+    ],
+    "gradient_file": "028-dust-rose/gradient.jpg",
+    "palette_file": "028-dust-rose/palette.jpg"
+  },
+  {
+    "index": 29,
+    "slug": "linen-fog",
+    "name": "Linen Fog",
+    "category": "abstract",
+    "caption": "Three greys that still feel warm. Linen Fog —",
+    "colors": [
+      {
+        "name": "Fog Grey",
+        "hex": "#6B7078",
+        "cmyk": "11 7 0 53"
+      },
+      {
+        "name": "Linen Grey",
+        "hex": "#A9B0B8",
+        "cmyk": "8 4 0 28"
+      },
+      {
+        "name": "White Fog",
+        "hex": "#F0F2F4",
+        "cmyk": "2 1 0 4"
+      }
+    ],
+    "gradient_file": "029-linen-fog/gradient.jpg",
+    "palette_file": "029-linen-fog/palette.jpg"
+  },
+  {
+    "index": 30,
+    "slug": "butter-cream",
+    "name": "Butter Cream",
+    "category": "nature",
+    "caption": "Yellow at its most restrained. Butter Cream —",
+    "colors": [
+      {
+        "name": "Deep Butter",
+        "hex": "#7A6534",
+        "cmyk": "0 17 57 52"
+      },
+      {
+        "name": "Butter",
+        "hex": "#D9BF7A",
+        "cmyk": "0 12 44 15"
+      },
+      {
+        "name": "Cream",
+        "hex": "#F7F0DC",
+        "cmyk": "0 3 11 3"
+      }
+    ],
+    "gradient_file": "030-butter-cream/gradient.jpg",
+    "palette_file": "030-butter-cream/palette.jpg"
+  },
+  {
+    "index": 31,
+    "slug": "faded-denim",
+    "name": "Faded Denim",
+    "category": "abstract",
+    "caption": "Blue washed a hundred times. Faded Denim —",
+    "colors": [
+      {
+        "name": "Raw Denim",
+        "hex": "#4F6379",
+        "cmyk": "35 18 0 53"
+      },
+      {
+        "name": "Faded Denim",
+        "hex": "#8FA6BC",
+        "cmyk": "24 12 0 26"
+      },
+      {
+        "name": "Denim White",
+        "hex": "#EAF0F5",
+        "cmyk": "4 2 0 4"
+      }
+    ],
+    "gradient_file": "031-faded-denim/gradient.jpg",
+    "palette_file": "031-faded-denim/palette.jpg"
+  },
+  {
+    "index": 32,
+    "slug": "powder-mint",
+    "name": "Powder Mint",
+    "category": "nature",
+    "caption": "Mint without the neon. Powder Mint —",
+    "colors": [
+      {
+        "name": "Deep Mint",
+        "hex": "#4C6F63",
+        "cmyk": "32 0 11 56"
+      },
+      {
+        "name": "Powder Mint",
+        "hex": "#94C0B0",
+        "cmyk": "23 0 8 25"
+      },
+      {
+        "name": "Mint Wash",
+        "hex": "#E9F4EF",
+        "cmyk": "5 0 2 4"
+      }
+    ],
+    "gradient_file": "032-powder-mint/gradient.jpg",
+    "palette_file": "032-powder-mint/palette.jpg"
+  },
+  {
+    "index": 33,
+    "slug": "muted-coral",
+    "name": "Muted Coral",
+    "category": "nature",
+    "caption": "Coral turned down two stops. Muted Coral —",
+    "colors": [
+      {
+        "name": "Brick Rose",
+        "hex": "#8A4B44",
+        "cmyk": "0 46 51 46"
+      },
+      {
+        "name": "Muted Coral",
+        "hex": "#D08D82",
+        "cmyk": "0 32 38 18"
+      },
+      {
+        "name": "Coral Milk",
+        "hex": "#F6E7E2",
+        "cmyk": "0 6 8 4"
+      }
+    ],
+    "gradient_file": "033-muted-coral/gradient.jpg",
+    "palette_file": "033-muted-coral/palette.jpg"
+  },
+  {
+    "index": 34,
+    "slug": "oat-and-ink",
+    "name": "Oat & Ink",
+    "category": "abstract",
+    "caption": "Editorial neutral, nothing louder. Oat & Ink —",
+    "colors": [
+      {
+        "name": "Soft Ink",
+        "hex": "#3C3A35",
+        "cmyk": "0 3 12 76"
+      },
+      {
+        "name": "Oat",
+        "hex": "#A39A88",
+        "cmyk": "0 6 17 36"
+      },
+      {
+        "name": "Oat Paper",
+        "hex": "#F1EDE4",
+        "cmyk": "0 2 5 5"
+      }
+    ],
+    "gradient_file": "034-oat-and-ink/gradient.jpg",
+    "palette_file": "034-oat-and-ink/palette.jpg"
+  },
+  {
+    "index": 35,
+    "slug": "lilac-haze",
+    "name": "Lilac Haze",
+    "category": "abstract",
+    "caption": "Purple you can put behind text. Lilac Haze —",
+    "colors": [
+      {
+        "name": "Deep Lilac",
+        "hex": "#6A5C7C",
+        "cmyk": "15 26 0 51"
+      },
+      {
+        "name": "Lilac",
+        "hex": "#B0A2C6",
+        "cmyk": "11 18 0 22"
+      },
+      {
+        "name": "Lilac Wash",
+        "hex": "#F0ECF6",
+        "cmyk": "2 4 0 4"
+      }
+    ],
+    "gradient_file": "035-lilac-haze/gradient.jpg",
+    "palette_file": "035-lilac-haze/palette.jpg"
+  },
+  {
+    "index": 36,
+    "slug": "soft-cement",
+    "name": "Soft Cement",
+    "category": "abstract",
+    "caption": "Pure neutral, three honest steps. Soft Cement —",
+    "colors": [
+      {
+        "name": "Cement",
+        "hex": "#5C5C58",
+        "cmyk": "0 0 4 64"
+      },
+      {
+        "name": "Soft Cement",
+        "hex": "#A3A39C",
+        "cmyk": "0 0 4 36"
+      },
+      {
+        "name": "Cement Dust",
+        "hex": "#EDEDE9",
+        "cmyk": "0 0 2 7"
+      }
+    ],
+    "gradient_file": "036-soft-cement/gradient.jpg",
+    "palette_file": "036-soft-cement/palette.jpg"
+  },
+  {
+    "index": 37,
+    "slug": "peach-stucco",
+    "name": "Peach Stucco",
+    "category": "nature",
+    "caption": "Mediterranean wall at noon. Peach Stucco —",
+    "colors": [
+      {
+        "name": "Burnt Peach",
+        "hex": "#97614A",
+        "cmyk": "0 36 51 41"
+      },
+      {
+        "name": "Stucco Peach",
+        "hex": "#E0A585",
+        "cmyk": "0 26 41 12"
+      },
+      {
+        "name": "Peach Wash",
+        "hex": "#FAEDE2",
+        "cmyk": "0 5 10 2"
+      }
+    ],
+    "gradient_file": "037-peach-stucco/gradient.jpg",
+    "palette_file": "037-peach-stucco/palette.jpg"
+  },
+  {
+    "index": 38,
+    "slug": "pale-olive",
+    "name": "Pale Olive",
+    "category": "nature",
+    "caption": "Olive lifted into daylight. Pale Olive —",
+    "colors": [
+      {
+        "name": "Deep Olive",
+        "hex": "#6A6E3E",
+        "cmyk": "4 0 44 57"
+      },
+      {
+        "name": "Pale Olive",
+        "hex": "#B0B57A",
+        "cmyk": "3 0 33 29"
+      },
+      {
+        "name": "Olive Cream",
+        "hex": "#F1F2DF",
+        "cmyk": "0 0 8 5"
+      }
+    ],
+    "gradient_file": "038-pale-olive/gradient.jpg",
+    "palette_file": "038-pale-olive/palette.jpg"
+  },
+  {
+    "index": 39,
+    "slug": "seafoam-paper",
+    "name": "Seafoam Paper",
+    "category": "nature",
+    "caption": "Sea green, printed not lit. Seafoam Paper —",
+    "colors": [
+      {
+        "name": "Deep Seafoam",
+        "hex": "#497068",
+        "cmyk": "35 0 7 56"
+      },
+      {
+        "name": "Seafoam",
+        "hex": "#8FBDB1",
+        "cmyk": "24 0 6 26"
+      },
+      {
+        "name": "Foam Paper",
+        "hex": "#ECF5F2",
+        "cmyk": "4 0 1 4"
+      }
+    ],
+    "gradient_file": "039-seafoam-paper/gradient.jpg",
+    "palette_file": "039-seafoam-paper/palette.jpg"
+  },
+  {
+    "index": 40,
+    "slug": "warm-ash",
+    "name": "Warm Ash",
+    "category": "abstract",
+    "caption": "Grey that leans brown. Warm Ash —",
+    "colors": [
+      {
+        "name": "Warm Ash",
+        "hex": "#6E6660",
+        "cmyk": "0 7 13 57"
+      },
+      {
+        "name": "Ash Taupe",
+        "hex": "#B3A79E",
+        "cmyk": "0 7 12 30"
+      },
+      {
+        "name": "Ash Cream",
+        "hex": "#F2EDE8",
+        "cmyk": "0 2 4 5"
+      }
+    ],
+    "gradient_file": "040-warm-ash/gradient.jpg",
+    "palette_file": "040-warm-ash/palette.jpg"
+  },
+  {
+    "index": 41,
+    "slug": "sky-wash",
+    "name": "Sky Wash",
+    "category": "nature",
+    "caption": "Overcast sky in three tones. Sky Wash —",
+    "colors": [
+      {
+        "name": "Storm Blue",
+        "hex": "#56728C",
+        "cmyk": "39 19 0 45"
+      },
+      {
+        "name": "Sky Wash",
+        "hex": "#9DB8CE",
+        "cmyk": "24 11 0 19"
+      },
+      {
+        "name": "Cloud White",
+        "hex": "#EDF3F8",
+        "cmyk": "4 2 0 3"
+      }
+    ],
+    "gradient_file": "041-sky-wash/gradient.jpg",
+    "palette_file": "041-sky-wash/palette.jpg"
+  },
+  {
+    "index": 42,
+    "slug": "terracotta-milk",
+    "name": "Terracotta Milk",
+    "category": "nature",
+    "caption": "Clay softened with cream. Terracotta Milk —",
+    "colors": [
+      {
+        "name": "Deep Terracotta",
+        "hex": "#8C5340",
+        "cmyk": "0 41 54 45"
+      },
+      {
+        "name": "Terracotta Milk",
+        "hex": "#D39B7F",
+        "cmyk": "0 27 40 17"
+      },
+      {
+        "name": "Milk Clay",
+        "hex": "#F8ECE2",
+        "cmyk": "0 5 9 3"
+      }
+    ],
+    "gradient_file": "042-terracotta-milk/gradient.jpg",
+    "palette_file": "042-terracotta-milk/palette.jpg"
+  },
+  {
+    "index": 43,
+    "slug": "sage-stone",
+    "name": "Sage Stone",
+    "category": "nature",
+    "caption": "Green stone, very little chroma. Sage Stone —",
+    "colors": [
+      {
+        "name": "Stone Sage",
+        "hex": "#5F6E60",
+        "cmyk": "14 0 13 57"
+      },
+      {
+        "name": "Sage Grey",
+        "hex": "#A2B0A0",
+        "cmyk": "8 0 9 31"
+      },
+      {
+        "name": "Stone White",
+        "hex": "#EFF2ED",
+        "cmyk": "1 0 2 5"
+      }
+    ],
+    "gradient_file": "043-sage-stone/gradient.jpg",
+    "palette_file": "043-sage-stone/palette.jpg"
+  },
+  {
+    "index": 44,
+    "slug": "dune-linen",
+    "name": "Dune Linen",
+    "category": "nature",
+    "caption": "Sand as a neutral, not a color. Dune Linen —",
+    "colors": [
+      {
+        "name": "Deep Dune",
+        "hex": "#7E6A4E",
+        "cmyk": "0 16 38 51"
+      },
+      {
+        "name": "Dune Linen",
+        "hex": "#C3AE8C",
+        "cmyk": "0 11 28 24"
+      },
+      {
+        "name": "Linen",
+        "hex": "#F5EFE2",
+        "cmyk": "0 2 8 4"
+      }
+    ],
+    "gradient_file": "044-dune-linen/gradient.jpg",
+    "palette_file": "044-dune-linen/palette.jpg"
+  },
+  {
+    "index": 45,
+    "slug": "blush-cloud",
+    "name": "Blush Cloud",
+    "category": "abstract",
+    "caption": "The softest pink that still works. Blush Cloud —",
+    "colors": [
+      {
+        "name": "Deep Blush",
+        "hex": "#8A6470",
+        "cmyk": "0 28 19 46"
+      },
+      {
+        "name": "Blush Cloud",
+        "hex": "#CFA3AE",
+        "cmyk": "0 21 16 19"
+      },
+      {
+        "name": "Blush White",
+        "hex": "#F8EDF0",
+        "cmyk": "0 4 3 3"
+      }
+    ],
+    "gradient_file": "045-blush-cloud/gradient.jpg",
+    "palette_file": "045-blush-cloud/palette.jpg"
+  },
+  {
+    "index": 46,
+    "slug": "fog-pine",
+    "name": "Fog Pine",
+    "category": "nature",
+    "caption": "Pine seen through morning fog. Fog Pine —",
+    "colors": [
+      {
+        "name": "Fog Pine",
+        "hex": "#46564F",
+        "cmyk": "19 0 8 66"
+      },
+      {
+        "name": "Pine Grey",
+        "hex": "#8CA096",
+        "cmyk": "12 0 6 37"
+      },
+      {
+        "name": "Pine Mist",
+        "hex": "#E9EFEB",
+        "cmyk": "3 0 2 6"
+      }
+    ],
+    "gradient_file": "046-fog-pine/gradient.jpg",
+    "palette_file": "046-fog-pine/palette.jpg"
+  },
+  {
+    "index": 47,
+    "slug": "almond-shade",
+    "name": "Almond Shade",
+    "category": "nature",
+    "caption": "Warm brown with nowhere to hide. Almond Shade —",
+    "colors": [
+      {
+        "name": "Deep Almond",
+        "hex": "#6F5B47",
+        "cmyk": "0 18 36 56"
+      },
+      {
+        "name": "Almond",
+        "hex": "#BAA184",
+        "cmyk": "0 13 29 27"
+      },
+      {
+        "name": "Almond Cream",
+        "hex": "#F4ECE0",
+        "cmyk": "0 3 8 4"
+      }
+    ],
+    "gradient_file": "047-almond-shade/gradient.jpg",
+    "palette_file": "047-almond-shade/palette.jpg"
+  },
+  {
+    "index": 48,
+    "slug": "periwinkle-dust",
+    "name": "Periwinkle Dust",
+    "category": "abstract",
+    "caption": "Blue-purple, dusted flat. Periwinkle Dust —",
+    "colors": [
+      {
+        "name": "Deep Periwinkle",
+        "hex": "#5D648C",
+        "cmyk": "34 29 0 45"
+      },
+      {
+        "name": "Periwinkle",
+        "hex": "#A0A6C8",
+        "cmyk": "20 17 0 22"
+      },
+      {
+        "name": "Periwinkle Wash",
+        "hex": "#EEEFF7",
+        "cmyk": "4 3 0 3"
+      }
+    ],
+    "gradient_file": "048-periwinkle-dust/gradient.jpg",
+    "palette_file": "048-periwinkle-dust/palette.jpg"
+  },
+  {
+    "index": 49,
+    "slug": "clay-mist",
+    "name": "Clay Mist",
+    "category": "nature",
+    "caption": "Earth tones at low volume. Clay Mist —",
+    "colors": [
+      {
+        "name": "Clay Brown",
+        "hex": "#7C6157",
+        "cmyk": "0 22 30 51"
+      },
+      {
+        "name": "Clay Mist",
+        "hex": "#BFA096",
+        "cmyk": "0 16 21 25"
+      },
+      {
+        "name": "Clay Paper",
+        "hex": "#F4EBE6",
+        "cmyk": "0 4 6 4"
+      }
+    ],
+    "gradient_file": "049-clay-mist/gradient.jpg",
+    "palette_file": "049-clay-mist/palette.jpg"
+  },
+  {
+    "index": 50,
+    "slug": "moss-paper",
+    "name": "Moss Paper",
+    "category": "nature",
+    "caption": "Moss dried and pressed. Moss Paper —",
+    "colors": [
+      {
+        "name": "Deep Moss",
+        "hex": "#55603F",
+        "cmyk": "11 0 34 62"
+      },
+      {
+        "name": "Moss Paper",
+        "hex": "#9AA47A",
+        "cmyk": "6 0 26 36"
+      },
+      {
+        "name": "Moss Cream",
+        "hex": "#F0F1E2",
+        "cmyk": "0 0 6 5"
+      }
+    ],
+    "gradient_file": "050-moss-paper/gradient.jpg",
+    "palette_file": "050-moss-paper/palette.jpg"
+  },
+  {
+    "index": 51,
+    "slug": "neon-circuit",
+    "name": "Neon Circuit",
+    "category": "tech",
+    "caption": "Magenta that hurts, on purpose. Neon Circuit —",
+    "colors": [
+      {
+        "name": "Circuit Black",
+        "hex": "#06070D",
+        "cmyk": "54 46 0 95"
+      },
+      {
+        "name": "Neon Magenta",
+        "hex": "#C93FE8",
+        "cmyk": "13 73 0 9"
+      },
+      {
+        "name": "Magenta Vapor",
+        "hex": "#F0DEF7",
+        "cmyk": "3 10 0 3"
+      }
+    ],
+    "gradient_file": "051-neon-circuit/gradient.jpg",
+    "palette_file": "051-neon-circuit/palette.jpg"
+  },
+  {
+    "index": 52,
+    "slug": "terminal-green",
+    "name": "Terminal Green",
+    "category": "tech",
+    "caption": "The oldest interface color there is. Terminal Green —",
+    "colors": [
+      {
+        "name": "Terminal Black",
+        "hex": "#04120A",
+        "cmyk": "78 0 44 93"
+      },
+      {
+        "name": "Phosphor Green",
+        "hex": "#2BD46B",
+        "cmyk": "80 0 50 17"
+      },
+      {
+        "name": "Screen Glow",
+        "hex": "#DFF7E7",
+        "cmyk": "10 0 6 3"
+      }
+    ],
+    "gradient_file": "052-terminal-green/gradient.jpg",
+    "palette_file": "052-terminal-green/palette.jpg"
+  },
+  {
+    "index": 53,
+    "slug": "laser-magenta",
+    "name": "Laser Magenta",
+    "category": "tech",
+    "caption": "Full saturation, zero apology. Laser Magenta —",
+    "colors": [
+      {
+        "name": "Laser Black",
+        "hex": "#0B0510",
+        "cmyk": "31 69 0 94"
+      },
+      {
+        "name": "Laser Pink",
+        "hex": "#FF2E88",
+        "cmyk": "0 82 47 0"
+      },
+      {
+        "name": "Pink Vapor",
+        "hex": "#FFE0EE",
+        "cmyk": "0 12 7 0"
+      }
+    ],
+    "gradient_file": "053-laser-magenta/gradient.jpg",
+    "palette_file": "053-laser-magenta/palette.jpg"
+  },
+  {
+    "index": 54,
+    "slug": "volt-amber",
+    "name": "Volt Amber",
+    "category": "tech",
+    "caption": "Warning-light yellow on black. Volt Amber —",
+    "colors": [
+      {
+        "name": "Volt Black",
+        "hex": "#100C02",
+        "cmyk": "0 25 88 94"
+      },
+      {
+        "name": "Volt Amber",
+        "hex": "#FFB300",
+        "cmyk": "0 30 100 0"
+      },
+      {
+        "name": "Amber Glow",
+        "hex": "#FFF1CC",
+        "cmyk": "0 5 20 0"
+      }
+    ],
+    "gradient_file": "054-volt-amber/gradient.jpg",
+    "palette_file": "054-volt-amber/palette.jpg"
+  },
+  {
+    "index": 55,
+    "slug": "cyber-dusk",
+    "name": "Cyber Dusk",
+    "category": "tech",
+    "caption": "Violet at interface brightness. Cyber Dusk —",
+    "colors": [
+      {
+        "name": "Dusk Black",
+        "hex": "#0A0716",
+        "cmyk": "55 68 0 91"
+      },
+      {
+        "name": "Cyber Violet",
+        "hex": "#7B4BFF",
+        "cmyk": "52 71 0 0"
+      },
+      {
+        "name": "Violet Haze",
+        "hex": "#E4DBFF",
+        "cmyk": "11 14 0 0"
+      }
+    ],
+    "gradient_file": "055-cyber-dusk/gradient.jpg",
+    "palette_file": "055-cyber-dusk/palette.jpg"
+  },
+  {
+    "index": 56,
+    "slug": "plasma-core",
+    "name": "Plasma Core",
+    "category": "tech",
+    "caption": "Hot red-pink at the center. Plasma Core —",
+    "colors": [
+      {
+        "name": "Core Black",
+        "hex": "#12010A",
+        "cmyk": "0 94 44 93"
+      },
+      {
+        "name": "Plasma Red",
+        "hex": "#FF4D6D",
+        "cmyk": "0 70 57 0"
+      },
+      {
+        "name": "Plasma Mist",
+        "hex": "#FFE1E6",
+        "cmyk": "0 12 10 0"
+      }
+    ],
+    "gradient_file": "056-plasma-core/gradient.jpg",
+    "palette_file": "056-plasma-core/palette.jpg"
+  },
+  {
+    "index": 57,
+    "slug": "quantum-teal",
+    "name": "Quantum Teal",
+    "category": "tech",
+    "caption": "Cyan pushed to its limit. Quantum Teal —",
+    "colors": [
+      {
+        "name": "Quantum Black",
+        "hex": "#001416",
+        "cmyk": "100 9 0 91"
+      },
+      {
+        "name": "Quantum Teal",
+        "hex": "#00E5D0",
+        "cmyk": "100 0 9 10"
+      },
+      {
+        "name": "Teal Vapor",
+        "hex": "#D9FBF7",
+        "cmyk": "14 0 2 2"
+      }
+    ],
+    "gradient_file": "057-quantum-teal/gradient.jpg",
+    "palette_file": "057-quantum-teal/palette.jpg"
+  },
+  {
+    "index": 58,
+    "slug": "pixel-noir",
+    "name": "Pixel Noir",
+    "category": "tech",
+    "caption": "Dark UI grey-blue, done right. Pixel Noir —",
+    "colors": [
+      {
+        "name": "Pixel Black",
+        "hex": "#0C0E12",
+        "cmyk": "33 22 0 93"
+      },
+      {
+        "name": "Muted Indigo",
+        "hex": "#4A5A78",
+        "cmyk": "38 25 0 53"
+      },
+      {
+        "name": "Pixel Grey",
+        "hex": "#C6CEDC",
+        "cmyk": "10 6 0 14"
+      }
+    ],
+    "gradient_file": "058-pixel-noir/gradient.jpg",
+    "palette_file": "058-pixel-noir/palette.jpg"
+  },
+  {
+    "index": 59,
+    "slug": "hologram-ice",
+    "name": "Hologram Ice",
+    "category": "tech",
+    "caption": "Blue light on cold glass. Hologram Ice —",
+    "colors": [
+      {
+        "name": "Holo Black",
+        "hex": "#071018",
+        "cmyk": "71 33 0 91"
+      },
+      {
+        "name": "Hologram Blue",
+        "hex": "#58C5F0",
+        "cmyk": "63 18 0 6"
+      },
+      {
+        "name": "Ice Glow",
+        "hex": "#DFF3FC",
+        "cmyk": "12 4 0 1"
+      }
+    ],
+    "gradient_file": "059-hologram-ice/gradient.jpg",
+    "palette_file": "059-hologram-ice/palette.jpg"
+  },
+  {
+    "index": 60,
+    "slug": "kernel-panic",
+    "name": "Kernel Panic",
+    "category": "tech",
+    "caption": "Alert red, nothing subtle. Kernel Panic —",
+    "colors": [
+      {
+        "name": "Panic Black",
+        "hex": "#150204",
+        "cmyk": "0 90 81 92"
+      },
+      {
+        "name": "Alert Red",
+        "hex": "#E5231F",
+        "cmyk": "0 85 86 10"
+      },
+      {
+        "name": "Red Wash",
+        "hex": "#FADCDA",
+        "cmyk": "0 12 13 2"
+      }
+    ],
+    "gradient_file": "060-kernel-panic/gradient.jpg",
+    "palette_file": "060-kernel-panic/palette.jpg"
+  },
+  {
+    "index": 61,
+    "slug": "synth-violet",
+    "name": "Synth Violet",
+    "category": "tech",
+    "caption": "Synthesizer purple, glowing. Synth Violet —",
+    "colors": [
+      {
+        "name": "Synth Black",
+        "hex": "#0D0618",
+        "cmyk": "46 75 0 91"
+      },
+      {
+        "name": "Synth Violet",
+        "hex": "#A855F7",
+        "cmyk": "32 66 0 3"
+      },
+      {
+        "name": "Violet Vapor",
+        "hex": "#EEDDFD",
+        "cmyk": "6 13 0 1"
+      }
+    ],
+    "gradient_file": "061-synth-violet/gradient.jpg",
+    "palette_file": "061-synth-violet/palette.jpg"
+  },
+  {
+    "index": 62,
+    "slug": "reactor-lime",
+    "name": "Reactor Lime",
+    "category": "tech",
+    "caption": "Green with too much energy. Reactor Lime —",
+    "colors": [
+      {
+        "name": "Reactor Black",
+        "hex": "#0B1002",
+        "cmyk": "31 0 88 94"
+      },
+      {
+        "name": "Reactor Lime",
+        "hex": "#A3E635",
+        "cmyk": "29 0 77 10"
+      },
+      {
+        "name": "Lime Glow",
+        "hex": "#EDF9D5",
+        "cmyk": "5 0 14 2"
+      }
+    ],
+    "gradient_file": "062-reactor-lime/gradient.jpg",
+    "palette_file": "062-reactor-lime/palette.jpg"
+  },
+  {
+    "index": 63,
+    "slug": "deep-sapphire",
+    "name": "Deep Sapphire",
+    "category": "abstract",
+    "caption": "Jewel blue against true dark. Deep Sapphire —",
+    "colors": [
+      {
+        "name": "Sapphire Night",
+        "hex": "#030A22",
+        "cmyk": "91 71 0 87"
+      },
+      {
+        "name": "Sapphire",
+        "hex": "#1E48D6",
+        "cmyk": "86 66 0 16"
+      },
+      {
+        "name": "Sapphire Frost",
+        "hex": "#D4DDF7",
+        "cmyk": "14 11 0 3"
+      }
+    ],
+    "gradient_file": "063-deep-sapphire/gradient.jpg",
+    "palette_file": "063-deep-sapphire/palette.jpg"
+  },
+  {
+    "index": 64,
+    "slug": "ruby-vault",
+    "name": "Ruby Vault",
+    "category": "abstract",
+    "caption": "Red as a precious stone. Ruby Vault —",
+    "colors": [
+      {
+        "name": "Vault Black",
+        "hex": "#16040A",
+        "cmyk": "0 82 55 91"
+      },
+      {
+        "name": "Ruby",
+        "hex": "#C1123F",
+        "cmyk": "0 91 67 24"
+      },
+      {
+        "name": "Ruby Dust",
+        "hex": "#F4D6DE",
+        "cmyk": "0 12 9 4"
+      }
+    ],
+    "gradient_file": "064-ruby-vault/gradient.jpg",
+    "palette_file": "064-ruby-vault/palette.jpg"
+  },
+  {
+    "index": 65,
+    "slug": "emerald-vault",
+    "name": "Emerald Vault",
+    "category": "abstract",
+    "caption": "Green with real depth to it. Emerald Vault —",
+    "colors": [
+      {
+        "name": "Vault Green",
+        "hex": "#041410",
+        "cmyk": "80 0 20 92"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#0F9D63",
+        "cmyk": "90 0 37 38"
+      },
+      {
+        "name": "Emerald Frost",
+        "hex": "#D5F0E4",
+        "cmyk": "11 0 5 6"
+      }
+    ],
+    "gradient_file": "065-emerald-vault/gradient.jpg",
+    "palette_file": "065-emerald-vault/palette.jpg"
+  },
+  {
+    "index": 66,
+    "slug": "amethyst-vault",
+    "name": "Amethyst Vault",
+    "category": "abstract",
+    "caption": "Purple cut like a gem. Amethyst Vault —",
+    "colors": [
+      {
+        "name": "Vault Violet",
+        "hex": "#100620",
+        "cmyk": "50 81 0 87"
+      },
+      {
+        "name": "Amethyst",
+        "hex": "#8B34D6",
+        "cmyk": "35 76 0 16"
+      },
+      {
+        "name": "Amethyst Dust",
+        "hex": "#E5D6F5",
+        "cmyk": "7 13 0 4"
+      }
+    ],
+    "gradient_file": "066-amethyst-vault/gradient.jpg",
+    "palette_file": "066-amethyst-vault/palette.jpg"
+  },
+  {
+    "index": 67,
+    "slug": "topaz-vault",
+    "name": "Topaz Vault",
+    "category": "abstract",
+    "caption": "Gold with weight behind it. Topaz Vault —",
+    "colors": [
+      {
+        "name": "Vault Brown",
+        "hex": "#1A1204",
+        "cmyk": "0 31 85 90"
+      },
+      {
+        "name": "Topaz",
+        "hex": "#D9A017",
+        "cmyk": "0 26 89 15"
+      },
+      {
+        "name": "Topaz Cream",
+        "hex": "#F7EBCB",
+        "cmyk": "0 5 18 3"
+      }
+    ],
+    "gradient_file": "067-topaz-vault/gradient.jpg",
+    "palette_file": "067-topaz-vault/palette.jpg"
+  },
+  {
+    "index": 68,
+    "slug": "onyx-chrome",
+    "name": "Onyx Chrome",
+    "category": "tech",
+    "caption": "Pure neutral, maximum contrast. Onyx Chrome —",
+    "colors": [
+      {
+        "name": "Onyx",
+        "hex": "#0A0A0B",
+        "cmyk": "9 9 0 96"
+      },
+      {
+        "name": "Chrome Grey",
+        "hex": "#6E7378",
+        "cmyk": "8 4 0 53"
+      },
+      {
+        "name": "Chrome White",
+        "hex": "#DDDEE0",
+        "cmyk": "1 1 0 12"
+      }
+    ],
+    "gradient_file": "068-onyx-chrome/gradient.jpg",
+    "palette_file": "068-onyx-chrome/palette.jpg"
+  },
+  {
+    "index": 69,
+    "slug": "signal-orange",
+    "name": "Signal Orange",
+    "category": "tech",
+    "caption": "Safety orange as an accent. Signal Orange —",
+    "colors": [
+      {
+        "name": "Signal Black",
+        "hex": "#120A04",
+        "cmyk": "0 44 78 93"
+      },
+      {
+        "name": "Signal Orange",
+        "hex": "#FF6A1F",
+        "cmyk": "0 58 88 0"
+      },
+      {
+        "name": "Orange Wash",
+        "hex": "#FFE3D0",
+        "cmyk": "0 11 18 0"
+      }
+    ],
+    "gradient_file": "069-signal-orange/gradient.jpg",
+    "palette_file": "069-signal-orange/palette.jpg"
+  },
+  {
+    "index": 70,
+    "slug": "ice-cyan",
+    "name": "Ice Cyan",
+    "category": "tech",
+    "caption": "Cyan cold enough to sting. Ice Cyan —",
+    "colors": [
+      {
+        "name": "Ice Black",
+        "hex": "#04121A",
+        "cmyk": "85 31 0 90"
+      },
+      {
+        "name": "Ice Cyan",
+        "hex": "#22C3E6",
+        "cmyk": "85 15 0 10"
+      },
+      {
+        "name": "Cyan Frost",
+        "hex": "#D6F4FC",
+        "cmyk": "15 3 0 1"
+      }
+    ],
+    "gradient_file": "070-ice-cyan/gradient.jpg",
+    "palette_file": "070-ice-cyan/palette.jpg"
+  },
+  {
+    "index": 71,
+    "slug": "blood-orange",
+    "name": "Blood Orange",
+    "category": "nature",
+    "caption": "Red-orange with the pith. Blood Orange —",
+    "colors": [
+      {
+        "name": "Peel Black",
+        "hex": "#1A0803",
+        "cmyk": "0 69 88 90"
+      },
+      {
+        "name": "Blood Orange",
+        "hex": "#E04B16",
+        "cmyk": "0 67 90 12"
+      },
+      {
+        "name": "Pith Cream",
+        "hex": "#FBDCCD",
+        "cmyk": "0 12 18 2"
+      }
+    ],
+    "gradient_file": "071-blood-orange/gradient.jpg",
+    "palette_file": "071-blood-orange/palette.jpg"
+  },
+  {
+    "index": 72,
+    "slug": "electric-indigo",
+    "name": "Electric Indigo",
+    "category": "tech",
+    "caption": "Indigo with current running through. Electric Indigo —",
+    "colors": [
+      {
+        "name": "Indigo Night",
+        "hex": "#08061A",
+        "cmyk": "69 77 0 90"
+      },
+      {
+        "name": "Electric Indigo",
+        "hex": "#4338CA",
+        "cmyk": "67 72 0 21"
+      },
+      {
+        "name": "Indigo Frost",
+        "hex": "#DCDAF6",
+        "cmyk": "11 11 0 4"
+      }
+    ],
+    "gradient_file": "072-electric-indigo/gradient.jpg",
+    "palette_file": "072-electric-indigo/palette.jpg"
+  },
+  {
+    "index": 73,
+    "slug": "acid-yellow",
+    "name": "Acid Yellow",
+    "category": "tech",
+    "caption": "Yellow-green at full volume. Acid Yellow —",
+    "colors": [
+      {
+        "name": "Acid Black",
+        "hex": "#121200",
+        "cmyk": "0 0 100 93"
+      },
+      {
+        "name": "Acid Yellow",
+        "hex": "#E8F02A",
+        "cmyk": "3 0 82 6"
+      },
+      {
+        "name": "Acid Wash",
+        "hex": "#FAFCD2",
+        "cmyk": "1 0 17 1"
+      }
+    ],
+    "gradient_file": "073-acid-yellow/gradient.jpg",
+    "palette_file": "073-acid-yellow/palette.jpg"
+  },
+  {
+    "index": 74,
+    "slug": "hot-coral",
+    "name": "Hot Coral",
+    "category": "abstract",
+    "caption": "Coral turned all the way up. Hot Coral —",
+    "colors": [
+      {
+        "name": "Coral Dark",
+        "hex": "#1A0708",
+        "cmyk": "0 73 69 90"
+      },
+      {
+        "name": "Hot Coral",
+        "hex": "#FF5A5F",
+        "cmyk": "0 65 63 0"
+      },
+      {
+        "name": "Coral Mist",
+        "hex": "#FFE0E1",
+        "cmyk": "0 12 12 0"
+      }
+    ],
+    "gradient_file": "074-hot-coral/gradient.jpg",
+    "palette_file": "074-hot-coral/palette.jpg"
+  },
+  {
+    "index": 75,
+    "slug": "deep-jade",
+    "name": "Deep Jade",
+    "category": "nature",
+    "caption": "Jade with water behind it. Deep Jade —",
+    "colors": [
+      {
+        "name": "Jade Night",
+        "hex": "#021512",
+        "cmyk": "90 0 14 92"
+      },
+      {
+        "name": "Deep Jade",
+        "hex": "#0FA88C",
+        "cmyk": "91 0 17 34"
+      },
+      {
+        "name": "Jade Frost",
+        "hex": "#D3F1EA",
+        "cmyk": "12 0 3 5"
+      }
+    ],
+    "gradient_file": "075-deep-jade/gradient.jpg",
+    "palette_file": "075-deep-jade/palette.jpg"
+  },
+  {
+    "index": 76,
+    "slug": "sunset-savanna",
+    "name": "Sunset Savanna",
+    "category": "nature",
+    "caption": "Purple night, orange sun, gold grass. Sunset Savanna —",
+    "colors": [
+      {
+        "name": "Dusk Purple",
+        "hex": "#2B1A2E",
+        "cmyk": "7 43 0 82"
+      },
+      {
+        "name": "Sun Orange",
+        "hex": "#E0703C",
+        "cmyk": "0 50 73 12"
+      },
+      {
+        "name": "Dry Grass",
+        "hex": "#F3D9A8",
+        "cmyk": "0 11 31 5"
+      }
+    ],
+    "gradient_file": "076-sunset-savanna/gradient.jpg",
+    "palette_file": "076-sunset-savanna/palette.jpg"
+  },
+  {
+    "index": 77,
+    "slug": "storm-and-wheat",
+    "name": "Storm & Wheat",
+    "category": "nature",
+    "caption": "Cold sky over a warm field. Storm & Wheat —",
+    "colors": [
+      {
+        "name": "Storm Slate",
+        "hex": "#232A33",
+        "cmyk": "31 18 0 80"
+      },
+      {
+        "name": "Cloud Grey",
+        "hex": "#6E7C8C",
+        "cmyk": "21 11 0 45"
+      },
+      {
+        "name": "Wheat",
+        "hex": "#E4CE96",
+        "cmyk": "0 10 34 11"
+      }
+    ],
+    "gradient_file": "077-storm-and-wheat/gradient.jpg",
+    "palette_file": "077-storm-and-wheat/palette.jpg"
+  },
+  {
+    "index": 78,
+    "slug": "forest-fire",
+    "name": "Forest Fire",
+    "category": "nature",
+    "caption": "Green, flame, ash. Forest Fire —",
+    "colors": [
+      {
+        "name": "Deep Forest",
+        "hex": "#12210F",
+        "cmyk": "45 0 55 87"
+      },
+      {
+        "name": "Fire Orange",
+        "hex": "#C4471F",
+        "cmyk": "0 64 84 23"
+      },
+      {
+        "name": "Ash Cream",
+        "hex": "#E9DEC2",
+        "cmyk": "0 5 17 9"
+      }
+    ],
+    "gradient_file": "078-forest-fire/gradient.jpg",
+    "palette_file": "078-forest-fire/palette.jpg"
+  },
+  {
+    "index": 79,
+    "slug": "ocean-rust",
+    "name": "Ocean Rust",
+    "category": "nature",
+    "caption": "Salt water meets old iron. Ocean Rust —",
+    "colors": [
+      {
+        "name": "Deep Ocean",
+        "hex": "#0B2733",
+        "cmyk": "78 24 0 80"
+      },
+      {
+        "name": "Iron Rust",
+        "hex": "#B7643A",
+        "cmyk": "0 45 68 28"
+      },
+      {
+        "name": "Salt White",
+        "hex": "#DCE7E5",
+        "cmyk": "5 0 1 9"
+      }
+    ],
+    "gradient_file": "079-ocean-rust/gradient.jpg",
+    "palette_file": "079-ocean-rust/palette.jpg"
+  },
+  {
+    "index": 80,
+    "slug": "violet-sand",
+    "name": "Violet Sand",
+    "category": "abstract",
+    "caption": "Cool purple over warm sand. Violet Sand —",
+    "colors": [
+      {
+        "name": "Night Violet",
+        "hex": "#241633",
+        "cmyk": "29 57 0 80"
+      },
+      {
+        "name": "Soft Violet",
+        "hex": "#9A6BB5",
+        "cmyk": "15 41 0 29"
+      },
+      {
+        "name": "Warm Sand",
+        "hex": "#E8D9B8",
+        "cmyk": "0 6 21 9"
+      }
+    ],
+    "gradient_file": "080-violet-sand/gradient.jpg",
+    "palette_file": "080-violet-sand/palette.jpg"
+  },
+  {
+    "index": 81,
+    "slug": "teal-and-clay",
+    "name": "Teal & Clay",
+    "category": "nature",
+    "caption": "Complementary, but quiet about it. Teal & Clay —",
+    "colors": [
+      {
+        "name": "Deep Teal",
+        "hex": "#10302F",
+        "cmyk": "67 0 2 81"
+      },
+      {
+        "name": "Warm Clay",
+        "hex": "#C08066",
+        "cmyk": "0 33 47 25"
+      },
+      {
+        "name": "Bone Grey",
+        "hex": "#EAE3D6",
+        "cmyk": "0 3 9 8"
+      }
+    ],
+    "gradient_file": "081-teal-and-clay/gradient.jpg",
+    "palette_file": "081-teal-and-clay/palette.jpg"
+  },
+  {
+    "index": 82,
+    "slug": "midnight-marigold",
+    "name": "Midnight Marigold",
+    "category": "abstract",
+    "caption": "One gold light in a blue room. Midnight Marigold —",
+    "colors": [
+      {
+        "name": "Midnight Blue",
+        "hex": "#0B1024",
+        "cmyk": "69 56 0 86"
+      },
+      {
+        "name": "Marigold",
+        "hex": "#E8B23A",
+        "cmyk": "0 23 75 9"
+      },
+      {
+        "name": "Warm Grey",
+        "hex": "#E7E3D6",
+        "cmyk": "0 2 7 9"
+      }
+    ],
+    "gradient_file": "082-midnight-marigold/gradient.jpg",
+    "palette_file": "082-midnight-marigold/palette.jpg"
+  },
+  {
+    "index": 83,
+    "slug": "plum-and-pistachio",
+    "name": "Plum & Pistachio",
+    "category": "abstract",
+    "caption": "An unexpected pairing that works. Plum & Pistachio —",
+    "colors": [
+      {
+        "name": "Dark Plum",
+        "hex": "#22132A",
+        "cmyk": "19 55 0 84"
+      },
+      {
+        "name": "Plum",
+        "hex": "#7B4C86",
+        "cmyk": "8 43 0 47"
+      },
+      {
+        "name": "Pistachio",
+        "hex": "#D8E3B4",
+        "cmyk": "5 0 21 11"
+      }
+    ],
+    "gradient_file": "083-plum-and-pistachio/gradient.jpg",
+    "palette_file": "083-plum-and-pistachio/palette.jpg"
+  },
+  {
+    "index": 84,
+    "slug": "rose-and-slate",
+    "name": "Rose & Slate",
+    "category": "abstract",
+    "caption": "Warm pink held by cool grey. Rose & Slate —",
+    "colors": [
+      {
+        "name": "Cool Slate",
+        "hex": "#2C2F3A",
+        "cmyk": "24 19 0 77"
+      },
+      {
+        "name": "Deep Rose",
+        "hex": "#C1697C",
+        "cmyk": "0 46 36 24"
+      },
+      {
+        "name": "Pale Grey",
+        "hex": "#E8E6E2",
+        "cmyk": "0 1 3 9"
+      }
+    ],
+    "gradient_file": "084-rose-and-slate/gradient.jpg",
+    "palette_file": "084-rose-and-slate/palette.jpg"
+  },
+  {
+    "index": 85,
+    "slug": "cobalt-and-sand",
+    "name": "Cobalt & Sand",
+    "category": "abstract",
+    "caption": "Blue and beige, no middle ground. Cobalt & Sand —",
+    "colors": [
+      {
+        "name": "Navy Deep",
+        "hex": "#0C1A3A",
+        "cmyk": "79 55 0 77"
+      },
+      {
+        "name": "Cobalt",
+        "hex": "#2F5FC0",
+        "cmyk": "76 51 0 25"
+      },
+      {
+        "name": "Sand",
+        "hex": "#E5D6B8",
+        "cmyk": "0 7 20 10"
+      }
+    ],
+    "gradient_file": "085-cobalt-and-sand/gradient.jpg",
+    "palette_file": "085-cobalt-and-sand/palette.jpg"
+  },
+  {
+    "index": 86,
+    "slug": "lime-ink",
+    "name": "Lime Ink",
+    "category": "nature",
+    "caption": "Green with a yellow spine. Lime Ink —",
+    "colors": [
+      {
+        "name": "Ink Green",
+        "hex": "#10160A",
+        "cmyk": "27 0 55 91"
+      },
+      {
+        "name": "Lime Leaf",
+        "hex": "#86A82E",
+        "cmyk": "20 0 73 34"
+      },
+      {
+        "name": "Lime Cream",
+        "hex": "#E3E9CE",
+        "cmyk": "3 0 12 9"
+      }
+    ],
+    "gradient_file": "086-lime-ink/gradient.jpg",
+    "palette_file": "086-lime-ink/palette.jpg"
+  },
+  {
+    "index": 87,
+    "slug": "coral-reef",
+    "name": "Coral Reef",
+    "category": "nature",
+    "caption": "Warm coral on cold water. Coral Reef —",
+    "colors": [
+      {
+        "name": "Reef Deep",
+        "hex": "#0E2A38",
+        "cmyk": "75 25 0 78"
+      },
+      {
+        "name": "Live Coral",
+        "hex": "#F0705A",
+        "cmyk": "0 53 62 6"
+      },
+      {
+        "name": "Shell Sand",
+        "hex": "#EAD9C6",
+        "cmyk": "0 7 15 8"
+      }
+    ],
+    "gradient_file": "087-coral-reef/gradient.jpg",
+    "palette_file": "087-coral-reef/palette.jpg"
+  },
+  {
+    "index": 88,
+    "slug": "berry-field",
+    "name": "Berry Field",
+    "category": "nature",
+    "caption": "Berry pink against dry cream. Berry Field —",
+    "colors": [
+      {
+        "name": "Berry Dark",
+        "hex": "#1E0F22",
+        "cmyk": "12 56 0 87"
+      },
+      {
+        "name": "Berry Pink",
+        "hex": "#A63A6B",
+        "cmyk": "0 65 36 35"
+      },
+      {
+        "name": "Field Cream",
+        "hex": "#E4D9B8",
+        "cmyk": "0 5 19 11"
+      }
+    ],
+    "gradient_file": "088-berry-field/gradient.jpg",
+    "palette_file": "088-berry-field/palette.jpg"
+  },
+  {
+    "index": 89,
+    "slug": "mustard-fog",
+    "name": "Mustard Fog",
+    "category": "abstract",
+    "caption": "Mustard, muffled by grey. Mustard Fog —",
+    "colors": [
+      {
+        "name": "Olive Fog",
+        "hex": "#2A2A22",
+        "cmyk": "0 0 19 84"
+      },
+      {
+        "name": "Mustard",
+        "hex": "#C9A227",
+        "cmyk": "0 19 81 21"
+      },
+      {
+        "name": "Fog Cream",
+        "hex": "#E8E6DC",
+        "cmyk": "0 1 5 9"
+      }
+    ],
+    "gradient_file": "089-mustard-fog/gradient.jpg",
+    "palette_file": "089-mustard-fog/palette.jpg"
+  },
+  {
+    "index": 90,
+    "slug": "arctic-ember",
+    "name": "Arctic Ember",
+    "category": "nature",
+    "caption": "One warm point in cold blue. Arctic Ember —",
+    "colors": [
+      {
+        "name": "Arctic Deep",
+        "hex": "#0F1E2A",
+        "cmyk": "64 29 0 84"
+      },
+      {
+        "name": "Ember Coral",
+        "hex": "#D96C4A",
+        "cmyk": "0 50 66 15"
+      },
+      {
+        "name": "Arctic Pale",
+        "hex": "#DCE9EF",
+        "cmyk": "8 3 0 6"
+      }
+    ],
+    "gradient_file": "090-arctic-ember/gradient.jpg",
+    "palette_file": "090-arctic-ember/palette.jpg"
+  },
+  {
+    "index": 91,
+    "slug": "verdigris-and-rust",
+    "name": "Verdigris & Rust",
+    "category": "abstract",
+    "caption": "Two ways metal ages. Verdigris & Rust —",
+    "colors": [
+      {
+        "name": "Verdigris Deep",
+        "hex": "#10241F",
+        "cmyk": "56 0 14 86"
+      },
+      {
+        "name": "Rust",
+        "hex": "#A85434",
+        "cmyk": "0 50 69 34"
+      },
+      {
+        "name": "Patina Pale",
+        "hex": "#DCE6DE",
+        "cmyk": "4 0 3 10"
+      }
+    ],
+    "gradient_file": "091-verdigris-and-rust/gradient.jpg",
+    "palette_file": "091-verdigris-and-rust/palette.jpg"
+  },
+  {
+    "index": 92,
+    "slug": "ultramarine-peach",
+    "name": "Ultramarine Peach",
+    "category": "abstract",
+    "caption": "Hard blue, soft peach. Ultramarine Peach —",
+    "colors": [
+      {
+        "name": "Ultramarine Night",
+        "hex": "#0A1230",
+        "cmyk": "79 63 0 81"
+      },
+      {
+        "name": "Ultramarine",
+        "hex": "#2A4BB8",
+        "cmyk": "77 59 0 28"
+      },
+      {
+        "name": "Peach",
+        "hex": "#F2CDB0",
+        "cmyk": "0 15 27 5"
+      }
+    ],
+    "gradient_file": "092-ultramarine-peach/gradient.jpg",
+    "palette_file": "092-ultramarine-peach/palette.jpg"
+  },
+  {
+    "index": 93,
+    "slug": "moss-and-magenta",
+    "name": "Moss & Magenta",
+    "category": "abstract",
+    "caption": "A collision that somehow balances. Moss & Magenta —",
+    "colors": [
+      {
+        "name": "Deep Moss",
+        "hex": "#16200F",
+        "cmyk": "31 0 53 87"
+      },
+      {
+        "name": "Magenta",
+        "hex": "#C43C82",
+        "cmyk": "0 69 34 23"
+      },
+      {
+        "name": "Pale Moss",
+        "hex": "#E3E8D2",
+        "cmyk": "2 0 9 9"
+      }
+    ],
+    "gradient_file": "093-moss-and-magenta/gradient.jpg",
+    "palette_file": "093-moss-and-magenta/palette.jpg"
+  },
+  {
+    "index": 94,
+    "slug": "charcoal-marine",
+    "name": "Charcoal Marine",
+    "category": "tech",
+    "caption": "Neutral dark with one marine tone. Charcoal Marine —",
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#1A1D1E",
+        "cmyk": "13 3 0 88"
+      },
+      {
+        "name": "Marine Teal",
+        "hex": "#2E7C8A",
+        "cmyk": "67 10 0 46"
+      },
+      {
+        "name": "Pale Grey",
+        "hex": "#E0E5E4",
+        "cmyk": "2 0 0 10"
+      }
+    ],
+    "gradient_file": "094-charcoal-marine/gradient.jpg",
+    "palette_file": "094-charcoal-marine/palette.jpg"
+  },
+  {
+    "index": 95,
+    "slug": "bronze-night",
+    "name": "Bronze Night",
+    "category": "abstract",
+    "caption": "Metal in low light. Bronze Night —",
+    "colors": [
+      {
+        "name": "Bronze Night",
+        "hex": "#14100A",
+        "cmyk": "0 20 50 92"
+      },
+      {
+        "name": "Bronze",
+        "hex": "#9C7440",
+        "cmyk": "0 26 59 39"
+      },
+      {
+        "name": "Bronze Cream",
+        "hex": "#E6DCC8",
+        "cmyk": "0 4 13 10"
+      }
+    ],
+    "gradient_file": "095-bronze-night/gradient.jpg",
+    "palette_file": "095-bronze-night/palette.jpg"
+  },
+  {
+    "index": 96,
+    "slug": "fig-and-cream",
+    "name": "Fig & Cream",
+    "category": "nature",
+    "caption": "Fig skin, fig flesh, cream. Fig & Cream —",
+    "colors": [
+      {
+        "name": "Fig Skin",
+        "hex": "#2A1520",
+        "cmyk": "0 50 24 84"
+      },
+      {
+        "name": "Fig Flesh",
+        "hex": "#7E4257",
+        "cmyk": "0 48 31 51"
+      },
+      {
+        "name": "Cream",
+        "hex": "#F0E4D8",
+        "cmyk": "0 5 10 6"
+      }
+    ],
+    "gradient_file": "096-fig-and-cream/gradient.jpg",
+    "palette_file": "096-fig-and-cream/palette.jpg"
+  },
+  {
+    "index": 97,
+    "slug": "petrol-and-gold",
+    "name": "Petrol & Gold",
+    "category": "abstract",
+    "caption": "Dark green-blue lit by gold. Petrol & Gold —",
+    "colors": [
+      {
+        "name": "Petrol",
+        "hex": "#08201F",
+        "cmyk": "75 0 3 87"
+      },
+      {
+        "name": "Antique Gold",
+        "hex": "#C69B3E",
+        "cmyk": "0 22 69 22"
+      },
+      {
+        "name": "Pale Mint",
+        "hex": "#E3E8E2",
+        "cmyk": "2 0 3 9"
+      }
+    ],
+    "gradient_file": "097-petrol-and-gold/gradient.jpg",
+    "palette_file": "097-petrol-and-gold/palette.jpg"
+  },
+  {
+    "index": 98,
+    "slug": "cranberry-ash",
+    "name": "Cranberry Ash",
+    "category": "nature",
+    "caption": "Deep red gone almost grey. Cranberry Ash —",
+    "colors": [
+      {
+        "name": "Cranberry Dark",
+        "hex": "#201014",
+        "cmyk": "0 50 38 87"
+      },
+      {
+        "name": "Cranberry",
+        "hex": "#A83247",
+        "cmyk": "0 70 58 34"
+      },
+      {
+        "name": "Ash Pink",
+        "hex": "#E3DCDA",
+        "cmyk": "0 3 4 11"
+      }
+    ],
+    "gradient_file": "098-cranberry-ash/gradient.jpg",
+    "palette_file": "098-cranberry-ash/palette.jpg"
+  },
+  {
+    "index": 99,
+    "slug": "pine-and-copper",
+    "name": "Pine & Copper",
+    "category": "nature",
+    "caption": "Forest green with a metal edge. Pine & Copper —",
+    "colors": [
+      {
+        "name": "Deep Pine",
+        "hex": "#0D1D18",
+        "cmyk": "55 0 17 89"
+      },
+      {
+        "name": "Copper",
+        "hex": "#B4703E",
+        "cmyk": "0 38 66 29"
+      },
+      {
+        "name": "Pine Pale",
+        "hex": "#E0E7DF",
+        "cmyk": "3 0 3 9"
+      }
+    ],
+    "gradient_file": "099-pine-and-copper/gradient.jpg",
+    "palette_file": "099-pine-and-copper/palette.jpg"
+  },
+  {
+    "index": 100,
+    "slug": "slate-and-saffron",
+    "name": "Slate & Saffron",
+    "category": "abstract",
+    "caption": "Grey doing the work, saffron doing the talking. Slate & Saffron —",
+    "colors": [
+      {
+        "name": "Slate",
+        "hex": "#232830",
+        "cmyk": "27 17 0 81"
+      },
+      {
+        "name": "Saffron",
+        "hex": "#E2A32C",
+        "cmyk": "0 28 81 11"
+      },
+      {
+        "name": "Slate Pale",
+        "hex": "#EBECEE",
+        "cmyk": "1 1 0 7"
+      }
+    ],
+    "gradient_file": "100-slate-and-saffron/gradient.jpg",
+    "palette_file": "100-slate-and-saffron/palette.jpg"
+  }
+]

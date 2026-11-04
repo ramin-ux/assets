@@ -1,4 +1,7 @@
-name: Guard against mass deletion
+name: Guard against media deletion
+# Buffer drafts link to files in this repo for years.
+# Any push that deletes a video/image gets those files restored automatically.
+# To delete on purpose, put [allow-delete] in the commit message.
 on:
   push:
     branches: [main]
@@ -10,19 +13,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
-      - name: Restore files if a push deleted many at once
+          fetch-depth: 0
+      - name: Restore deleted media
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
         run: |
-          git fetch --depth=2 origin main || true
-          PREV=$(git rev-parse HEAD~1 2>/dev/null || true)
-          [ -z "$PREV" ] && exit 0
-          DELETED=$(git diff --name-only --diff-filter=D "$PREV" HEAD)
-          COUNT=$(printf '%s\n' "$DELETED" | grep -c . || true)
-          echo "deleted: $COUNT"
-          if [ "$COUNT" -ge 10 ]; then
-            git config user.name "assets-guard"
-            git config user.email "assets-guard@users.noreply.github.com"
-            printf '%s\n' "$DELETED" | while read -r f; do git checkout "$PREV" -- "$f"; done
-            git commit -m "Restore $COUNT files deleted by $(git rev-parse --short HEAD) [guard]"
-            git push origin HEAD:main
-          fi
+          set -e
+          if git log --format=%B "$BEFORE..$AFTER" 2>/dev/null | grep -q '\[allow-delete\]'; then echo "deletion allowed"; exit 0; fi
+          if ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then BEFORE=$(git rev-parse "$AFTER~1"); fi
+          git diff --name-only -z --diff-filter=D "$BEFORE" "$AFTER" \
+            | grep -z -i -E '\.(mp4|mov|webm|png|jpe?g|webp|gif)$' > /tmp/deleted || true
+          COUNT=$(tr -cd '\0' < /tmp/deleted | wc -c)
+          echo "deleted media: $COUNT"
+          [ "$COUNT" -eq 0 ] && exit 0
+          git config user.name "assets-guard"
+          git config user.email "assets-guard@users.noreply.github.com"
+          xargs -0 -a /tmp/deleted git checkout "$BEFORE" --
+          git commit -m "Restore $COUNT deleted media files [guard]"
+          git push origin HEAD:main
